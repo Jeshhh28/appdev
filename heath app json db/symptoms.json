@@ -1,0 +1,282 @@
+{
+  "symp1": {
+    "patientId": "pat1",
+    "doctorId": "doc6",
+    "dateReported": "2025-05-28",
+    "symptoms": ["high cholesterol", "fatigue", "muscle pain"],
+    "severity": "moderate"
+  },
+  "symp2": {
+    "patientId": "pat2",
+    "doctorId": "doc2",
+    "dateReported": "2025-05-29",
+    "symptoms": ["frequent urination", "excessive thirst", "blurred vision"],
+    "severity": "severe"
+  },
+  "symp3": {
+    "patientId": "pat3",
+    "doctorId": "doc2",
+    "dateReported": "2025-05-30",
+    "symptoms": ["high blood pressure", "headache", "dizziness"],
+    "severity": "moderate"
+  },
+  "symp4": {
+    "patientId": "pat4",
+    "doctorId": "doc6",
+    "dateReported": "2025-06-01",
+    "symptoms": ["acid reflux", "heartburn", "nausea"],
+    "severity": "mild"
+  },
+  "symp5": {
+    "patientId": "pat5",
+    "doctorId": "doc3",
+    "dateReported": "2025-05-27",
+    "symptoms": ["high blood pressure", "fatigue", "chest discomfort"],
+    "severity": "moderate"
+  },
+  "symp6": {
+    "patientId": "pat6",
+    "doctorId": "doc3",
+    "dateReported": "2025-05-28",
+    "symptoms": ["hypertension", "dizziness", "shortness of breath"],
+    "severity": "moderate"
+  },
+  "symp7": {
+    "patientId": "pat7",
+    "doctorId": "doc1",
+    "dateReported": "2025-05-30",
+    "symptoms": ["hypothyroidism", "fatigue", "weight gain"],
+    "severity": "moderate"
+  },
+  "symp8": {
+    "patientId": "pat8",
+    "doctorId": "doc1",
+    "dateReported": "2025-05-25",
+    "symptoms": ["nerve pain", "burning sensation", "muscle weakness"],
+    "severity": "severe"
+  },
+  "symp9": {
+    "patientId": "pat9",
+    "doctorId": "doc5",
+    "dateReported": "2025-05-28",
+    "symptoms": ["type 1 diabetes", "frequent urination", "fatigue"],
+    "severity": "severe"
+  },
+  "symp10": {
+    "patientId": "pat10",
+    "doctorId": "doc3",
+    "dateReported": "2025-05-27",
+    "symptoms": ["bacterial infection", "fever", "body ache"],
+    "severity": "moderate"
+  },
+  "symp11": {
+    "patientId": "pat11",
+    "doctorId": "doc2",
+    "dateReported": "2025-05-29",
+    "symptoms": ["asthma", "shortness of breath", "wheezing"],
+    "severity": "moderate"
+  },
+  "symp12": {
+    "patientId": "pat12",
+    "doctorId": "doc3",
+    "dateReported": "2025-05-30",
+    "symptoms": ["respiratory infection", "cough", "fever"],
+    "severity": "moderate"
+  },
+  "symp13": {
+    "patientId": "pat13",
+    "doctorId": "doc4",
+    "dateReported": "2025-05-28",
+    "symptoms": ["joint pain", "swelling", "stiffness"],
+    "severity": "moderate"
+  },
+  "symp14": {
+    "patientId": "pat14",
+    "doctorId": "doc4",
+    "dateReported": "2025-05-29",
+    "symptoms": ["skin rash", "itching", "redness"],
+    "severity": "mild"
+  },
+  "symp15": {
+    "patientId": "pat15",
+    "doctorId": "doc5",
+    "dateReported": "2025-05-30",
+    "symptoms": ["migraine", "headache", "nausea"],
+    "severity": "severe"
+  },
+  "symp16": {
+    "patientId": "pat16",
+    "doctorId": "doc5",
+    "dateReported": "2025-05-31",
+    "symptoms": ["flu", "fever", "cough", "body ache"],
+    "severity": "moderate"
+  },
+  "symp17": {
+    "patientId": "pat17",
+    "doctorId": "doc6",
+    "dateReported": "2025-05-30",
+    "symptoms": ["allergic rhinitis", "sneezing", "runny nose"],
+    "severity": "mild"
+  },
+  "symp18": {
+    "patientId": "pat18",
+    "doctorId": "doc6",
+    "dateReported": "2025-05-31",
+    "symptoms": ["ear infection", "ear pain", "fever"],
+    "severity": "moderate"
+  },
+  "symp19": {
+    "patientId": "pat19",
+    "doctorId": "doc7",
+    "dateReported": "2025-05-29",
+    "symptoms": ["anemia", "fatigue", "pale skin"],
+    "severity": "moderate"
+  },
+  "symp20": {
+    "patientId": "pat20",
+    "doctorId": "doc7",
+    "dateReported": "2025-05-30",
+    "symptoms": ["depression", "low mood", "loss of appetite"],
+    "severity": "severe"
+  },
+  "symp21": {
+    "patientId": "pat21",
+    "doctorId": "doc8",
+    "dateReported": "2025-05-28",
+    "symptoms": ["insomnia", "fatigue", "headache"],
+    "severity": "mild"
+  },
+  "symp22": {
+    "patientId": "pat22",
+    "doctorId": "doc8",
+    "dateReported": "2025-05-29",
+    "symptoms": ["back pain", "muscle stiffness", "limited mobility"],
+    "severity": "moderate"
+  },
+  "symp23": {
+    "patientId": "pat23",
+    "doctorId": "doc9",
+    "dateReported": "2025-05-30",
+    "symptoms": ["urinary tract infection", "painful urination", "frequent urination"],
+    "severity": "moderate"
+  },
+  "symp24": {
+    "patientId": "pat24",
+    "doctorId": "doc9",
+    "dateReported": "2025-05-31",
+    "symptoms": ["constipation", "abdominal pain", "bloating"],
+    "severity": "mild"
+  },
+  "symp25": {
+    "patientId": "pat25",
+    "doctorId": "doc10",
+    "dateReported": "2025-06-01",
+    "symptoms": ["arthritis", "joint pain", "swelling"],
+    "severity": "moderate"
+  },
+  "symp26": {
+    "patientId": "pat26",
+    "doctorId": "doc10",
+    "dateReported": "2025-06-02",
+    "symptoms": ["anxiety", "restlessness", "palpitations"],
+    "severity": "moderate"
+  },
+  "symp27": {
+    "patientId": "pat27",
+    "doctorId": "doc1",
+    "dateReported": "2025-06-03",
+    "symptoms": ["eczema", "itching", "dry skin"],
+    "severity": "mild"
+  },
+  "symp28": {
+    "patientId": "pat28",
+    "doctorId": "doc2",
+    "dateReported": "2025-06-04",
+    "symptoms": ["bronchitis", "cough", "shortness of breath"],
+    "severity": "moderate"
+  },
+  "symp29": {
+    "patientId": "pat29",
+    "doctorId": "doc3",
+    "dateReported": "2025-06-05",
+    "symptoms": ["sinusitis", "headache", "nasal congestion"],
+    "severity": "mild"
+  },
+  "symp30": {
+    "patientId": "pat30",
+    "doctorId": "doc4",
+    "dateReported": "2025-06-06",
+    "symptoms": ["gastroenteritis", "diarrhea", "vomiting"],
+    "severity": "moderate"
+  },
+  "symp31": {
+    "patientId": "pat31",
+    "doctorId": "doc5",
+    "dateReported": "2025-06-07",
+    "symptoms": ["high blood sugar", "frequent urination", "fatigue"],
+    "severity": "severe"
+  },
+  "symp32": {
+    "patientId": "pat32",
+    "doctorId": "doc6",
+    "dateReported": "2025-06-08",
+    "symptoms": ["eczema", "skin rash", "itching"],
+    "severity": "mild"
+  },
+  "symp33": {
+    "patientId": "pat33",
+    "doctorId": "doc7",
+    "dateReported": "2025-06-09",
+    "symptoms": ["arthritis", "joint pain", "morning stiffness"],
+    "severity": "moderate"
+  },
+  "symp34": {
+    "patientId": "pat34",
+    "doctorId": "doc8",
+    "dateReported": "2025-06-10",
+    "symptoms": ["depression", "fatigue", "loss of interest"],
+    "severity": "severe"
+  },
+  "symp35": {
+    "patientId": "pat35",
+    "doctorId": "doc9",
+    "dateReported": "2025-06-11",
+    "symptoms": ["insomnia", "anxiety", "restlessness"],
+    "severity": "moderate"
+  },
+  "symp36": {
+    "patientId": "pat36",
+    "doctorId": "doc10",
+    "dateReported": "2025-06-12",
+    "symptoms": ["back pain", "muscle spasms", "limited mobility"],
+    "severity": "moderate"
+  },
+  "symp37": {
+    "patientId": "pat37",
+    "doctorId": "doc1",
+    "dateReported": "2025-06-13",
+    "symptoms": ["migraine", "headache", "nausea"],
+    "severity": "severe"
+  },
+  "symp38": {
+    "patientId": "pat38",
+    "doctorId": "doc2",
+    "dateReported": "2025-06-14",
+    "symptoms": ["flu", "fever", "chills"],
+    "severity": "moderate"
+  },
+  "symp39": {
+    "patientId": "pat39",
+    "doctorId": "doc3",
+    "dateReported": "2025-06-15",
+    "symptoms": ["acid reflux", "heartburn", "belching"],
+    "severity": "mild"
+  },
+  "symp40": {
+    "patientId": "pat40",
+    "doctorId": "doc4",
+    "dateReported": "2025-06-16",
+    "symptoms": ["allergic reaction", "skin rash", "swelling"],
+    "severity": "moderate"
+  }
+}
