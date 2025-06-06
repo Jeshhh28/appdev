@@ -1,0 +1,322 @@
+{
+  "recovery1": {
+    "title": "Cholesterol Control Plan",
+    "description": "Combines statin medication, low-carb diet, and light cardio to manage cholesterol levels.",
+    "assignedTo": ["pat1"],
+    "doctorId": "doc6",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery2": {
+    "title": "Diabetes Management",
+    "description": "Includes Metformin, high-protein diet, and yoga to stabilize blood sugar.",
+    "assignedTo": ["pat2"],
+    "doctorId": "doc2",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-16"
+  },
+  "recovery3": {
+    "title": "Hypertension Reduction",
+    "description": "Lisinopril, diabetic-friendly diet, and brisk walking to lower blood pressure.",
+    "assignedTo": ["pat3"],
+    "doctorId": "doc2",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery4": {
+    "title": "Acid Reflux Treatment",
+    "description": "Omeprazole with a fiber-rich diet and yoga for gastrointestinal relief.",
+    "assignedTo": ["pat4"],
+    "doctorId": "doc6",
+    "startDate": "2025-05-31",
+    "endDate": "2025-06-12"
+  },
+  "recovery5": {
+    "title": "Heart Health Recovery",
+    "description": "Amlodipine with weight-gain diet and light strength exercises for cardiac care.",
+    "assignedTo": ["pat5"],
+    "doctorId": "doc3",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-16"
+  },
+  "recovery6": {
+    "title": "Blood Pressure Management",
+    "description": "Losartan, low-sodium meals, and cardio for stabilizing blood pressure.",
+    "assignedTo": ["pat6"],
+    "doctorId": "doc3",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-14"
+  },
+  "recovery7": {
+    "title": "Thyroid and Bone Health",
+    "description": "Levothyroxine with calcium-rich diet and stretching for hormonal balance.",
+    "assignedTo": ["pat7"],
+    "doctorId": "doc1",
+    "startDate": "2025-05-30",
+    "endDate": "2025-06-13"
+  },
+  "recovery8": {
+    "title": "Nerve Pain Relief",
+    "description": "Gabapentin, digestion-friendly meals, and core stretches for neuropathy relief.",
+    "assignedTo": ["pat8"],
+    "doctorId": "doc1",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-13"
+  },
+  "recovery9": {
+    "title": "Insulin Regulation",
+    "description": "Insulin with anti-inflammatory meals and controlled cardio for glucose control.",
+    "assignedTo": ["pat9"],
+    "doctorId": "doc5",
+    "startDate": "2025-06-04",
+    "endDate": "2025-06-17"
+  },
+  "recovery10": {
+    "title": "Respiratory Infection Recovery",
+    "description": "Cefuroxime and Paracetamol with keto diet and light jogging to recover energy.",
+    "assignedTo": ["pat10"],
+    "doctorId": "doc3",
+    "startDate": "2025-05-31",
+    "endDate": "2025-06-15"
+  },
+  "recovery11": {
+    "title": "Asthma Care Plan",
+    "description": "Montelukast, Mediterranean diet, and breathing exercises to improve lung function.",
+    "assignedTo": ["pat11"],
+    "doctorId": "doc2",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-18"
+  },
+  "recovery12": {
+    "title": "Infection Treatment",
+    "description": "Azithromycin with gluten-free diet and moderate walking for immune support.",
+    "assignedTo": ["pat12"],
+    "doctorId": "doc3",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery13": {
+    "title": "Chronic Acid Reflux Control",
+    "description": "Ranitidine, fiber-rich meals, and gentle yoga to manage symptoms.",
+    "assignedTo": ["pat4"],
+    "doctorId": "doc6",
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-14"
+  },
+  "recovery14": {
+    "title": "Vitamin D Deficiency Recovery",
+    "description": "Cholecalciferol supplementation with stretching and balance exercises.",
+    "assignedTo": ["pat7"],
+    "doctorId": "doc1",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-13"
+  },
+  "recovery15": {
+    "title": "Anxiety & Stress Reduction",
+    "description": "Counseling support, meditation, and mild aerobic exercises for mental wellness.",
+    "assignedTo": ["pat13"],
+    "doctorId": "doc7",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery16": {
+    "title": "Back Pain Relief",
+    "description": "Pain management meds, ergonomic diet, and stretching exercises to reduce discomfort.",
+    "assignedTo": ["pat14"],
+    "doctorId": "doc8",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-16"
+  },
+  "recovery17": {
+    "title": "Chronic Fatigue Recovery",
+    "description": "Balanced diet, energy supplements, and light cardio to improve stamina.",
+    "assignedTo": ["pat15"],
+    "doctorId": "doc9",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-17"
+  },
+  "recovery18": {
+    "title": "Post-Surgery Rehab",
+    "description": "Medication adherence, protein diet, and physiotherapy for recovery.",
+    "assignedTo": ["pat16"],
+    "doctorId": "doc10",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery19": {
+    "title": "Migraine Management",
+    "description": "Pain relief medication, hydration-focused diet, and relaxation exercises.",
+    "assignedTo": ["pat17"],
+    "doctorId": "doc11",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15"
+  },
+  "recovery20": {
+    "title": "Osteoarthritis Care",
+    "description": "Anti-inflammatory meds, calcium-rich diet, and joint mobility exercises.",
+    "assignedTo": ["pat18"],
+    "doctorId": "doc12",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-16"
+  },
+  "recovery21": {
+    "title": "Depression Support Plan",
+    "description": "Medication, counseling, balanced diet, and yoga for mental health.",
+    "assignedTo": ["pat19"],
+    "doctorId": "doc13",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery22": {
+    "title": "Chronic Kidney Disease Management",
+    "description": "Kidney-friendly diet, blood pressure meds, and moderate exercise.",
+    "assignedTo": ["pat20"],
+    "doctorId": "doc14",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15"
+  },
+  "recovery23": {
+    "title": "COPD Management",
+    "description": "Bronchodilator meds, respiratory-friendly diet, and breathing exercises.",
+    "assignedTo": ["pat21"],
+    "doctorId": "doc15",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-17"
+  },
+  "recovery24": {
+    "title": "Psoriasis Care",
+    "description": "Topical treatments, anti-inflammatory diet, and stress reduction techniques.",
+    "assignedTo": ["pat22"],
+    "doctorId": "doc16",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery25": {
+    "title": "GERD Management",
+    "description": "Diet modifications, medication, and lifestyle changes to reduce acid reflux.",
+    "assignedTo": ["pat23"],
+    "doctorId": "doc17",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15"
+  },
+  "recovery26": {
+    "title": "Anemia Recovery Plan",
+    "description": "Iron supplements, protein-rich diet, and light exercise to restore energy.",
+    "assignedTo": ["pat24"],
+    "doctorId": "doc18",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-16"
+  },
+  "recovery27": {
+    "title": "Asthma Maintenance",
+    "description": "Inhaler therapy, Mediterranean diet, and breathing exercises for lung health.",
+    "assignedTo": ["pat25"],
+    "doctorId": "doc19",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery28": {
+    "title": "Chronic Migraine Relief",
+    "description": "Medication adherence, hydration, and relaxation yoga to reduce migraine frequency.",
+    "assignedTo": ["pat26"],
+    "doctorId": "doc20",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15"
+  },
+  "recovery29": {
+    "title": "Post-Stroke Rehab",
+    "description": "Physical therapy, protein diet, and medication for neurological recovery.",
+    "assignedTo": ["pat27"],
+    "doctorId": "doc21",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-17"
+  },
+  "recovery30": {
+    "title": "Diabetic Neuropathy Care",
+    "description": "Pain management meds, diabetic diet, and nerve strengthening exercises.",
+    "assignedTo": ["pat28"],
+    "doctorId": "doc22",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery31": {
+    "title": "Hypertension Lifestyle Modification",
+    "description": "Blood pressure meds, low-sodium diet, and regular cardio workouts.",
+    "assignedTo": ["pat29"],
+    "doctorId": "doc23",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-16"
+  },
+  "recovery32": {
+    "title": "Obesity Management Plan",
+    "description": "Diet control, exercise plan, and medication for weight reduction.",
+    "assignedTo": ["pat30"],
+    "doctorId": "doc24",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-17"
+  },
+  "recovery33": {
+    "title": "Chronic Pain Management",
+    "description": "Pain relief medication, physical therapy, and lifestyle changes.",
+    "assignedTo": ["pat31"],
+    "doctorId": "doc25",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery34": {
+    "title": "Vitamin Deficiency Correction",
+    "description": "Supplementation, diet, and mild exercises for overall health improvement.",
+    "assignedTo": ["pat32"],
+    "doctorId": "doc26",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15"
+  },
+  "recovery35": {
+    "title": "Chronic Bronchitis Care",
+    "description": "Medication, respiratory therapy, and dietary support.",
+    "assignedTo": ["pat33"],
+    "doctorId": "doc27",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-16"
+  },
+  "recovery36": {
+    "title": "Osteoporosis Prevention",
+    "description": "Calcium and vitamin D supplements, weight-bearing exercises.",
+    "assignedTo": ["pat34"],
+    "doctorId": "doc28",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery37": {
+    "title": "Post-COVID Rehabilitation",
+    "description": "Respiratory therapy, balanced diet, and graded exercise.",
+    "assignedTo": ["pat35"],
+    "doctorId": "doc29",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15"
+  },
+  "recovery38": {
+    "title": "Allergy Management",
+    "description": "Antihistamines, allergen avoidance diet, and breathing exercises.",
+    "assignedTo": ["pat36"],
+    "doctorId": "doc30",
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-17"
+  },
+  "recovery39": {
+    "title": "Heart Failure Care",
+    "description": "Medications, sodium restriction diet, and monitored physical activity.",
+    "assignedTo": ["pat37"],
+    "doctorId": "doc31",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14"
+  },
+  "recovery40": {
+    "title": "Chronic Liver Disease Management",
+    "description": "Liver-friendly diet, medication adherence, and gentle exercise.",
+    "assignedTo": ["pat38"],
+    "doctorId": "doc32",
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15"
+  }
+}
