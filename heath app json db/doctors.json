@@ -1,0 +1,52 @@
+{
+  "doc1": {
+    "name": "Dr. James Carter",
+    "specialization": "Cardiology",
+    "assignedPatients": ["pat7", "pat8", "pat18", "pat20"]
+  },
+  "doc2": {
+    "name": "Dr. Emily Johnson",
+    "specialization": "General Medicine",
+    "assignedPatients": ["pat3", "pat2", "pat11", "pat14"]
+  },
+  "doc3": {
+    "name": "Dr. Robert Davis",
+    "specialization": "Orthopedic",
+    "assignedPatients": ["pat10", "pat5", "pat6", "pat12"]
+  },
+  "doc4": {
+    "name": "Dr. Sarah Mitchell",
+    "specialization": "Psychiatry",
+    "assignedPatients": ["pat13", "pat15", "pat17"]
+  },
+  "doc5": {
+    "name": "Dr. Michael Anderson",
+    "specialization": "Neurology",
+    "assignedPatients": ["pat9", "pat16"]
+  },
+  "doc6": {
+    "name": "Dr. Laura Thompson",
+    "specialization": "Endocrinology",
+    "assignedPatients": ["pat1", "pat4", "pat19"]
+  },
+  "doc7": {
+    "name": "Dr. Olivia Martinez",
+    "specialization": "Dermatology",
+    "assignedPatients": ["pat21", "pat25", "pat29", "pat33", "pat37"]
+  },
+  "doc8": {
+    "name": "Dr. William Hernandez",
+    "specialization": "Gastroenterology",
+    "assignedPatients": ["pat22", "pat26", "pat30", "pat34", "pat38"]
+  },
+  "doc9": {
+    "name": "Dr. Sophia Clark",
+    "specialization": "Pulmonology",
+    "assignedPatients": ["pat23", "pat27", "pat31", "pat35", "pat39"]
+  },
+  "doc10": {
+    "name": "Dr. James Wilson",
+    "specialization": "Rheumatology",
+    "assignedPatients": ["pat24", "pat28", "pat32", "pat36", "pat40"]
+  }
+}
