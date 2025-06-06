@@ -1,0 +1,568 @@
+{
+  "chat1": {
+    "patientId": "pat1",
+    "doctorId": "doc1",
+    "messages": [
+      {
+        "senderId": "pat1",
+        "receiverId": "doc1",
+        "message": "I missed my workout yesterday, should I double the time today?",
+        "timestamp": "2025-06-01T11:00:00Z"
+      },
+      {
+        "senderId": "doc1",
+        "receiverId": "pat1",
+        "message": "No, just get back on schedule with your normal routine.",
+        "timestamp": "2025-06-01T11:15:00Z"
+      },
+      {
+        "senderId": "pat1",
+        "receiverId": "doc1",
+        "message": "Thanks! Also, my knee hurts sometimes after jogging.",
+        "timestamp": "2025-06-01T11:30:00Z"
+      },
+      {
+        "senderId": "doc1",
+        "receiverId": "pat1",
+        "message": "Avoid jogging for a few days and apply ice. Let me know if pain persists.",
+        "timestamp": "2025-06-01T11:45:00Z"
+      },
+      {
+        "senderId": "pat1",
+        "receiverId": "doc1",
+        "message": "I feel a bit tired lately. Should I be concerned?",
+        "timestamp": "2025-05-19T10:00:00Z"
+      },
+      {
+        "senderId": "doc1",
+        "receiverId": "pat1",
+        "message": "Mild tiredness can be normal, but let me know if it continues over a week.",
+        "timestamp": "2025-05-19T10:30:00Z"
+      },
+      {
+        "senderId": "pat1",
+        "receiverId": "doc1",
+        "message": "Okay, I’ll keep track and update you.",
+        "timestamp": "2025-05-19T10:45:00Z"
+      }
+    ]
+  },
+  "chat2": {
+    "patientId": "pat2",
+    "doctorId": "doc6",
+    "messages": [
+      {
+        "senderId": "pat2",
+        "receiverId": "doc6",
+        "message": "I have trouble sleeping lately. Any suggestions?",
+        "timestamp": "2025-05-28T22:00:00Z"
+      },
+      {
+        "senderId": "doc6",
+        "receiverId": "pat2",
+        "message": "Try to maintain a regular bedtime and avoid screens before sleep.",
+        "timestamp": "2025-05-29T08:00:00Z"
+      },
+      {
+        "senderId": "pat2",
+        "receiverId": "doc6",
+        "message": "Okay, I’ll try that. Thanks.",
+        "timestamp": "2025-05-29T08:15:00Z"
+      },
+      {
+        "senderId": "pat2",
+        "receiverId": "doc6",
+        "message": "I missed my workout yesterday, should I double the time today?",
+        "timestamp": "2025-06-01T11:00:00Z"
+      },
+      {
+        "senderId": "doc6",
+        "receiverId": "pat2",
+        "message": "No, just get back on schedule with your normal routine.",
+        "timestamp": "2025-06-01T11:15:00Z"
+      }
+    ]
+  },
+  "chat3": {
+    "patientId": "pat3",
+    "doctorId": "doc5",
+    "messages": [
+      {
+        "senderId": "pat3",
+        "receiverId": "doc5",
+        "message": "Should I continue the current diet plan or make any changes?",
+        "timestamp": "2025-06-04T09:15:00Z"
+      },
+      {
+        "senderId": "doc5",
+        "receiverId": "pat3",
+        "message": "Keep following the diet for now. We will review it after your next test results.",
+        "timestamp": "2025-06-04T09:45:00Z"
+      },
+      {
+        "senderId": "pat3",
+        "receiverId": "doc5",
+        "message": "Got it, thanks! Also, is light walking okay for exercise?",
+        "timestamp": "2025-06-04T10:00:00Z"
+      },
+      {
+        "senderId": "doc5",
+        "receiverId": "pat3",
+        "message": "Yes, light walking daily is a good start.",
+        "timestamp": "2025-06-04T10:05:00Z"
+      },
+      {
+        "senderId": "pat3",
+        "receiverId": "doc5",
+        "message": "Can I reduce the dosage if I feel better?",
+        "timestamp": "2025-05-11T09:00:00Z"
+      },
+      {
+        "senderId": "doc5",
+        "receiverId": "pat3",
+        "message": "Please don’t adjust the dosage without consulting me first.",
+        "timestamp": "2025-05-11T09:15:00Z"
+      },
+      {
+        "senderId": "pat3",
+        "receiverId": "doc5",
+        "message": "Understood, thank you.",
+        "timestamp": "2025-05-11T09:30:00Z"
+      }
+    ]
+  },
+  "chat4": {
+    "patientId": "pat4",
+    "doctorId": "doc8",
+    "messages": [
+      {
+        "senderId": "pat4",
+        "receiverId": "doc8",
+        "message": "Can you recommend some light workouts? I feel low on energy.",
+        "timestamp": "2025-05-20T07:50:00Z"
+      },
+      {
+        "senderId": "doc8",
+        "receiverId": "pat4",
+        "message": "Try gentle stretching and walking for 10 minutes daily.",
+        "timestamp": "2025-05-20T08:10:00Z"
+      },
+      {
+        "senderId": "pat4",
+        "receiverId": "doc8",
+        "message": "Thanks, I will start today.",
+        "timestamp": "2025-05-20T08:30:00Z"
+      },
+      {
+        "senderId": "pat4",
+        "receiverId": "doc5",
+        "message": "Can I add some fruits to my diet plan?",
+        "timestamp": "2025-05-15T12:00:00Z"
+      },
+      {
+        "senderId": "doc5",
+        "receiverId": "pat4",
+        "message": "Yes, fruits like apples and berries are good choices.",
+        "timestamp": "2025-05-15T12:20:00Z"
+      },
+      {
+        "senderId": "pat4",
+        "receiverId": "doc5",
+        "message": "Thanks for the suggestion.",
+        "timestamp": "2025-05-15T12:30:00Z"
+      }
+    ]
+  },
+  "chat5": {
+    "patientId": "pat5",
+    "doctorId": "doc9",
+    "messages": [
+      {
+        "senderId": "pat5",
+        "receiverId": "doc9",
+        "message": "I have some questions about my new prescription.",
+        "timestamp": "2025-05-17T17:10:34Z"
+      },
+      {
+        "senderId": "doc9",
+        "receiverId": "pat5",
+        "message": "Sure, please ask your questions.",
+        "timestamp": "2025-05-17T17:30:00Z"
+      },
+      {
+        "senderId": "pat5",
+        "receiverId": "doc9",
+        "message": "Are there any side effects I should watch out for?",
+        "timestamp": "2025-05-17T17:45:00Z"
+      },
+      {
+        "senderId": "doc9",
+        "receiverId": "pat5",
+        "message": "Common ones include nausea and dizziness. Let me know if you feel anything unusual.",
+        "timestamp": "2025-05-17T18:00:00Z"
+      },
+      {
+        "senderId": "pat5",
+        "receiverId": "doc9",
+        "message": "Thanks, that helps a lot.",
+        "timestamp": "2025-05-17T18:05:00Z"
+      }
+    ]
+  },
+  "chat6": {
+    "patientId": "pat6",
+    "doctorId": "doc4",
+    "messages": [
+      {
+        "senderId": "pat6",
+        "receiverId": "doc4",
+        "message": "I’m feeling better but still have some fatigue.",
+        "timestamp": "2025-05-22T08:30:00Z"
+      },
+      {
+        "senderId": "doc4",
+        "receiverId": "pat6",
+        "message": "That’s good progress. Make sure to rest enough and keep tracking your symptoms.",
+        "timestamp": "2025-05-22T08:45:00Z"
+      },
+      {
+        "senderId": "pat6",
+        "receiverId": "doc4",
+        "message": "Will do. Should I continue the current medication?",
+        "timestamp": "2025-05-22T09:00:00Z"
+      },
+      {
+        "senderId": "doc4",
+        "receiverId": "pat6",
+        "message": "Yes, continue as prescribed. We will reassess next week.",
+        "timestamp": "2025-05-22T09:10:00Z"
+      }
+    ]
+  },
+  "chat7": {
+    "patientId": "pat7",
+    "doctorId": "doc4",
+    "messages": [
+      {
+        "senderId": "pat7",
+        "receiverId": "doc4",
+        "message": "I noticed some swelling in my ankles.",
+        "timestamp": "2025-05-10T14:20:00Z"
+      },
+      {
+        "senderId": "doc4",
+        "receiverId": "pat7",
+        "message": "Please elevate your legs and monitor the swelling. If it worsens, contact me immediately.",
+        "timestamp": "2025-05-10T14:45:00Z"
+      },
+      {
+        "senderId": "pat7",
+        "receiverId": "doc4",
+        "message": "Understood, I will do that. Thank you.",
+        "timestamp": "2025-05-10T15:00:00Z"
+      },
+      {
+        "senderId": "pat7",
+        "receiverId": "doc4",
+        "message": "Is it safe to increase my workout intensity?",
+        "timestamp": "2025-05-25T14:00:00Z"
+      },
+      {
+        "senderId": "doc4",
+        "receiverId": "pat7",
+        "message": "Increase gradually and listen to your body. Stop if you feel pain.",
+        "timestamp": "2025-05-25T14:15:00Z"
+      },
+      {
+        "senderId": "pat7",
+        "receiverId": "doc4",
+        "message": "Thanks, will do.",
+        "timestamp": "2025-05-25T14:20:00Z"
+      }
+    ]
+  },
+  "chat8": {
+    "patientId": "pat8",
+    "doctorId": "doc1",
+    "messages": [
+      {
+        "senderId": "pat8",
+        "receiverId": "doc1",
+        "message": "I feel a bit tired lately. Should I be concerned?",
+        "timestamp": "2025-05-19T10:00:00Z"
+      },
+      {
+        "senderId": "doc1",
+        "receiverId": "pat8",
+        "message": "Mild tiredness can be normal, but let me know if it continues over a week.",
+        "timestamp": "2025-05-19T10:30:00Z"
+      },
+      {
+        "senderId": "pat8",
+        "receiverId": "doc1",
+        "message": "Okay, I’ll keep track and update you.",
+        "timestamp": "2025-05-19T10:45:00Z"
+      }
+    ]
+  },
+  "chat9": {
+    "patientId": "pat9",
+    "doctorId": "doc7",
+    "messages": [
+      {
+        "senderId": "pat9",
+        "receiverId": "doc7",
+        "message": "I noticed some dizziness today after taking my medication.",
+        "timestamp": "2025-06-02T12:00:00Z"
+      },
+      {
+        "senderId": "doc7",
+        "receiverId": "pat9",
+        "message": "Please rest and stay hydrated. If dizziness worsens, come for a check-up.",
+        "timestamp": "2025-06-02T12:15:00Z"
+      },
+      {
+        "senderId": "pat9",
+        "receiverId": "doc7",
+        "message": "Will do. Thank you.",
+        "timestamp": "2025-06-02T12:30:00Z"
+      },
+      {
+        "senderId": "pat9",
+        "receiverId": "doc7",
+        "message": "My blood pressure readings are a bit high today.",
+        "timestamp": "2025-06-03T08:00:00Z"
+      },
+      {
+        "senderId": "doc7",
+        "receiverId": "pat9",
+        "message": "Keep monitoring and avoid salty foods.",
+        "timestamp": "2025-06-03T08:20:00Z"
+      },
+      {
+        "senderId": "pat9",
+        "receiverId": "doc7",
+        "message": "Okay, thanks for the advice.",
+        "timestamp": "2025-06-03T08:30:00Z"
+      }
+    ]
+  },
+  "chat10": {
+    "patientId": "pat10",
+    "doctorId": "doc6",
+    "messages": [
+      {
+        "senderId": "pat10",
+        "receiverId": "doc6",
+        "message": "Can we reschedule my next consultation?",
+        "timestamp": "2025-05-27T08:30:00Z"
+      },
+      {
+        "senderId": "doc6",
+        "receiverId": "pat10",
+        "message": "Sure, what date works for you?",
+        "timestamp": "2025-05-27T08:45:00Z"
+      },
+      {
+        "senderId": "pat10",
+        "receiverId": "doc6",
+        "message": "How about June 23rd?",
+        "timestamp": "2025-05-27T09:00:00Z"
+      },
+      {
+        "senderId": "doc6",
+        "receiverId": "pat10",
+        "message": "June 23rd works. Marked on my calendar.",
+        "timestamp": "2025-05-27T09:15:00Z"
+      }
+    ]
+  },
+  "chat11": {
+    "patientId": "pat11",
+    "doctorId": "doc6",
+    "messages": [
+      {
+        "senderId": "pat11",
+        "receiverId": "doc6",
+        "message": "I am experiencing some nausea since starting the medication.",
+        "timestamp": "2025-06-04T10:00:00Z"
+      },
+      {
+        "senderId": "doc6",
+        "receiverId": "pat11",
+        "message": "Try taking the medicine with food. If nausea persists, please inform me.",
+        "timestamp": "2025-06-04T10:30:00Z"
+      },
+      {
+        "senderId": "pat11",
+        "receiverId": "doc6",
+        "message": "Okay, I will do that. Thanks.",
+        "timestamp": "2025-06-04T10:45:00Z"
+      },
+      {
+        "senderId": "pat11",
+        "receiverId": "doc6",
+        "message": "Should I report any other symptoms apart from nausea?",
+        "timestamp": "2025-06-05T10:00:00Z"
+      },
+      {
+        "senderId": "doc6",
+        "receiverId": "pat11",
+        "message": "Yes, please notify if you experience headaches or rash.",
+        "timestamp": "2025-06-05T10:20:00Z"
+      },
+      {
+        "senderId": "pat11",
+        "receiverId": "doc6",
+        "message": "Got it, I will keep you updated.",
+        "timestamp": "2025-06-05T10:30:00Z"
+      }
+    ]
+  },
+  "chat12": [
+    {
+      "senderId": "pat5",
+      "receiverId": "doc9",
+      "message": "I have some questions about my new prescription.",
+      "timestamp": "2025-05-17T17:10:34.759661"
+    },
+    {
+      "senderId": "doc9",
+      "receiverId": "pat5",
+      "message": "Feel free to ask your questions, I'm here to help.",
+      "timestamp": "2025-05-17T18:00:00.000000"
+    },
+    {
+      "senderId": "pat5",
+      "receiverId": "doc9",
+      "message": "Is it safe to take this medication with my current supplements?",
+      "timestamp": "2025-05-18T09:15:00.000000"
+    },
+    {
+      "senderId": "doc9",
+      "receiverId": "pat5",
+      "message": "Generally, yes, but please send me the list of supplements to confirm.",
+      "timestamp": "2025-05-18T10:00:00.000000"
+    }
+  ],
+  "chat13": [
+    {
+      "senderId": "doc1",
+      "receiverId": "pat8",
+      "message": "Have you noticed any side effects recently?",
+      "timestamp": "2025-05-19T17:10:34.759666"
+    },
+    {
+      "senderId": "pat8",
+      "receiverId": "doc1",
+      "message": "No side effects so far, but I feel a bit tired sometimes.",
+      "timestamp": "2025-05-20T08:30:00.000000"
+    },
+    {
+      "senderId": "doc1",
+      "receiverId": "pat8",
+      "message": "Fatigue can be common initially. Monitor it and let me know if it worsens.",
+      "timestamp": "2025-05-20T09:00:00.000000"
+    }
+  ],
+  "chat14": [
+    {
+      "senderId": "pat5",
+      "receiverId": "doc9",
+      "message": "Thank you for the advice last time.",
+      "timestamp": "2025-05-18T17:10:34.759670"
+    },
+    {
+      "senderId": "doc9",
+      "receiverId": "pat5",
+      "message": "You're welcome! Let me know if you need further assistance.",
+      "timestamp": "2025-05-18T18:00:00.000000"
+    }
+  ],
+  "chat15": [
+    {
+      "senderId": "doc4",
+      "receiverId": "pat7",
+      "message": "Your recent test results are encouraging.",
+      "timestamp": "2025-06-05T17:10:34.759676"
+    },
+    {
+      "senderId": "pat7",
+      "receiverId": "doc4",
+      "message": "Thank you, doctor. I will continue with the current treatment.",
+      "timestamp": "2025-06-06T08:00:00.000000"
+    }
+  ],
+  "chat16": [
+    {
+      "senderId": "pat3",
+      "receiverId": "doc9",
+      "message": "Can I reduce the dosage if I feel better?",
+      "timestamp": "2025-05-11T17:10:34.759681"
+    },
+    {
+      "senderId": "doc9",
+      "receiverId": "pat3",
+      "message": "Do not change the dosage without consulting me first.",
+      "timestamp": "2025-05-11T18:00:00.000000"
+    }
+  ],
+  "chat17": [
+    {
+      "senderId": "doc1",
+      "receiverId": "pat6",
+      "message": "Schedule a follow-up visit next week.",
+      "timestamp": "2025-05-25T17:10:34.759685"
+    },
+    {
+      "senderId": "pat6",
+      "receiverId": "doc1",
+      "message": "I will book the appointment. Thank you!",
+      "timestamp": "2025-05-25T18:00:00.000000"
+    }
+  ],
+  "chat18": [
+    {
+      "senderId": "pat3",
+      "receiverId": "doc6",
+      "message": "I’m struggling with the diet plan, can you help?",
+      "timestamp": "2025-05-27T17:10:34.759690"
+    },
+    {
+      "senderId": "doc6",
+      "receiverId": "pat3",
+      "message": "Sure, let’s review your current diet and make adjustments.",
+      "timestamp": "2025-05-27T18:00:00.000000"
+    }
+  ],
+  "chat19": [
+    {
+      "senderId": "pat5",
+      "receiverId": "doc9",
+      "message": "How long will the treatment last?",
+      "timestamp": "2025-05-24T17:10:34.759694"
+    },
+    {
+      "senderId": "doc9",
+      "receiverId": "pat5",
+      "message": "It usually lasts about 3 months, but we will monitor your progress.",
+      "timestamp": "2025-05-24T18:00:00.000000"
+    }
+  ],
+  "chat20": [
+    {
+      "senderId": "pat2",
+      "receiverId": "doc6",
+      "message": "I missed my workout yesterday.",
+      "timestamp": "2025-06-01T17:10:34.759699"
+    },
+    {
+      "senderId": "doc6",
+      "receiverId": "pat2",
+      "message": "Try to stay consistent; let’s plan a catch-up session.",
+      "timestamp": "2025-06-01T18:00:00.000000"
+    }
+  ]
+}
+
+
