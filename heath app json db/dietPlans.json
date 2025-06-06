@@ -1,0 +1,282 @@
+{
+  "diet1": {
+    "description": "Low-carb diet for cholesterol control",
+    "assignedTo": ["pat1"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-10",
+    "doctorId": "doc1"
+  },
+  "diet2": {
+    "description": "Protein-rich diet with supplements",
+    "assignedTo": ["pat2"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15",
+    "doctorId": "doc2"
+  },
+  "diet3": {
+    "description": "Diabetic-friendly balanced meals",
+    "assignedTo": ["pat3"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-14",
+    "doctorId": "doc3"
+  },
+  "diet4": {
+    "description": "Fibre-rich vegetarian diet",
+    "assignedTo": ["pat4"],
+    "startDate": "2025-06-04",
+    "endDate": "2025-06-13",
+    "doctorId": "doc4"
+  },
+  "diet5": {
+    "description": "Weight-gain diet with nuts and dairy",
+    "assignedTo": ["pat5"],
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-16",
+    "doctorId": "doc5"
+  },
+  "diet6": {
+    "description": "Low-sodium heart-safe diet",
+    "assignedTo": ["pat6"],
+    "startDate": "2025-06-06",
+    "endDate": "2025-06-17",
+    "doctorId": "doc6"
+  },
+  "diet7": {
+    "description": "Post-operative recovery diet",
+    "assignedTo": ["pat7"],
+    "startDate": "2025-06-07",
+    "endDate": "2025-06-18",
+    "doctorId": "doc7"
+  },
+  "diet8": {
+    "description": "High-fiber light meals for digestion",
+    "assignedTo": ["pat8"],
+    "startDate": "2025-06-08",
+    "endDate": "2025-06-19",
+    "doctorId": "doc8"
+  },
+  "diet9": {
+    "description": "Anti-inflammatory diet plan",
+    "assignedTo": ["pat9"],
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-20",
+    "doctorId": "doc9"
+  },
+  "diet10": {
+    "description": "Ketogenic diet for energy boost",
+    "assignedTo": ["pat10"],
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-21",
+    "doctorId": "doc10"
+  },
+  "diet11": {
+    "description": "Mediterranean diet for heart health",
+    "assignedTo": ["pat11"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-11",
+    "doctorId": "doc1"
+  },
+  "diet12": {
+    "description": "Gluten-free recovery-focused diet",
+    "assignedTo": ["pat12"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-12",
+    "doctorId": "doc2"
+  },
+  "diet13": {
+    "description": "High-calorie post-surgery diet",
+    "assignedTo": ["pat13"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-13",
+    "doctorId": "doc3"
+  },
+  "diet14": {
+    "description": "High-protein diet for muscle recovery",
+    "assignedTo": ["pat14"],
+    "startDate": "2025-06-04",
+    "endDate": "2025-06-14",
+    "doctorId": "doc4"
+  },
+  "diet15": {
+    "description": "Lactose-free digestive support diet",
+    "assignedTo": ["pat15"],
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-15",
+    "doctorId": "doc5"
+  },
+  "diet16": {
+    "description": "Iron-rich meals for anemia",
+    "assignedTo": ["pat16"],
+    "startDate": "2025-06-06",
+    "endDate": "2025-06-16",
+    "doctorId": "doc6"
+  },
+  "diet17": {
+    "description": "Plant-based anti-hypertension diet",
+    "assignedTo": ["pat17"],
+    "startDate": "2025-06-07",
+    "endDate": "2025-06-17",
+    "doctorId": "doc7"
+  },
+  "diet18": {
+    "description": "Post-fever recovery nutrient plan",
+    "assignedTo": ["pat18"],
+    "startDate": "2025-06-08",
+    "endDate": "2025-06-18",
+    "doctorId": "doc8"
+  },
+  "diet19": {
+    "description": "Thyroid-support iodine-rich diet",
+    "assignedTo": ["pat19"],
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-19",
+    "doctorId": "doc9"
+  },
+  "diet20": {
+    "description": "Low-glycemic diet for diabetes",
+    "assignedTo": ["pat20"],
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-20",
+    "doctorId": "doc10"
+  },
+  "diet21": {
+    "description": "Ayurvedic-inspired cleansing plan",
+    "assignedTo": ["pat21"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-11",
+    "doctorId": "doc1"
+  },
+  "diet22": {
+    "description": "Liquid-only pre-surgery prep diet",
+    "assignedTo": ["pat22"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-12",
+    "doctorId": "doc2"
+  },
+  "diet23": {
+    "description": "Bone-healing calcium-rich plan",
+    "assignedTo": ["pat23"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-13",
+    "doctorId": "doc3"
+  },
+  "diet24": {
+    "description": "Liver-detox food routine",
+    "assignedTo": ["pat24"],
+    "startDate": "2025-06-04",
+    "endDate": "2025-06-14",
+    "doctorId": "doc4"
+  },
+  "diet25": {
+    "description": "Immunity-boosting fruit-based plan",
+    "assignedTo": ["pat25"],
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-15",
+    "doctorId": "doc5"
+  },
+  "diet26": {
+    "description": "Ulcer-safe bland food diet",
+    "assignedTo": ["pat26"],
+    "startDate": "2025-06-06",
+    "endDate": "2025-06-16",
+    "doctorId": "doc6"
+  },
+  "diet27": {
+    "description": "Neuropathy-focused nutrition",
+    "assignedTo": ["pat27"],
+    "startDate": "2025-06-07",
+    "endDate": "2025-06-17",
+    "doctorId": "doc7"
+  },
+  "diet28": {
+    "description": "Bowel regulation fiber plan",
+    "assignedTo": ["pat28"],
+    "startDate": "2025-06-08",
+    "endDate": "2025-06-18",
+    "doctorId": "doc8"
+  },
+  "diet29": {
+    "description": "Arthritis-friendly anti-inflammatory plan",
+    "assignedTo": ["pat29"],
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-19",
+    "doctorId": "doc9"
+  },
+  "diet30": {
+    "description": "Lung support antioxidant-rich diet",
+    "assignedTo": ["pat30"],
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-20",
+    "doctorId": "doc10"
+  },
+  "diet31": {
+    "description": "Vegan high-protein recovery meals",
+    "assignedTo": ["pat31"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-11",
+    "doctorId": "doc1"
+  },
+  "diet32": {
+    "description": "Soft food diet post dental surgery",
+    "assignedTo": ["pat32"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-12",
+    "doctorId": "doc2"
+  },
+  "diet33": {
+    "description": "Constipation-relief hydration plan",
+    "assignedTo": ["pat33"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-13",
+    "doctorId": "doc3"
+  },
+  "diet34": {
+    "description": "Balanced renal diet for kidney care",
+    "assignedTo": ["pat34"],
+    "startDate": "2025-06-04",
+    "endDate": "2025-06-14",
+    "doctorId": "doc4"
+  },
+  "diet35": {
+    "description": "Migraine-friendly trigger-free plan",
+    "assignedTo": ["pat35"],
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-15",
+    "doctorId": "doc5"
+  },
+  "diet36": {
+    "description": "High-zinc immunity booster plan",
+    "assignedTo": ["pat36"],
+    "startDate": "2025-06-06",
+    "endDate": "2025-06-16",
+    "doctorId": "doc6"
+  },
+  "diet37": {
+    "description": "GERD-safe alkaline diet",
+    "assignedTo": ["pat37"],
+    "startDate": "2025-06-07",
+    "endDate": "2025-06-17",
+    "doctorId": "doc7"
+  },
+  "diet38": {
+    "description": "Paleo diet to reduce inflammation",
+    "assignedTo": ["pat38"],
+    "startDate": "2025-06-08",
+    "endDate": "2025-06-18",
+    "doctorId": "doc8"
+  },
+  "diet39": {
+    "description": "Gallbladder-friendly fat-restricted plan",
+    "assignedTo": ["pat39"],
+    "startDate": "2025-06-09",
+    "endDate": "2025-06-19",
+    "doctorId": "doc9"
+  },
+  "diet40": {
+    "description": "Brain-support omega-3 rich plan",
+    "assignedTo": ["pat40"],
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-20",
+    "doctorId": "doc10"
+  }
+}
