@@ -1,0 +1,242 @@
+{
+  "pat1": {
+    "name": "Anita Sharma",
+    "age": 33,
+    "gender": "female",
+    "assignedDoctorId": "doc2"
+  },
+  "pat2": {
+    "name": "Rekha Patel",
+    "age": 53,
+    "gender": "female",
+    "assignedDoctorId": "doc2"
+  },
+  "pat3": {
+    "name": "Sunita Gupta",
+    "age": 53,
+    "gender": "female",
+    "assignedDoctorId": "doc3"
+  },
+  "pat4": {
+    "name": "Meera Iyer",
+    "age": 37,
+    "gender": "female",
+    "assignedDoctorId": "doc3"
+  },
+  "pat5": {
+    "name": "Rajesh Kumar",
+    "age": 32,
+    "gender": "female",
+    "assignedDoctorId": "doc3"
+  },
+  "pat6": {
+    "name": "Suresh Nair",
+    "age": 34,
+    "gender": "male",
+    "assignedDoctorId": "doc3"
+  },
+  "pat7": {
+    "name": "Latha Menon",
+    "age": 55,
+    "gender": "female",
+    "assignedDoctorId": "doc2"
+  },
+  "pat8": {
+    "name": "Vikram Singh",
+    "age": 57,
+    "gender": "male",
+    "assignedDoctorId": "doc1"
+  },
+  "pat9": {
+    "name": "Divya Kapoor",
+    "age": 34,
+    "gender": "female",
+    "assignedDoctorId": "doc2"
+  },
+  "pat10": {
+    "name": "Anil Joshi",
+    "age": 43,
+    "gender": "male",
+    "assignedDoctorId": "doc3"
+  },
+  "pat11": {
+    "name": "Rohit Desai",
+    "age": 29,
+    "gender": "male",
+    "assignedDoctorId": "doc2"
+  },
+  "pat12": {
+    "name": "Geeta Reddy",
+    "age": 65,
+    "gender": "female",
+    "assignedDoctorId": "doc3"
+  },
+  "pat13": {
+    "name": "Karan Malhotra",
+    "age": 47,
+    "gender": "male",
+    "assignedDoctorId": "doc4"
+  },
+  "pat14": {
+    "name": "Pooja Nair",
+    "age": 38,
+    "gender": "female",
+    "assignedDoctorId": "doc2"
+  },
+  "pat15": {
+    "name": "Anjali Singh",
+    "age": 24,
+    "gender": "female",
+    "assignedDoctorId": "doc4"
+  },
+  "pat16": {
+    "name": "Sanjay Rao",
+    "age": 60,
+    "gender": "male",
+    "assignedDoctorId": "doc5"
+  },
+  "pat17": {
+    "name": "Nisha Agarwal",
+    "age": 51,
+    "gender": "female",
+    "assignedDoctorId": "doc4"
+  },
+  "pat18": {
+    "name": "Vijay Ramesh",
+    "age": 46,
+    "gender": "male",
+    "assignedDoctorId": "doc1"
+  },
+  "pat19": {
+    "name": "Sonal Verma",
+    "age": 39,
+    "gender": "female",
+    "assignedDoctorId": "doc6"
+  },
+  "pat20": {
+    "name": "Rakesh Patil",
+    "age": 48,
+    "gender": "male",
+    "assignedDoctorId": "doc1"
+  },
+  "pat21": {
+    "name": "Deepa Joshi",
+    "age": 44,
+    "gender": "female",
+    "assignedDoctorId": "doc7"
+  },
+  "pat22": {
+    "name": "Amit Deshmukh",
+    "age": 52,
+    "gender": "male",
+    "assignedDoctorId": "doc8"
+  },
+  "pat23": {
+    "name": "Priya Reddy",
+    "age": 36,
+    "gender": "female",
+    "assignedDoctorId": "doc9"
+  },
+  "pat24": {
+    "name": "Manoj Kumar",
+    "age": 47,
+    "gender": "male",
+    "assignedDoctorId": "doc10"
+  },
+  "pat25": {
+    "name": "Shalini Sharma",
+    "age": 39,
+    "gender": "female",
+    "assignedDoctorId": "doc7"
+  },
+  "pat26": {
+    "name": "Ravi Singh",
+    "age": 58,
+    "gender": "male",
+    "assignedDoctorId": "doc8"
+  },
+  "pat27": {
+    "name": "Anita Rani",
+    "age": 31,
+    "gender": "female",
+    "assignedDoctorId": "doc9"
+  },
+  "pat28": {
+    "name": "Siddharth Mehta",
+    "age": 43,
+    "gender": "male",
+    "assignedDoctorId": "doc10"
+  },
+  "pat29": {
+    "name": "Neha Gupta",
+    "age": 37,
+    "gender": "female",
+    "assignedDoctorId": "doc7"
+  },
+  "pat30": {
+    "name": "Ajay Kumar",
+    "age": 50,
+    "gender": "male",
+    "assignedDoctorId": "doc8"
+  },
+  "pat31": {
+    "name": "Kavita Sharma",
+    "age": 28,
+    "gender": "female",
+    "assignedDoctorId": "doc9"
+  },
+  "pat32": {
+    "name": "Manish Joshi",
+    "age": 55,
+    "gender": "male",
+    "assignedDoctorId": "doc10"
+  },
+  "pat33": {
+    "name": "Smita Nair",
+    "age": 41,
+    "gender": "female",
+    "assignedDoctorId": "doc7"
+  },
+  "pat34": {
+    "name": "Sanjay Mehta",
+    "age": 49,
+    "gender": "male",
+    "assignedDoctorId": "doc8"
+  },
+  "pat35": {
+    "name": "Rekha Singh",
+    "age": 33,
+    "gender": "female",
+    "assignedDoctorId": "doc9"
+  },
+  "pat36": {
+    "name": "Vivek Kumar",
+    "age": 46,
+    "gender": "male",
+    "assignedDoctorId": "doc10"
+  },
+  "pat37": {
+    "name": "Ritu Agarwal",
+    "age": 39,
+    "gender": "female",
+    "assignedDoctorId": "doc7"
+  },
+  "pat38": {
+    "name": "Deepak Joshi",
+    "age": 60,
+    "gender": "male",
+    "assignedDoctorId": "doc8"
+  },
+  "pat39": {
+    "name": "Priya Mehta",
+    "age": 34,
+    "gender": "female",
+    "assignedDoctorId": "doc9"
+  },
+  "pat40": {
+    "name": "Rakesh Sharma",
+    "age": 51,
+    "gender": "male",
+    "assignedDoctorId": "doc10"
+  }
+}
