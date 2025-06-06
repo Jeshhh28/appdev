@@ -1,0 +1,324 @@
+{
+  "workout1": {
+    "description": "Brisk walking and stretching for cholesterol control",
+    "assignedTo": ["pat1"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-13",
+    "doctorId": "doc6",
+    "videoUrl": "https://youtu.be/AdqrTg_hpEQ?si=Z_lwbbC0qdPgCJue"
+  },
+  "workout2": {
+    "description": "Moderate weight training for muscle gain",
+    "assignedTo": ["pat2"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15",
+    "doctorId": "doc2",
+    "videoUrl": "https://youtu.be/enYITYwvPAQ?si=hA-N91kOpplw5aTy"
+  },
+  "workout3": {
+    "description": "Yoga and cycling for diabetes control",
+    "assignedTo": ["pat3"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14",
+    "doctorId": "doc2",
+    "videoUrl": "https://youtu.be/cbKkB3POqaY?si=7wgDLMlxpvCkWtaC"
+  },
+  "workout4": {
+    "description": "Light yoga and breathing for acidity issues",
+    "assignedTo": ["pat4"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-15",
+    "doctorId": "doc6",
+    "videoUrl": "https://youtu.be/Ki605EYP7_Q?si=W7CNWMLmRFCTISw3"
+  },
+  "workout5": {
+    "description": "Resistance training with dumbbells for underweight",
+    "assignedTo": ["pat5"],
+    "startDate": "2025-05-31",
+    "endDate": "2025-06-14",
+    "doctorId": "doc3",
+    "videoUrl": "https://youtu.be/C2HX2pNbUCM?si=ktWBhpHzJmbtMCOr"
+  },
+  "workout6": {
+    "description": "Low-impact aerobics for blood pressure management",
+    "assignedTo": ["pat6"],
+    "startDate": "2025-05-31",
+    "endDate": "2025-06-14",
+    "doctorId": "doc3",
+    "videoUrl": "https://example.com/videos/aerobics-low-impact.mp4"
+  },
+  "workout7": {
+    "description": "Stretching and core strengthening post-surgery",
+    "assignedTo": ["pat7"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-14",
+    "doctorId": "doc1",
+    "videoUrl": "https://youtu.be/C2HX2pNbUCM?si=ktWBhpHzJmbtMCOr"
+  },
+  "workout8": {
+    "description": "Walking and upper body rehab for nerve pain",
+    "assignedTo": ["pat8"],
+    "startDate": "2025-05-26",
+    "endDate": "2025-06-10",
+    "doctorId": "doc1",
+    "videoUrl": "https://youtu.be/bO6NNfX_1ns?si=zmc63hHqmxt0r5LV"
+  },
+  "workout9": {
+    "description": "Tai Chi and light cardio for insulin regulation",
+    "assignedTo": ["pat9"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-10",
+    "doctorId": "doc5",
+    "videoUrl": "https://youtu.be/auIMP3LzZiU?si=raUfeHSLStCjKLjt"
+  },
+  "workout10": {
+    "description": "Full body mobility exercises post-antibiotic therapy",
+    "assignedTo": ["pat10"],
+    "startDate": "2025-05-31",
+    "endDate": "2025-06-13",
+    "doctorId": "doc3",
+    "videoUrl": "https://youtu.be/CIxNJbit9BA?si=iFowXRC0A8FrLxlH"
+  },
+  "workout11": {
+    "description": "Breathing exercises and morning walks for asthma",
+    "assignedTo": ["pat11"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-13",
+    "doctorId": "doc2",
+    "videoUrl": "https://youtu.be/t9F9gZg42NM?si=wPnadayXUPacpGb2"
+  },
+  "workout12": {
+    "description": "Light cardio and daily stretching",
+    "assignedTo": ["pat12"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-15",
+    "doctorId": "doc3",
+    "videoUrl": "https://youtu.be/agvdkRc_img?si=Dbs-_arqQUimvGeA"
+  },
+  "workout13": {
+    "description": "Chair yoga and gentle stretching for joint stiffness",
+    "assignedTo": ["pat13"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-16",
+    "doctorId": "doc7",
+    "videoUrl": "https://youtu.be/Y08OkdVO4Co?si=253I0EOy9dxq2CyU"
+  },
+  "workout14": {
+    "description": "Basic movement and core for sedentary fatigue",
+    "assignedTo": ["pat14"],
+    "startDate": "2025-06-04",
+    "endDate": "2025-06-17",
+    "doctorId": "doc4",
+    "videoUrl": "https://youtu.be/Ev6yE55kYGw?si=EONDB75ZiLt2VR4O"
+  },
+  "workout15": {
+    "description": "Back-friendly yoga for chronic pain",
+    "assignedTo": ["pat15"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-13",
+    "doctorId": "doc2",
+    "videoUrl": "https://youtu.be/FeR-4_Opt-g?si=9WwnEHBCbebiU9sn"
+  },
+  "workout16": {
+    "description": "Upper body strength for weak shoulders",
+    "assignedTo": ["pat16"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-14",
+    "doctorId": "doc9",
+    "videoUrl": "https://youtu.be/EvMTrP8eRvM?si=3Mpy6AtyOXiufwbP"
+  },
+  "workout17": {
+    "description": "Foot mobility and balance training",
+    "assignedTo": ["pat17"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-12",
+    "doctorId": "doc10",
+    "videoUrl": "https://youtu.be/Eml2xnoLpYE?si=pImMplcx1SEVWNcg"
+  },
+  "workout18": {
+    "description": "Glute activation for posture improvement",
+    "assignedTo": ["pat18"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-15",
+    "doctorId": "doc4",
+    "videoUrl": "https://youtu.be/3X0hEHop8ec?si=xKQGXWzJsE956n5y"
+  },
+  "workout19": {
+    "description": "Resistance bands for home strength",
+    "assignedTo": ["pat19"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-16",
+    "doctorId": "doc7",
+    "videoUrl": "https://youtu.be/ZiQh8jA5tVM?si=nrBuzPZVyX_oU-Wd"
+  },
+  "workout20": {
+    "description": "Gentle yoga and walking for elderly",
+    "assignedTo": ["pat20"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14",
+    "doctorId": "doc1",
+    "videoUrl": "https://youtu.be/sTANio_2E0Q?si=4oqxzlaam3welZ-_"
+  },
+  "workout21": {
+    "description": "Strength training for lower back recovery",
+    "assignedTo": ["pat21"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-15",
+    "doctorId": "doc6",
+    "videoUrl": "https://example.com/videos/lower-back-strength.mp4"
+  },
+  "workout22": {
+    "description": "Pilates and stretching for posture improvement",
+    "assignedTo": ["pat22"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-14",
+    "doctorId": "doc5",
+    "videoUrl": "https://youtu.be/brjAjq4zEIE?si=7WISz9cPibt8Kll_"
+  },
+  "workout23": {
+    "description": "Gentle morning yoga for fatigue recovery",
+    "assignedTo": ["pat23"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-13",
+    "doctorId": "doc8",
+    "videoUrl": "https://youtu.be/149Iac5fmoE?si=FgXEQxQZOw-VQVT3"
+  },
+  "workout24": {
+    "description": "Neck and shoulder mobility for tension relief",
+    "assignedTo": ["pat24"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-16",
+    "doctorId": "doc10",
+    "videoUrl": "https://youtu.be/hHhxKkskHDg?si=K-mfUwVwdm15Z3Q4"
+  },
+  "workout25": {
+    "description": "Leg strengthening for arthritis support",
+    "assignedTo": ["pat25"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15",
+    "doctorId": "doc1",
+    "videoUrl": "https://youtu.be/XeXz8fIZDCE?si=dUMIl8ENEXDfxOcj"
+  },
+  "workout26": {
+    "description": "Walking and breathing exercises for recovery",
+    "assignedTo": ["pat26"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-12",
+    "doctorId": "doc2",
+    "videoUrl": "https://youtu.be/b4ZnvU3QkRM?si=e0Nml2SWWKkgYZLc"
+  },
+  "workout27": {
+    "description": "Joint mobility and coordination drills",
+    "assignedTo": ["pat27"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-14",
+    "doctorId": "doc4",
+    "videoUrl": "https://youtu.be/Xc1TuZ_14lQ?si=5t6ds6DZ_xUtZtDi"
+  },
+  "workout28": {
+    "description": "High-knees and light jogs for stamina",
+    "assignedTo": ["pat28"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-13",
+    "doctorId": "doc3",
+    "videoUrl": "https://youtu.be/90DKrNwwnzA?si=vXDdN66jpmpWQyQo"
+  },
+  "workout29": {
+    "description": "Floor stretching and bodyweight squats",
+    "assignedTo": ["pat29"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-14",
+    "doctorId": "doc5",
+    "videoUrl": "https://youtu.be/2eA2Koq6pTI?si=L4uynlcJ15qEWPOE"
+  },
+  "workout30": {
+    "description": "Cardio kickboxing for energy boost",
+    "assignedTo": ["pat30"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-12",
+    "doctorId": "doc7",
+    "videoUrl": "https://youtu.be/Xj6KvJuyDnM?si=1ET_gxbyVbhf3uEL"
+  },
+  "workout31": {
+    "description": "Balance board and footwork drills",
+    "assignedTo": ["pat31"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-13",
+    "doctorId": "doc6",
+    "videoUrl": "https://youtu.be/5EybPvPoEio?si=ndeB4AQ6jxMXLaSw"
+  },
+  "workout32": {
+    "description": "Dynamic mobility and foam rolling",
+    "assignedTo": ["pat32"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15",
+    "doctorId": "doc9",
+    "videoUrl": "https://youtu.be/5EybPvPoEio?si=ndeB4AQ6jxMXLaSw"
+  },
+  "workout33": {
+    "description": "Power yoga and squats for core building",
+    "assignedTo": ["pat33"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14",
+    "doctorId": "doc3",
+    "videoUrl": "https://youtu.be/AUsbthQ9W-I?si=Culvn34WAqcHc-cI"
+  },
+  "workout34": {
+    "description": "Jogging, pushups, and crunches combo",
+    "assignedTo": ["pat34"],
+    "startDate": "2025-06-03",
+    "endDate": "2025-06-15",
+    "doctorId": "doc8",
+    "videoUrl": "https://youtu.be/6FyHoo4Vfxg?si=2VsML6786XUkDVR1"
+  },
+  "workout35": {
+    "description": "Stretching and mobility for spine alignment",
+    "assignedTo": ["pat35"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-16",
+    "doctorId": "doc9",
+    "videoUrl": "https://youtu.be/XrmCR5m_Nwo?si=vvalv-zXoMSWjEwH"
+  },
+  "workout36": {
+    "description": "Daily mobility routine with low squats",
+    "assignedTo": ["pat36"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14",
+    "doctorId": "doc10",
+    "videoUrl": "https://youtu.be/9EhHFemc8WQ?si=zZWK2y-WRFD3on4V"
+  },
+  "workout37": {
+    "description": "Guided mobility yoga for stiffness",
+    "assignedTo": ["pat37"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-15",
+    "doctorId": "doc2",
+    "videoUrl": "https://youtu.be/itJE4neqDJw?si=JLrhffrx0903AJxZ"
+  },
+  "workout38": {
+    "description": "Fast-paced cardio for weight management",
+    "assignedTo": ["pat38"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-14",
+    "doctorId": "doc5",
+    "videoUrl": "https://youtu.be/WVsCRJBP7Hs?si=ia1TlquODeu-vrgd"
+  },
+  "workout39": {
+    "description": "Breath-control yoga and head tilts",
+    "assignedTo": ["pat39"],
+    "startDate": "2025-06-02",
+    "endDate": "2025-06-13",
+    "doctorId": "doc7",
+    "videoUrl": "https://youtu.be/sTANio_2E0Q?si=EpYDOC2MP4XUxn5s"
+  },
+  "workout40": {
+    "description": "Evening walks and meditation for stress relief",
+    "assignedTo": ["pat40"],
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-12",
+    "doctorId": "doc9",
+    "videoUrl": "https://youtu.be/ihba9Lw0tv4?si=ITr6em5mT-pxI_bZ"
+  }
+}
+
+
