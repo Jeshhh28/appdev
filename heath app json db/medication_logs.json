@@ -1,0 +1,1586 @@
+{
+  "pat1": [
+    {
+      "log_id": "f803052c-93f7-4d88-8f6b-10515fadbed3",
+      "patient_id": "pat1",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": "2023-11-26T08:25:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-26T08:52:00Z",
+      "side_effects": [
+        {
+          "description": "Dizziness",
+          "severity": 3,
+          "notes": "Lightheadedness when standing"
+        }
+      ]
+    },
+    {
+      "log_id": "349ca8b1-7772-455a-9f03-15586a26a39a",
+      "patient_id": "pat1",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:20:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:40:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "d64006ff-cf1d-4122-aab5-8941df4342dd",
+      "patient_id": "pat1",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-22T08:51:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "196a30e9-014f-4198-ac2c-3f75b0fd0986",
+      "patient_id": "pat1",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-28T08:57:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat2": [
+    {
+      "log_id": "0d4cd822-e96a-43e9-a733-f275cd13b2c8",
+      "patient_id": "pat2",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-30T08:51:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "8397120c-ee59-43a3-a65b-714bcdf26411",
+      "patient_id": "pat2",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": "2023-11-28T08:15:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-28T08:40:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "32f912f6-16b7-4b6f-b24d-1f460c3dfc7f",
+      "patient_id": "pat2",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-29T08:53:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "681b678d-16b2-4921-814a-e196c5a94141",
+      "patient_id": "pat2",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-25T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-25T08:50:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat3": [
+    {
+      "log_id": "954a135e-e8a2-4063-b393-d92fc9574f6a",
+      "patient_id": "pat3",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": "2023-11-22T08:42:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-22T08:51:00Z",
+      "side_effects": [
+        {
+          "description": "Constipation",
+          "severity": 2,
+          "notes": "Irregular bowel movements"
+        }
+      ]
+    },
+    {
+      "log_id": "6dc8833d-e5d4-48c6-be4e-ce50a26467ea",
+      "patient_id": "pat3",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:40:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T09:00:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat4": [
+    {
+      "log_id": "e5628a4e-93f3-47c3-bb76-a7e2ab0bc11e",
+      "patient_id": "pat4",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-20T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-20T08:42:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "e1b3cc8f-7612-4d94-a050-674cdf1fdbf3",
+      "patient_id": "pat4",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": "2023-11-27T08:38:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-27T08:48:00Z",
+      "side_effects": [
+        {
+          "description": "Constipation",
+          "severity": 2,
+          "notes": "Irregular bowel movements"
+        }
+      ]
+    },
+    {
+      "log_id": "b954d1d1-dee7-4f0f-ade4-d09bf7db14e2",
+      "patient_id": "pat4",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": "2023-11-22T08:35:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-22T08:57:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat5": [
+    {
+      "log_id": "df5d7086-e702-4777-82a7-a756f426c32d",
+      "patient_id": "pat5",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:18:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:44:00Z",
+      "side_effects": [
+        {
+          "description": "Dizziness",
+          "severity": 3,
+          "notes": "Lightheadedness when standing"
+        }
+      ]
+    },
+    {
+      "log_id": "f5f23338-2f73-4448-8bbb-4a781bda5c94",
+      "patient_id": "pat5",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-22T08:48:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "1ea2c91c-6420-4e62-9dda-a406f2724714",
+      "patient_id": "pat5",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": "2023-11-30T08:15:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-30T08:49:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat6": [
+    {
+      "log_id": "34c712a8-fd3c-4452-be07-bf552adb9e31",
+      "patient_id": "pat6",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-29T08:58:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "4fa534d5-60da-4596-8b84-b6357d62edf4",
+      "patient_id": "pat6",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:45:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T08:45:00Z",
+      "side_effects": [
+        {
+          "description": "Insomnia",
+          "severity": 4,
+          "notes": "Difficulty sleeping"
+        }
+      ]
+    },
+    {
+      "log_id": "39ca5f24-5dd0-4397-b9d3-cc4a7f141017",
+      "patient_id": "pat6",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-28T08:58:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat7": [
+    {
+      "log_id": "e2cfdcfd-9d6f-48ac-b8ae-185762b5a4a4",
+      "patient_id": "pat7",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-21T08:51:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "2d6ef221-ef23-4b2b-8f2c-1b20ab760373",
+      "patient_id": "pat7",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": "2023-11-29T08:34:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-29T08:52:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "b15126da-df79-46d1-8dcd-8bcda6fac7b3",
+      "patient_id": "pat7",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-27T08:52:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "86c5ebf5-9af7-4177-ad75-fd1d69b253ff",
+      "patient_id": "pat7",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": "2023-11-24T08:36:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-24T08:43:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat8": [
+    {
+      "log_id": "a849cb17-5d73-47e0-96ad-e8275c92e935",
+      "patient_id": "pat8",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": "2023-11-28T08:31:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-28T08:48:00Z",
+      "side_effects": [
+        {
+          "description": "Loss of appetite",
+          "severity": 3,
+          "notes": "Reduced food intake"
+        }
+      ]
+    },
+    {
+      "log_id": "a6092106-9533-4474-abab-effe94079301",
+      "patient_id": "pat8",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": "2023-11-28T08:44:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-28T08:43:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "7349ef2d-76c6-4520-a329-35d4615dbeba",
+      "patient_id": "pat8",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": "2023-11-27T08:38:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-27T08:48:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "b9749e1e-e5a9-4992-9985-7c8b4daf8a30",
+      "patient_id": "pat8",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-22T08:42:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat9": [
+    {
+      "log_id": "0e9ff58a-bcd7-4042-8d56-6a728d5ee4d8",
+      "patient_id": "pat9",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-29T08:44:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "a2cd0c42-b266-4688-84b1-033c40334533",
+      "patient_id": "pat9",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-24T08:55:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "915501cf-b255-402b-b370-74ce55168e3d",
+      "patient_id": "pat9",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-29T08:41:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "8e5061fc-f7c5-44d4-b65e-c4eff2fb72fc",
+      "patient_id": "pat9",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-27T08:51:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat10": [
+    {
+      "log_id": "ccb848ae-3953-4c46-bb6f-0a4336a45f71",
+      "patient_id": "pat10",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": "2023-11-29T08:41:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-29T08:40:00Z",
+      "side_effects": [
+        {
+          "description": "Headache",
+          "severity": 2,
+          "notes": "Occasional headaches"
+        }
+      ]
+    },
+    {
+      "log_id": "f07e863d-277e-4334-9d63-f30dbc2e20c4",
+      "patient_id": "pat10",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-25T08:00:00Z",
+      "taken_time": "2023-11-25T08:28:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-25T08:58:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "81fc4791-2bde-47b3-8a42-7bda61c62064",
+      "patient_id": "pat10",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-30T08:51:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat11": [
+    {
+      "log_id": "9ae77d08-3c51-4c51-8ef1-f525267337b2",
+      "patient_id": "pat11",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-29T08:58:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "9f00ddd3-97d5-46ed-a2f0-6a17d1c16b3d",
+      "patient_id": "pat11",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-25T08:00:00Z",
+      "taken_time": "2023-11-25T08:34:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-25T08:42:00Z",
+      "side_effects": [
+        {
+          "description": "Dry mouth",
+          "severity": 1,
+          "notes": "Mild dry mouth symptoms"
+        }
+      ]
+    },
+    {
+      "log_id": "e0aa65bb-ad64-4eb0-97ca-f7e07762ebc8",
+      "patient_id": "pat11",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-27T08:52:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "aa4098c8-9844-477a-9e3f-1814c3d2a02b",
+      "patient_id": "pat11",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": "2023-11-29T08:37:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-29T08:46:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat12": [
+    {
+      "log_id": "4a9045b7-bf2b-43f0-ae93-7e8f0c7b0c93",
+      "patient_id": "pat12",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:23:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:54:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "80554396-a3fa-446e-89fa-94b40b3918db",
+      "patient_id": "pat12",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": "2023-11-24T08:20:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-24T08:56:00Z",
+      "side_effects": [
+        {
+          "description": "Nausea",
+          "severity": 3,
+          "notes": "Reported mild stomach upset"
+        }
+      ]
+    },
+    {
+      "log_id": "c07603f3-875c-4180-b3d7-70551f35888e",
+      "patient_id": "pat12",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-29T08:48:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat13": [
+    {
+      "log_id": "622b9a90-10e5-4cf0-a41a-cf3e9910b1ad",
+      "patient_id": "pat13",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": "2023-11-27T08:15:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-27T08:47:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "c1518a30-3dbc-46d0-b796-82504b2571c0",
+      "patient_id": "pat13",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-26T08:46:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat14": [
+    {
+      "log_id": "9ac767b2-b587-481d-b708-1143e1b7f594",
+      "patient_id": "pat14",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-21T08:40:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "591585ce-ff89-4c58-9610-5c21eb65a851",
+      "patient_id": "pat14",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": "2023-11-26T08:21:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-26T08:57:00Z",
+      "side_effects": [
+        {
+          "description": "Headache",
+          "severity": 2,
+          "notes": "Occasional headaches"
+        }
+      ]
+    },
+    {
+      "log_id": "e761657e-cab5-4ab1-8bc3-a411e1e8ce42",
+      "patient_id": "pat14",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:16:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T08:53:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "3b993f63-13a3-45bb-bdfb-5d7715a84015",
+      "patient_id": "pat14",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-28T08:43:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat15": [
+    {
+      "log_id": "883be462-a987-41ff-8a3b-2a01acb07b53",
+      "patient_id": "pat15",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-20T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-20T08:42:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "a046a336-6130-4e44-9c67-efcbc5e78ab7",
+      "patient_id": "pat15",
+      "medication_id": "med7",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": "2023-11-24T08:36:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-24T09:00:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat16": [
+    {
+      "log_id": "030dd271-f503-4775-8482-19314973b971",
+      "patient_id": "pat16",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-25T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-25T08:42:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "a3f021d2-1010-4e1e-a200-439d27a25c7d",
+      "patient_id": "pat16",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-28T08:56:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "99af662e-71a5-46bd-a7b6-c1558c65e13c",
+      "patient_id": "pat16",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": "2023-11-24T08:25:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-24T08:51:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat17": [
+    {
+      "log_id": "28ed924b-2be1-4a1e-81b3-0b4be0059443",
+      "patient_id": "pat17",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": "2023-11-30T08:44:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-30T08:55:00Z",
+      "side_effects": [
+        {
+          "description": "Drowsiness",
+          "severity": 2,
+          "notes": "Sleepiness during daytime"
+        }
+      ]
+    },
+    {
+      "log_id": "9fc810e8-be76-4522-aba2-b5532ffed9c3",
+      "patient_id": "pat17",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-24T08:44:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "36bb8de1-2331-44a4-9440-95652e269921",
+      "patient_id": "pat17",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-28T08:41:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "a82812b9-924f-4931-b504-14538d94e9d2",
+      "patient_id": "pat17",
+      "medication_id": "med7",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-24T08:58:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat18": [
+    {
+      "log_id": "d64d31c7-e808-4b70-a599-1424d250f1f2",
+      "patient_id": "pat18",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": "2023-11-22T08:18:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-22T08:52:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "8298367b-8112-4b22-99f3-6aecfacdb2d4",
+      "patient_id": "pat18",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": "2023-11-29T08:45:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-29T08:44:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat19": [
+    {
+      "log_id": "887ddd35-2447-4696-82b4-f6cf44f91e8c",
+      "patient_id": "pat19",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": "2023-11-22T08:41:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-22T08:53:00Z",
+      "side_effects": [
+        {
+          "description": "Dizziness",
+          "severity": 3,
+          "notes": "Lightheadedness when standing"
+        }
+      ]
+    },
+    {
+      "log_id": "d4ea46d8-1621-4739-b73b-7da1ce44965e",
+      "patient_id": "pat19",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-28T08:57:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat20": [
+    {
+      "log_id": "74da8286-0de7-4d55-a762-2b4afa18c7e3",
+      "patient_id": "pat20",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-30T08:44:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "11ef9acc-ea2b-44f8-b7c2-b7bd8789901d",
+      "patient_id": "pat20",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-29T08:48:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat21": [
+    {
+      "log_id": "c976d52f-e9a0-4f76-8715-7e4c7e5f359f",
+      "patient_id": "pat21",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": "2023-11-28T08:17:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-28T09:00:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "40601668-ca6a-416f-b2b5-b5663392bee6",
+      "patient_id": "pat21",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-27T09:00:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "aef4b2ce-57ba-485e-a760-0b6901ca420a",
+      "patient_id": "pat21",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-30T08:42:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat22": [
+    {
+      "log_id": "8d0fd47b-12b9-48b3-b819-9fa9c87547f0",
+      "patient_id": "pat22",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-24T09:00:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "4e67744e-069b-4450-882e-596f421de449",
+      "patient_id": "pat22",
+      "medication_id": "med7",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:31:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T08:47:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "4a46b5c4-1b34-40d3-b4e2-22c48056e89c",
+      "patient_id": "pat22",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": "2023-11-29T08:42:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-29T08:56:00Z",
+      "side_effects": [
+        {
+          "description": "Insomnia",
+          "severity": 4,
+          "notes": "Difficulty sleeping"
+        }
+      ]
+    },
+    {
+      "log_id": "2d01aa5a-0f6e-49c4-832d-4653a5c9029b",
+      "patient_id": "pat22",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-29T08:48:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat23": [
+    {
+      "log_id": "682d1816-366e-4954-b2c0-f89de78e14bd",
+      "patient_id": "pat23",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-25T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-25T08:40:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "aa154e02-55e6-4a67-9080-5789e06921b7",
+      "patient_id": "pat23",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": "2023-11-26T08:33:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-26T08:49:00Z",
+      "side_effects": [
+        {
+          "description": "Dry mouth",
+          "severity": 1,
+          "notes": "Mild dry mouth symptoms"
+        }
+      ]
+    }
+  ],
+  "pat24": [
+    {
+      "log_id": "6eb367fb-0b1e-4d04-81db-eaf4eac768fe",
+      "patient_id": "pat24",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": "2023-11-26T08:45:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-26T08:45:00Z",
+      "side_effects": [
+        {
+          "description": "Loss of appetite",
+          "severity": 3,
+          "notes": "Reduced food intake"
+        }
+      ]
+    },
+    {
+      "log_id": "f2a70eb0-47e3-4e73-89fd-e4b18c3a101c",
+      "patient_id": "pat24",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": "2023-11-27T08:28:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-27T08:49:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat25": [
+    {
+      "log_id": "adbb5dc3-0aee-4cc1-bf5d-ae84f5cbf879",
+      "patient_id": "pat25",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:31:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:56:00Z",
+      "side_effects": [
+        {
+          "description": "Dry mouth",
+          "severity": 1,
+          "notes": "Mild dry mouth symptoms"
+        }
+      ]
+    },
+    {
+      "log_id": "10e9fd09-818f-4b15-bc29-e91294e7d90f",
+      "patient_id": "pat25",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-20T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-20T08:42:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "13095f87-a467-41e1-befb-76afc37232af",
+      "patient_id": "pat25",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-30T08:40:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "d927fc72-8e4c-4e70-bb8c-49dad1a050df",
+      "patient_id": "pat25",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": "2023-11-27T08:37:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-27T08:47:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat26": [
+    {
+      "log_id": "4ede0823-c8b0-4ba9-8012-f36525007690",
+      "patient_id": "pat26",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": "2023-11-27T08:40:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-27T08:53:00Z",
+      "side_effects": [
+        {
+          "description": "Loss of appetite",
+          "severity": 3,
+          "notes": "Reduced food intake"
+        }
+      ]
+    },
+    {
+      "log_id": "46df6477-9e14-4305-9488-82b6ae86d51d",
+      "patient_id": "pat26",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": "2023-11-26T08:36:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-26T08:52:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat27": [
+    {
+      "log_id": "96053fef-463d-407a-9c35-a3d1d8b6e4e5",
+      "patient_id": "pat27",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-27T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-27T08:45:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "fe1d04ee-62c6-461c-a697-a6cd194a19e1",
+      "patient_id": "pat27",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-30T08:48:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat28": [
+    {
+      "log_id": "58d25513-bd93-40b8-be81-a7661e004ef2",
+      "patient_id": "pat28",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-28T08:41:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "83c34012-4409-480b-854a-254337c861a4",
+      "patient_id": "pat28",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-20T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-20T08:42:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "a13a6f14-d503-44e2-9d2d-11a3073acd18",
+      "patient_id": "pat28",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": "2023-11-22T08:25:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-22T08:49:00Z",
+      "side_effects": [
+        {
+          "description": "Constipation",
+          "severity": 2,
+          "notes": "Irregular bowel movements"
+        }
+      ]
+    },
+    {
+      "log_id": "285233c7-619f-41f3-90b0-b1933cfdd9fd",
+      "patient_id": "pat28",
+      "medication_id": "med7",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-30T08:45:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat29": [
+    {
+      "log_id": "5bf241a0-8744-4019-9b79-d46df56249c6",
+      "patient_id": "pat29",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-24T08:44:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "5ba55b1a-c6ed-44d3-ab46-b9df5886d930",
+      "patient_id": "pat29",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-25T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-25T08:59:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "3b0ae27f-835b-483d-be57-c1d8728bd8f6",
+      "patient_id": "pat29",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": "2023-11-30T08:18:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-30T08:53:00Z",
+      "side_effects": [
+        {
+          "description": "Constipation",
+          "severity": 2,
+          "notes": "Irregular bowel movements"
+        }
+      ]
+    },
+    {
+      "log_id": "f1e0efcb-26de-4a04-8603-b356f0ee379d",
+      "patient_id": "pat29",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-23T08:56:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat30": [
+    {
+      "log_id": "8a4f512c-bb10-48dd-9a61-8e5e1565a63d",
+      "patient_id": "pat30",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": "2023-11-26T08:15:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-26T08:52:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "5d2d5d92-6f07-445b-80d6-450ca22a011a",
+      "patient_id": "pat30",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": "2023-11-29T08:19:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-29T08:40:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat31": [
+    {
+      "log_id": "e19ab085-3aa2-475c-8ba6-a59422a7dd01",
+      "patient_id": "pat31",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-25T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-25T08:52:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "7fae9545-6b4a-4fab-a894-b4d657a5f7ea",
+      "patient_id": "pat31",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-28T08:51:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat32": [
+    {
+      "log_id": "52a59603-ba85-4816-b40c-b2ddc8d55f37",
+      "patient_id": "pat32",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-30T08:44:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "909237d4-05c2-4138-b3ea-53248f47963f",
+      "patient_id": "pat32",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-28T08:00:00Z",
+      "taken_time": "2023-11-28T08:24:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-28T08:55:00Z",
+      "side_effects": [
+        {
+          "description": "Loss of appetite",
+          "severity": 3,
+          "notes": "Reduced food intake"
+        }
+      ]
+    },
+    {
+      "log_id": "7e186d3d-0b3b-4022-8a2c-2654c72d5dec",
+      "patient_id": "pat32",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:45:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:53:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "e02509f2-a7b5-4c6a-86d6-bc1f8858e16d",
+      "patient_id": "pat32",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:21:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:47:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat33": [
+    {
+      "log_id": "266fb88a-d6ae-4b93-853c-f57769675482",
+      "patient_id": "pat33",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": "2023-11-30T08:15:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-30T08:51:00Z",
+      "side_effects": [
+        {
+          "description": "Nausea",
+          "severity": 3,
+          "notes": "Reported mild stomach upset"
+        }
+      ]
+    },
+    {
+      "log_id": "70763ebb-3821-4312-886e-925b4c20508f",
+      "patient_id": "pat33",
+      "medication_id": "med1",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:18:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:51:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "1afc8108-7bca-4439-9538-6b2c78ac8363",
+      "patient_id": "pat33",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-29T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-29T08:42:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat34": [
+    {
+      "log_id": "03101852-c13d-4449-8614-a7bcaba95c6b",
+      "patient_id": "pat34",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:35:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T09:00:00Z",
+      "side_effects": [
+        {
+          "description": "Nausea",
+          "severity": 3,
+          "notes": "Reported mild stomach upset"
+        }
+      ]
+    },
+    {
+      "log_id": "9f563aea-ad92-420d-9619-c546ecaaca1a",
+      "patient_id": "pat34",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-23T08:55:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat35": [
+    {
+      "log_id": "5bf88df0-214b-46f9-a74a-e76ca5ebd2c2",
+      "patient_id": "pat35",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:16:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:55:00Z",
+      "side_effects": [
+        {
+          "description": "Dizziness",
+          "severity": 3,
+          "notes": "Lightheadedness when standing"
+        }
+      ]
+    },
+    {
+      "log_id": "44d1f099-8ffd-45a8-9990-2242c71e95c3",
+      "patient_id": "pat35",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Felt unwell",
+      "logged_at": "2023-11-24T08:54:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "9f15d5d5-28db-489f-a839-4c2a960372f5",
+      "patient_id": "pat35",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-26T08:54:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "9b276033-5466-4297-affe-c9c09484f2d5",
+      "patient_id": "pat35",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-24T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-24T08:43:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat36": [
+    {
+      "log_id": "372adbc5-1a6f-4516-84ec-aa9f0116de4f",
+      "patient_id": "pat36",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:41:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T08:45:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "785b9741-7bef-44e8-984b-a18417415118",
+      "patient_id": "pat36",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": "2023-11-22T08:31:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-22T08:58:00Z",
+      "side_effects": [
+        {
+          "description": "Dizziness",
+          "severity": 3,
+          "notes": "Lightheadedness when standing"
+        }
+      ]
+    },
+    {
+      "log_id": "b8e872e6-c439-4347-9d4f-b73a09636f01",
+      "patient_id": "pat36",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-20T08:00:00Z",
+      "taken_time": "2023-11-20T08:18:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-20T08:52:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "62b3589a-8095-4490-8ea9-851bb2b48e45",
+      "patient_id": "pat36",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Forgot",
+      "logged_at": "2023-11-21T08:42:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat37": [
+    {
+      "log_id": "8fcdd6c4-bb50-4016-8b91-ff7cd0ead794",
+      "patient_id": "pat37",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-22T08:51:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "cb55c7f0-575e-4b00-9c3d-03e1d509878f",
+      "patient_id": "pat37",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-22T08:40:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "788059da-e39f-4669-abf5-71c626491177",
+      "patient_id": "pat37",
+      "medication_id": "med4",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": "2023-11-21T08:36:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-21T08:54:00Z",
+      "side_effects": [
+        {
+          "description": "Dizziness",
+          "severity": 3,
+          "notes": "Lightheadedness when standing"
+        }
+      ]
+    },
+    {
+      "log_id": "f66d36af-d021-4274-bcc5-ee4a7863e0d4",
+      "patient_id": "pat37",
+      "medication_id": "med8",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-23T08:46:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat38": [
+    {
+      "log_id": "1557115b-7f1a-4d08-bca9-547247bcb0c5",
+      "patient_id": "pat38",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:42:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T09:00:00Z",
+      "side_effects": [
+        {
+          "description": "Drowsiness",
+          "severity": 2,
+          "notes": "Sleepiness during daytime"
+        }
+      ]
+    },
+    {
+      "log_id": "6b0a5dd4-9c99-45e7-be92-48ba60dd6d50",
+      "patient_id": "pat38",
+      "medication_id": "med10",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:42:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T08:51:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat39": [
+    {
+      "log_id": "a992a820-e881-43a2-8496-cac1c43c078a",
+      "patient_id": "pat39",
+      "medication_id": "med3",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Busy",
+      "logged_at": "2023-11-23T08:42:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "319c98d4-ce1d-491a-b70c-c0cc385d6c7f",
+      "patient_id": "pat39",
+      "medication_id": "med5",
+      "scheduled_time": "2023-11-30T08:00:00Z",
+      "taken_time": "2023-11-30T08:39:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-30T08:45:00Z",
+      "side_effects": []
+    }
+  ],
+  "pat40": [
+    {
+      "log_id": "1d02a25c-6c46-4af9-b6b5-0ae3cb201875",
+      "patient_id": "pat40",
+      "medication_id": "med2",
+      "scheduled_time": "2023-11-22T08:00:00Z",
+      "taken_time": "2023-11-22T08:43:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-22T08:54:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "30347d9c-270e-4efa-b392-fed0b1a89faf",
+      "patient_id": "pat40",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-21T08:00:00Z",
+      "taken_time": null,
+      "status": "missed",
+      "reason_missed": "Out of medication",
+      "logged_at": "2023-11-21T08:59:00Z",
+      "side_effects": []
+    },
+    {
+      "log_id": "4be5bb31-a21a-418a-8615-a135f2674e9e",
+      "patient_id": "pat40",
+      "medication_id": "med9",
+      "scheduled_time": "2023-11-23T08:00:00Z",
+      "taken_time": "2023-11-23T08:15:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-23T08:56:00Z",
+      "side_effects": [
+        {
+          "description": "Drowsiness",
+          "severity": 2,
+          "notes": "Sleepiness during daytime"
+        }
+      ]
+    },
+    {
+      "log_id": "176e675e-7e04-4e56-aba4-3b5533703276",
+      "patient_id": "pat40",
+      "medication_id": "med6",
+      "scheduled_time": "2023-11-26T08:00:00Z",
+      "taken_time": "2023-11-26T08:34:00Z",
+      "status": "taken",
+      "reason_missed": null,
+      "logged_at": "2023-11-26T08:41:00Z",
+      "side_effects": []
+    }
+  ]
+}
