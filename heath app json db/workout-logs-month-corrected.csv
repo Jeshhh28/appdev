@@ -1,0 +1,1150 @@
+﻿log_id,patientId,workoutId,date,status,duration_minutes,feedback
+cbee04c7-951d-436d-a001-0641520f31bd,pat1,workout1,03-06-2025,missed,0,Could not do workout today
+a7823c92-5706-4185-b07a-0772fe5b0e23,pat1,workout1,04-06-2025,missed,0,Could not do workout today
+8cbc1db4-a796-40e6-81c7-2e371f8585d7,pat1,workout1,05-06-2025,completed,44,Mild discomfort
+bf049aa5-5717-4a5b-b124-f89f3bd10c5d,pat1,workout1,06-06-2025,completed,37,Mild discomfort
+c95fe044-b38c-4770-baeb-87d3c43d9535,pat1,workout1,07-06-2025,missed,0,Could not do workout today
+561cd411-ed97-4bee-8893-bc5581fa2503,pat1,workout1,08-06-2025,missed,0,Could not do workout today
+c08742e9-6e52-4ae7-8f86-49edd47b0db4,pat1,workout1,09-06-2025,missed,0,Could not do workout today
+b05e0945-7249-4936-bf04-15b8f3129b98,pat1,workout1,10-06-2025,missed,0,Could not do workout today
+ced19e9e-6055-46ae-828d-4de951d6e64d,pat1,workout1,11-06-2025,missed,0,Could not do workout today
+e2f3552d-69e7-4201-8153-1fcd723f63a2,pat1,workout1,12-06-2025,missed,0,Could not do workout today
+dfd83abf-b539-44e0-9a21-f99fb3b39456,pat1,workout1,13-06-2025,completed,30,Too tiring
+4bbe59a1-c003-4ab2-891d-e8ab51810293,pat2,workout2,02-06-2025,missed,0,Could not do workout today
+4dbcd9b3-b7ef-4c8c-9de7-8add5d3a6f27,pat2,workout2,03-06-2025,completed,46,Will do again
+2bf6f6ef-697e-46c9-bb68-3cdde0b6f2dc,pat2,workout2,04-06-2025,missed,0,Could not do workout today
+fc3685c0-bdf9-40ef-9396-254806c915ce,pat2,workout2,05-06-2025,completed,47,Mild discomfort
+33aac6f8-c9a9-40bb-9ebe-13e57bbb11a4,pat2,workout2,06-06-2025,completed,35,Need to improve form
+75558adf-328e-43a3-9864-c5f7328d5530,pat2,workout2,07-06-2025,completed,43,Need to improve form
+1a3d58a9-754e-4281-bc08-fecdc485dde9,pat2,workout2,08-06-2025,missed,0,Could not do workout today
+fca3bcee-c012-4e99-af89-00203dbfb3d6,pat2,workout2,09-06-2025,missed,0,Could not do workout today
+bef3fe14-c727-44f1-85f3-c8e5c2547b80,pat2,workout2,10-06-2025,completed,47,Felt great afterward
+a3210cd8-6701-4d5f-aedb-26207372aed3,pat2,workout2,11-06-2025,completed,59,Felt great afterward
+e76e5a3e-a1ad-435b-aec2-70d3d52de992,pat2,workout2,12-06-2025,completed,27,Need to improve form
+c875f168-563d-4d83-8c26-af10f0c302e3,pat2,workout2,13-06-2025,completed,31,Need to improve form
+dfc5cb97-0d8c-46e4-a550-be16a5e591fe,pat2,workout2,14-06-2025,missed,0,Could not do workout today
+3d190698-11d4-42f3-8e87-bd41127cb4da,pat2,workout2,15-06-2025,completed,54,Very refreshing
+53ace351-70be-40d8-b77d-ddcf4b35a992,pat3,workout3,01-06-2025,completed,36,Felt great afterward
+f75d546d-648b-4d44-b6b3-552bf97ac6ca,pat3,workout3,02-06-2025,missed,0,Could not do workout today
+19c082f2-522c-447d-b4a2-b43de408567c,pat3,workout3,03-06-2025,completed,35,Very refreshing
+67e1ac9b-53e1-41d4-a0c1-c4bef26d1b36,pat3,workout3,04-06-2025,completed,42,No issues
+d20a0d4a-793d-4833-90bf-f8a9c52dddf7,pat3,workout3,05-06-2025,completed,56,No issues
+3241d78c-efba-4672-87ba-c769328a40d5,pat3,workout3,06-06-2025,missed,0,Could not do workout today
+a41201c4-b7e7-48fc-a84d-9c457df7b202,pat3,workout3,07-06-2025,completed,37,Felt great afterward
+06195a06-e065-4818-a674-05e2262fa66e,pat3,workout3,08-06-2025,missed,0,Could not do workout today
+7d13e646-53cf-4668-ae2b-2e8507c94ecd,pat3,workout3,09-06-2025,missed,0,Could not do workout today
+e5462beb-cb91-47e8-a06a-06f281822a25,pat3,workout3,10-06-2025,completed,26,Too tiring
+374bb863-c3ee-4ffe-920d-43ea975fe2fb,pat3,workout3,11-06-2025,missed,0,Could not do workout today
+b8399377-12f2-4247-9bc8-3db9ac553bc4,pat3,workout3,12-06-2025,missed,0,Could not do workout today
+127ce1e9-8119-4053-bd17-b0c1cb411beb,pat3,workout3,13-06-2025,completed,50,Mild discomfort
+29c9780b-8c03-44bf-acb0-c0beb38f2b55,pat3,workout3,14-06-2025,completed,51,Felt great afterward
+4c7cd858-98d2-4a13-8579-bbee138f202a,pat4,workout4,01-06-2025,completed,27,Mild discomfort
+fcdffbe2-98d0-458a-a5a2-35289e6f15c6,pat4,workout4,02-06-2025,completed,56,Need to improve form
+4891c515-2f75-46e1-a188-26a62a6ac059,pat4,workout4,03-06-2025,missed,0,Could not do workout today
+2e6809fe-1c39-4d04-9fa5-9e7514a158e9,pat4,workout4,04-06-2025,completed,52,Need to improve form
+a09848b4-7504-4789-b26e-6dfd78b7fd37,pat4,workout4,05-06-2025,missed,0,Could not do workout today
+9a7b55c0-5b45-4d81-a2cc-1a5e3922f779,pat4,workout4,06-06-2025,completed,21,Need to improve form
+d165cece-8552-4362-a547-d71e92fc11d9,pat4,workout4,07-06-2025,missed,0,Could not do workout today
+97f4e049-a02c-4da8-9959-b6191df626d2,pat4,workout4,08-06-2025,missed,0,Could not do workout today
+841d5590-f325-4c6a-8e83-afb961aef5a6,pat4,workout4,09-06-2025,completed,54,Mild discomfort
+35661cdc-e2b1-45c7-9339-00f191e615e6,pat4,workout4,10-06-2025,completed,22,No issues
+940696be-2494-4087-a95f-918e014eaa81,pat4,workout4,11-06-2025,completed,51,No issues
+640bbfac-cb3b-41a6-ac43-920fec0539a9,pat4,workout4,12-06-2025,completed,56,Very refreshing
+8c1724b5-603a-4e8e-b9c1-27867efc0456,pat4,workout4,13-06-2025,completed,42,Felt great afterward
+5b984ebe-4ed9-4956-bef9-f2b8e1a0145d,pat4,workout4,14-06-2025,missed,0,Could not do workout today
+3647ef1c-f298-4055-9c72-700c5b05b4be,pat4,workout4,15-06-2025,missed,0,Could not do workout today
+f5eab0c6-482c-4981-bad7-dc7e1f2a0b26,pat4,workout4,16-06-2025,missed,0,Could not do workout today
+744199a5-c78d-4fdc-8db3-3af5376e18b1,pat4,workout4,17-06-2025,completed,28,Felt great afterward
+3b931c4a-3b83-4c4b-815f-c4819e429b68,pat4,workout4,18-06-2025,missed,0,Could not do workout today
+805a879b-b588-45c3-bdf4-140be69d7d1d,pat4,workout4,19-06-2025,missed,0,Could not do workout today
+d0f17e97-3721-41e1-a199-60ee6a4ee6a2,pat4,workout4,20-06-2025,missed,0,Could not do workout today
+d4db95f4-1425-40d0-a83b-23c2032004dd,pat4,workout4,21-06-2025,missed,0,Could not do workout today
+f58640a4-2b13-4f39-8b9c-3bdc5ce6fd7d,pat4,workout4,22-06-2025,completed,32,Felt great afterward
+9b295eea-71c0-4912-91dc-511f28bba8eb,pat4,workout4,23-06-2025,missed,0,Could not do workout today
+04f4f9f6-4eb8-435d-ba20-6a9d95f17052,pat4,workout4,24-06-2025,completed,48,Very refreshing
+8513b4a7-fd18-49c3-8904-ea470335ac32,pat4,workout4,25-06-2025,completed,44,Will do again
+91a5ed7f-e17b-40af-8dd3-4e91822f088b,pat4,workout4,26-06-2025,missed,0,Could not do workout today
+39d97787-c919-416c-afeb-10bf000229be,pat4,workout4,27-06-2025,completed,57,No issues
+dc32838a-b62b-45ef-845e-81a9ebafe82c,pat4,workout4,28-06-2025,completed,52,Will do again
+daa4cb56-a94e-491c-a054-c306953bdc4c,pat4,workout4,29-06-2025,missed,0,Could not do workout today
+15b0e9d5-7c01-4255-b041-cd6eaa1d127f,pat4,workout4,30-06-2025,completed,33,No issues
+cf27fa8f-de17-4c39-a2fd-d87c7009fab4,pat5,workout5,01-06-2025,completed,54,Mild discomfort
+ade28612-0c5b-4038-99a1-2fb9fd4fef58,pat5,workout5,02-06-2025,completed,57,No issues
+73b5a217-a5a3-420e-894c-31a1d301130c,pat5,workout5,03-06-2025,missed,0,Could not do workout today
+6c317d76-900d-4a69-a644-66d8eb0123fb,pat5,workout5,04-06-2025,completed,25,Need to improve form
+15bf8381-f5cd-4f0f-ba62-b7caf1f52ba5,pat5,workout5,05-06-2025,missed,0,Could not do workout today
+ac9bb7b4-048d-429f-9e7a-969c16a0b63c,pat5,workout5,06-06-2025,completed,42,No issues
+76934a5c-8450-43e9-b36e-6398512ede9c,pat5,workout5,07-06-2025,missed,0,Could not do workout today
+55eb4a52-73d7-4b94-bfdd-5256cdcb02a6,pat5,workout5,08-06-2025,missed,0,Could not do workout today
+d0404ee7-aec9-42cd-8eb7-3ae80f0ea4eb,pat5,workout5,09-06-2025,missed,0,Could not do workout today
+733b93db-ba2a-4e38-81d4-95b18445dff0,pat5,workout5,10-06-2025,missed,0,Could not do workout today
+9ff41a6f-ced6-484d-88b9-d76cc7f2737a,pat5,workout5,11-06-2025,completed,44,Very refreshing
+5ff0a062-a34b-4756-9868-5841f31a2639,pat5,workout5,12-06-2025,completed,37,Very refreshing
+bb9c3f98-6331-40f1-b761-c7bb8ca7d8b7,pat5,workout5,13-06-2025,missed,0,Could not do workout today
+212e16d4-3c74-4a1a-bf8f-153902d343e4,pat5,workout5,14-06-2025,completed,22,Need to improve form
+cdc9a239-c4ca-48e4-afa6-6fe8c3db6cf3,pat5,workout5,15-06-2025,missed,0,Could not do workout today
+187536c7-1afe-426d-977e-af6b42ee7c53,pat5,workout5,16-06-2025,completed,54,Felt great afterward
+1a77b1a8-d32e-44ad-a07f-6b5cfa01fe32,pat5,workout5,17-06-2025,missed,0,Could not do workout today
+02b6fabf-0dac-4367-8f8b-a1b674d815f6,pat5,workout5,18-06-2025,missed,0,Could not do workout today
+6b618287-1b9e-4e0d-bce0-c29eb6d9895a,pat5,workout5,19-06-2025,missed,0,Could not do workout today
+49081128-d25c-470c-ac45-a8c545fa03bb,pat5,workout5,20-06-2025,missed,0,Could not do workout today
+c2cf9dd0-b4be-4f8f-8500-6181077b58e8,pat5,workout5,21-06-2025,completed,34,Too tiring
+265b9e41-c4fa-4857-ae45-443438a94fc4,pat5,workout5,22-06-2025,missed,0,Could not do workout today
+62f7c9ee-c969-436e-a4de-d661c65b78c5,pat5,workout5,23-06-2025,missed,0,Could not do workout today
+8a5bab78-3c44-4006-a49d-b5b1abb13e6d,pat5,workout5,24-06-2025,completed,31,Will do again
+dc415e43-ca47-4d8c-8a5c-edbbbb24cd4e,pat5,workout5,25-06-2025,missed,0,Could not do workout today
+bbec5d78-a9a3-4f63-a967-a23f0f495d92,pat5,workout5,26-06-2025,completed,39,Too tiring
+b450fa64-5b25-4d6e-a5d2-a5b177b337fa,pat5,workout5,27-06-2025,missed,0,Could not do workout today
+4e49b76a-8032-4ecf-86e7-2dce66e5e99a,pat5,workout5,28-06-2025,missed,0,Could not do workout today
+df64fc0d-225a-4418-8a26-0cf114efa0ed,pat5,workout5,29-06-2025,missed,0,Could not do workout today
+ae2892e4-9a8d-4b0e-95c9-cc63ea44c309,pat5,workout5,30-06-2025,completed,48,Felt great afterward
+c80df03c-314d-4080-a338-1e08ac9fefc2,pat6,workout6,01-06-2025,completed,59,No issues
+f446c3cb-7154-4e5d-87c1-280128ce6d46,pat6,workout6,02-06-2025,missed,0,Could not do workout today
+fecb9bdd-5697-48af-8f1d-0f8a606d5415,pat6,workout6,03-06-2025,completed,34,Very refreshing
+ec84d211-4413-4cb8-8c21-ac3890488985,pat6,workout6,04-06-2025,completed,29,Need to improve form
+fe65380c-7432-4193-b44e-09fa315b17d4,pat6,workout6,05-06-2025,missed,0,Could not do workout today
+fb642763-4200-4dfa-a80c-133fc4f83b41,pat6,workout6,06-06-2025,missed,0,Could not do workout today
+85423dbf-077c-44b1-b8c0-45032a439904,pat6,workout6,07-06-2025,missed,0,Could not do workout today
+6ce025d8-abe5-4fec-8ba1-7d13a1e8715f,pat6,workout6,08-06-2025,completed,34,Too tiring
+3360d05d-924f-40b8-b4e7-78c3fe2f03ab,pat6,workout6,09-06-2025,completed,57,Too tiring
+6550022a-bddd-420a-98ac-bc775b52b73b,pat6,workout6,10-06-2025,completed,31,No issues
+216c210a-9b55-48e1-b047-10d4d36d86a8,pat6,workout6,11-06-2025,completed,29,Will do again
+e3210893-7dd8-4d0d-9c72-c776f7b4a0cf,pat6,workout6,12-06-2025,missed,0,Could not do workout today
+944e85d4-6d6a-4899-9ddd-1bbb2b43011f,pat6,workout6,13-06-2025,missed,0,Could not do workout today
+bbe1cd21-00b6-4194-8138-d31b486a46d6,pat6,workout6,14-06-2025,completed,40,Felt great afterward
+2c28600f-3f46-4d65-a537-b046e87268d5,pat6,workout6,15-06-2025,missed,0,Could not do workout today
+57e4f8c2-568f-4658-8168-3832d28739cd,pat6,workout6,16-06-2025,missed,0,Could not do workout today
+7927336a-6b3e-42c7-8dbf-756cd7ebcd7e,pat6,workout6,17-06-2025,missed,0,Could not do workout today
+24dbea83-229c-4ba3-bd51-38cfa8596efe,pat6,workout6,18-06-2025,missed,0,Could not do workout today
+e80deffa-a8a0-4fc8-9321-b26f79c56567,pat6,workout6,19-06-2025,completed,48,No issues
+354cc770-9a32-4395-8509-c30ca9df97c6,pat6,workout6,20-06-2025,completed,20,Need to improve form
+f3efc217-7b83-44c1-b1dc-6ad721bb1b1a,pat6,workout6,21-06-2025,missed,0,Could not do workout today
+24d6f53e-6e6d-4292-b9d9-2278f400d179,pat6,workout6,22-06-2025,missed,0,Could not do workout today
+bd6d3f99-6d72-4494-96de-5336588bf23a,pat6,workout6,23-06-2025,missed,0,Could not do workout today
+408acc50-bc96-4461-95dc-4023127cc145,pat6,workout6,24-06-2025,completed,57,No issues
+1432c4dc-ebbb-4548-ac40-8df94c953f7f,pat6,workout6,25-06-2025,missed,0,Could not do workout today
+634d0a5e-c9a5-472e-9950-45b32025c640,pat6,workout6,26-06-2025,completed,41,Felt great afterward
+c90b00bc-b2ac-4cc7-ba4c-80b81d8b7ead,pat6,workout6,27-06-2025,completed,30,Too tiring
+ef352587-c39b-4a7a-ba91-2a1180f9f05e,pat6,workout6,28-06-2025,missed,0,Could not do workout today
+00713f2f-5d95-40b2-83dc-ddfb35d503eb,pat6,workout6,29-06-2025,missed,0,Could not do workout today
+4bcbf9c9-a86d-424f-8b20-b98119a45e08,pat6,workout6,30-06-2025,missed,0,Could not do workout today
+5ee406a0-2661-46a0-b105-555338502b2a,pat7,workout7,01-06-2025,missed,0,Could not do workout today
+9dcbe335-4c03-4b6a-8a69-7eac421d803c,pat7,workout7,02-06-2025,missed,0,Could not do workout today
+4060e561-84cb-4966-b905-947d7f8880ee,pat7,workout7,03-06-2025,missed,0,Could not do workout today
+fffa6cd6-e14e-4db9-9c1e-d3d2ae39a536,pat7,workout7,04-06-2025,missed,0,Could not do workout today
+40589fb0-46d4-48d9-bc9f-1c6aa4bc5901,pat7,workout7,05-06-2025,completed,34,Felt great afterward
+c9d2b093-2fed-48bd-8c8c-13f391711af9,pat7,workout7,06-06-2025,completed,60,No issues
+a3dbb7f9-5d10-472a-a78f-fe3ec6160a5c,pat7,workout7,07-06-2025,completed,42,Too tiring
+aab63d74-7e31-4c45-a788-45c2d694bc0d,pat7,workout7,08-06-2025,missed,0,Could not do workout today
+c58058a2-7163-4b86-9a2e-3e9223b45fd4,pat7,workout7,09-06-2025,completed,45,No issues
+2834a1dc-a7cd-4ee5-b3db-b55e57f31bbf,pat7,workout7,10-06-2025,completed,49,Mild discomfort
+2d05f957-da81-4323-8530-5343ff8bd89f,pat7,workout7,11-06-2025,completed,32,Felt great afterward
+30bcb7a9-7fd8-43c5-8189-757a52596e0b,pat7,workout7,12-06-2025,completed,33,Too tiring
+ac5d941f-02f4-4d8b-b409-b7e9c710db51,pat7,workout7,13-06-2025,completed,22,Need to improve form
+d8f4ebba-a0a1-4d9d-bd91-17ee9bd21471,pat7,workout7,14-06-2025,missed,0,Could not do workout today
+30434415-f839-4d6c-8d7e-f6be81191e98,pat7,workout7,15-06-2025,missed,0,Could not do workout today
+01ac21ac-7b74-4d09-9645-45f3d6b48b1f,pat7,workout7,16-06-2025,completed,47,No issues
+e01eefad-f0ad-48a2-9c5d-4929a20bc6c1,pat7,workout7,17-06-2025,completed,34,No issues
+9d2ac06e-44cc-4d86-b013-141dafe21c66,pat7,workout7,18-06-2025,missed,0,Could not do workout today
+22dce760-f0eb-4cba-a698-97d15d8461c1,pat7,workout7,19-06-2025,completed,41,Too tiring
+8655dce8-6720-4b80-87c2-7412b511527a,pat7,workout7,20-06-2025,missed,0,Could not do workout today
+4f55e921-dff8-453c-aff4-d9972283610f,pat7,workout7,21-06-2025,missed,0,Could not do workout today
+0ae68509-4b2f-4219-9905-9558fb407c6e,pat7,workout7,22-06-2025,missed,0,Could not do workout today
+62d925e6-aef1-4d67-969c-c1424021ba34,pat7,workout7,23-06-2025,completed,44,Too tiring
+6afd8edc-4205-4f0e-bc85-c7bd44806a05,pat7,workout7,24-06-2025,missed,0,Could not do workout today
+ea2b1021-2f7b-4c6d-9f74-4512f1da6796,pat7,workout7,25-06-2025,completed,22,Too tiring
+5817635b-00ac-47c5-8f31-830e9e50f830,pat7,workout7,26-06-2025,missed,0,Could not do workout today
+97dd0aef-ab67-4737-b25b-a5b0c186df92,pat7,workout7,27-06-2025,completed,52,Need to improve form
+e4804ccc-b247-466f-8f4a-a97d9475f932,pat7,workout7,28-06-2025,completed,31,Need to improve form
+8183f454-ef73-4ba6-bf9f-bbf3a940dff3,pat7,workout7,29-06-2025,missed,0,Could not do workout today
+3d1a642d-5c03-427a-906d-643c6bf2ba4e,pat7,workout7,30-06-2025,completed,40,Very refreshing
+c43e1b56-522d-441b-bc6d-a912fa9688a2,pat8,workout8,01-06-2025,missed,0,Could not do workout today
+e72f8bf2-2f53-42ae-9817-9f0c252abd63,pat8,workout8,02-06-2025,completed,34,Too tiring
+d577fdcc-a8d6-4bc6-842b-e83f7c707ae4,pat8,workout8,03-06-2025,missed,0,Could not do workout today
+4f1f7fd5-22eb-4674-8b93-8630f4089239,pat8,workout8,04-06-2025,completed,58,Need to improve form
+f783cb82-b632-4cc1-bbef-fadac2989d80,pat8,workout8,05-06-2025,missed,0,Could not do workout today
+cac04c2f-1d53-4fba-a07a-407a137dce21,pat8,workout8,06-06-2025,missed,0,Could not do workout today
+cfa389cf-0d64-4d3d-87e0-ae6aae713456,pat8,workout8,07-06-2025,completed,28,Too tiring
+25242cc7-c025-4e9f-94f2-dc0b1a06986a,pat8,workout8,08-06-2025,completed,33,Need to improve form
+0a5ad98e-6b99-4ba8-b695-ec2fa6abc3da,pat8,workout8,09-06-2025,missed,0,Could not do workout today
+4d45e0f1-ada3-460d-ba84-4f6900f5541e,pat8,workout8,10-06-2025,completed,56,Mild discomfort
+004ad4bc-3c3d-431c-9eab-06edf1bcf77b,pat8,workout8,11-06-2025,completed,49,Very refreshing
+bffd1fe5-90fe-44e3-a5b1-b444243649fa,pat8,workout8,12-06-2025,completed,33,Felt great afterward
+60fe81c4-bb7d-42ea-83e9-6d5f265ba69e,pat8,workout8,13-06-2025,completed,52,Mild discomfort
+0ab37fc1-74e3-4de8-9007-6425122accda,pat8,workout8,14-06-2025,completed,38,Too tiring
+d80f69b5-1b29-4654-a8b8-ab4d68d877f6,pat8,workout8,15-06-2025,missed,0,Could not do workout today
+9dc49a5c-dfe2-486a-a627-0878e05103cd,pat8,workout8,16-06-2025,missed,0,Could not do workout today
+806b969e-d750-4dc1-896d-3de4512b64a4,pat8,workout8,17-06-2025,completed,28,Very refreshing
+0c03bd4e-5f4e-415b-ada6-1f206edeedb9,pat8,workout8,18-06-2025,completed,23,No issues
+ece9a445-01e3-4b08-95fa-d994898cc586,pat8,workout8,19-06-2025,missed,0,Could not do workout today
+bc442719-bad2-43ce-abc0-103c63512ab6,pat8,workout8,20-06-2025,missed,0,Could not do workout today
+3500a458-ed4c-4cee-8c52-09958f6c6522,pat8,workout8,21-06-2025,completed,51,Will do again
+15dc811b-9a46-4b1c-9ce7-03dfc4ad3ae2,pat8,workout8,22-06-2025,missed,0,Could not do workout today
+55756e9e-1eef-430f-8e94-417bf1fea585,pat8,workout8,23-06-2025,missed,0,Could not do workout today
+a9792d12-8096-4b73-9d26-114357f1d203,pat8,workout8,24-06-2025,missed,0,Could not do workout today
+7dfb6d04-a8c7-4eda-8652-e85fc259f6ed,pat8,workout8,25-06-2025,missed,0,Could not do workout today
+f54201f2-afe5-4f9a-b433-7cb2c1b111ee,pat8,workout8,26-06-2025,missed,0,Could not do workout today
+2ad0678b-fb61-47f4-bede-b962b64d2738,pat8,workout8,27-06-2025,completed,21,Need to improve form
+5538960a-0570-4c48-8306-e78c811f1cad,pat8,workout8,28-06-2025,missed,0,Could not do workout today
+50e6e7f7-528a-486f-82a0-1a372d94668f,pat8,workout8,29-06-2025,missed,0,Could not do workout today
+16eabc2b-36b6-4fa4-a375-67729eaccf0c,pat8,workout8,30-06-2025,completed,45,Too tiring
+eea60500-b300-43ec-83f0-f5563e732a69,pat9,workout9,01-06-2025,missed,0,Could not do workout today
+ae5ae7ba-9ba9-42d9-822e-ce63444d1556,pat9,workout9,02-06-2025,completed,57,Very refreshing
+64a11e85-401d-4b50-a884-6b113a50b34d,pat9,workout9,03-06-2025,missed,0,Could not do workout today
+483f6d10-4e94-45e2-b590-a496cf40e058,pat9,workout9,04-06-2025,missed,0,Could not do workout today
+deba9634-d72a-437b-a0d9-4d7d0c1a72e8,pat9,workout9,05-06-2025,missed,0,Could not do workout today
+ce06791e-f7cd-4925-b2f1-b0a031f84696,pat9,workout9,06-06-2025,completed,35,Need to improve form
+f032b82e-d801-4eee-ad4e-36ade4a48406,pat9,workout9,07-06-2025,completed,42,Very refreshing
+cc78039e-7544-48ae-9d38-2680c57dde8f,pat9,workout9,08-06-2025,missed,0,Could not do workout today
+89106a38-eda4-45eb-ba91-dc1b4acf4f19,pat9,workout9,09-06-2025,completed,27,Mild discomfort
+b38c7403-20e0-473b-8d8c-512f26032e69,pat9,workout9,10-06-2025,completed,39,Need to improve form
+4260186e-1d76-40c9-9272-190db2cf1abd,pat9,workout9,11-06-2025,missed,0,Could not do workout today
+4ec92056-f6e2-4eab-8a00-2236123ef748,pat9,workout9,12-06-2025,missed,0,Could not do workout today
+7461cc0b-d18f-4d86-a99a-2f618d452719,pat9,workout9,13-06-2025,completed,41,Too tiring
+6a3f4aeb-57ee-411a-9250-59e6e9f2db27,pat9,workout9,14-06-2025,completed,59,No issues
+8bec602e-966d-413b-98dc-2a906afdffe1,pat9,workout9,15-06-2025,missed,0,Could not do workout today
+49e1114b-e6d5-4f4e-b8ce-01921715cb6b,pat9,workout9,16-06-2025,missed,0,Could not do workout today
+7ab4cadb-ea04-49f5-9ffb-f766bc7c069f,pat9,workout9,17-06-2025,missed,0,Could not do workout today
+61e0a08a-d369-453e-ae3b-182be355fa5a,pat9,workout9,18-06-2025,completed,45,Will do again
+41729054-5cd7-4c71-868e-7b392f28202c,pat9,workout9,19-06-2025,completed,33,Need to improve form
+9576ef34-b8f1-4593-96b9-37e53051b3d2,pat9,workout9,20-06-2025,completed,58,Will do again
+4f0521e7-e092-4d8b-adea-d6cf22e3cb98,pat9,workout9,21-06-2025,completed,53,No issues
+c8f60154-35c4-49c6-bdbb-98cce3f11814,pat9,workout9,22-06-2025,missed,0,Could not do workout today
+1ac92e69-60ca-4f4d-9083-cb092659aaf0,pat9,workout9,23-06-2025,completed,53,Need to improve form
+8328483d-afa3-4887-8a3f-747dfe642fe5,pat9,workout9,24-06-2025,completed,41,Too tiring
+b04d9767-e0b7-4a54-9621-2ebab58baf61,pat9,workout9,25-06-2025,completed,49,Will do again
+ff178834-685f-4b77-acc4-4ebe80f1808a,pat9,workout9,26-06-2025,missed,0,Could not do workout today
+80c4afa2-c6f9-4e56-a8f0-2e52aea22630,pat9,workout9,27-06-2025,missed,0,Could not do workout today
+c1b7b85b-afa3-4c21-aaf2-342487ab9611,pat9,workout9,28-06-2025,completed,41,Felt great afterward
+9a5342bf-4888-4064-b764-3f38ddca5a90,pat9,workout9,29-06-2025,completed,57,Felt great afterward
+9913c31c-ca37-499c-aa27-de5107d1f634,pat9,workout9,30-06-2025,missed,0,Could not do workout today
+c1115300-da6d-4f40-ade5-1cbfead0c460,pat10,workout10,01-06-2025,missed,0,Could not do workout today
+e16e752b-dea7-4e8b-b6aa-d2b566ac63b6,pat10,workout10,02-06-2025,missed,0,Could not do workout today
+55af29a7-f6fa-4f53-9caf-0080ecaf7cf1,pat10,workout10,03-06-2025,missed,0,Could not do workout today
+c44521bc-0950-45fe-9a1c-f9c75e640dc9,pat10,workout10,04-06-2025,completed,33,Very refreshing
+3f32a4b6-b03c-45f2-be87-0af165634c7c,pat10,workout10,05-06-2025,missed,0,Could not do workout today
+54dc25bf-e27e-4b2a-b7c9-c612fdecc2ee,pat10,workout10,06-06-2025,missed,0,Could not do workout today
+233b1a34-65bd-4df3-a5df-41182adbbd2d,pat10,workout10,07-06-2025,completed,26,Too tiring
+66269c52-6fe1-49e4-a846-5bb0a3e75da3,pat10,workout10,08-06-2025,completed,46,Mild discomfort
+a2655f5b-d1c8-4d6d-810e-d602f9f20c2d,pat10,workout10,09-06-2025,completed,55,Need to improve form
+7005e430-0794-437d-9a56-ef0ddeda273f,pat10,workout10,10-06-2025,missed,0,Could not do workout today
+e8f21d41-5554-4f3c-95ef-ad35986bf0a4,pat10,workout10,11-06-2025,missed,0,Could not do workout today
+5392a0ee-67da-40e4-9037-a4f469a8fdf2,pat10,workout10,12-06-2025,completed,34,Very refreshing
+703b335b-4085-4212-bf99-6dc64a2e039b,pat10,workout10,13-06-2025,completed,54,Too tiring
+1c7d88c2-1cf2-438f-b93d-f16b0ad2e020,pat10,workout10,14-06-2025,completed,31,Will do again
+ab01fabf-0495-4320-baef-ae75d055295f,pat10,workout10,15-06-2025,completed,51,Need to improve form
+ea6ec63c-7b0b-496e-9f34-6ee0e4c97823,pat10,workout10,16-06-2025,completed,45,Too tiring
+c731a8c5-723b-46ab-83a3-8d3cfb9d8406,pat10,workout10,17-06-2025,completed,26,Too tiring
+03894c4a-0955-4350-90d0-d3c4a54a7526,pat10,workout10,18-06-2025,missed,0,Could not do workout today
+6aabeba7-07a8-4e31-9560-83a7624a4909,pat10,workout10,19-06-2025,missed,0,Could not do workout today
+8bae6250-5952-4a40-aa8c-fe05edafafb1,pat10,workout10,20-06-2025,completed,39,No issues
+fe99d4c1-ca04-45f6-a55e-e4b77a08fba3,pat10,workout10,21-06-2025,missed,0,Could not do workout today
+bac1a0ec-d621-4ab0-a7b2-48522ff91d9a,pat10,workout10,22-06-2025,missed,0,Could not do workout today
+f04be91b-e77d-4b2f-9b9a-39019fddab88,pat10,workout10,23-06-2025,missed,0,Could not do workout today
+4a9584bc-02a3-4472-97b7-d4b528ec37ae,pat10,workout10,24-06-2025,completed,56,Felt great afterward
+a0621bd2-a960-4565-b1e2-1f957199d988,pat10,workout10,25-06-2025,completed,32,Mild discomfort
+ce9f5333-c995-4727-860e-e6009d6454a6,pat10,workout10,26-06-2025,completed,23,Very refreshing
+542576dc-4a1e-47b5-bfe8-aa33c59d40f8,pat10,workout10,27-06-2025,missed,0,Could not do workout today
+a2046387-2c2c-4a4e-bcd8-4d6337a84a6e,pat10,workout10,28-06-2025,missed,0,Could not do workout today
+5f940f8a-c2af-46a2-9e6e-296d889d08d2,pat10,workout10,29-06-2025,missed,0,Could not do workout today
+70ec6206-fd31-46c7-b5b6-b6511ed68594,pat10,workout10,30-06-2025,completed,60,No issues
+46ad71ed-a90f-41e2-99b5-8a93f37c6494,pat11,workout11,01-06-2025,missed,0,Could not do workout today
+e1d04c0c-2fee-462d-a945-aaad5d7bf56c,pat11,workout11,02-06-2025,completed,25,Mild discomfort
+be39b5e6-dcdf-4bdd-9bf0-6dc7db4125d0,pat11,workout11,03-06-2025,completed,44,Mild discomfort
+c2a9165f-8feb-4da8-8118-4fc990026358,pat11,workout11,04-06-2025,missed,0,Could not do workout today
+0eb29c17-8463-43b0-88a4-e7be1e2dbb79,pat11,workout11,05-06-2025,missed,0,Could not do workout today
+9de97221-b546-442d-a7bc-c52b919d419a,pat11,workout11,06-06-2025,missed,0,Could not do workout today
+1ebac512-c9d5-4d78-a713-373c62a658d5,pat11,workout11,07-06-2025,missed,0,Could not do workout today
+0cec6c7f-e167-4f78-9d3c-3fa87653a58d,pat11,workout11,08-06-2025,missed,0,Could not do workout today
+7331871f-6b07-481d-b1cc-8efcb3d802e4,pat11,workout11,09-06-2025,missed,0,Could not do workout today
+76fe0762-fb0c-49f0-b694-613e89580490,pat11,workout11,10-06-2025,completed,38,Will do again
+67e9bcc3-2209-4900-8fed-f78bda64eb07,pat11,workout11,11-06-2025,completed,58,Need to improve form
+552ae3c4-b587-4c8b-8ef1-e834bfa5cb1e,pat11,workout11,12-06-2025,missed,0,Could not do workout today
+736254f9-221d-4c07-bfba-5d7d5ddb2236,pat11,workout11,13-06-2025,completed,42,Need to improve form
+432f1bc2-c4d9-4320-80bc-5421f6f2ae20,pat11,workout11,14-06-2025,completed,32,Felt great afterward
+a5f76a85-dd9a-4dfa-b127-b6b0183c05b5,pat11,workout11,15-06-2025,completed,31,Will do again
+a5203415-ad68-49df-a849-25f7489f6303,pat11,workout11,16-06-2025,completed,59,Felt great afterward
+bb9ecbb8-a3c1-4615-a9b2-9f65d8f353d0,pat11,workout11,17-06-2025,completed,39,Will do again
+5d507820-f8a6-45a4-a934-cc78cc3aefd3,pat11,workout11,18-06-2025,missed,0,Could not do workout today
+4bae0e72-8ce5-4124-812b-05892580a067,pat11,workout11,19-06-2025,missed,0,Could not do workout today
+a6a0bfdb-6b6c-4686-9f8f-d53ebd6e1a8e,pat11,workout11,20-06-2025,missed,0,Could not do workout today
+a309a57c-4a64-4624-bf2f-05a7fd295df3,pat11,workout11,21-06-2025,completed,54,Felt great afterward
+bbce0299-ab2a-4e1f-bdf2-bd63cc2dbab1,pat11,workout11,22-06-2025,completed,36,Very refreshing
+40021c85-14be-4491-8a69-7ba0e65b1584,pat11,workout11,23-06-2025,completed,49,Very refreshing
+b6d4cd49-c4b8-4b9d-84a6-2162cefe5ad3,pat11,workout11,24-06-2025,missed,0,Could not do workout today
+039bd871-f25e-49ab-94ba-9c69563a6a06,pat11,workout11,25-06-2025,missed,0,Could not do workout today
+5e8224e2-c2b5-4218-b69f-3959857cf3c8,pat11,workout11,26-06-2025,missed,0,Could not do workout today
+7ef65449-9857-46c9-bfb5-21539bff49e7,pat11,workout11,27-06-2025,completed,34,Very refreshing
+9c3500a8-0726-469d-9bce-fcba2f405d01,pat11,workout11,28-06-2025,missed,0,Could not do workout today
+9cadba7d-a429-4296-80d7-122521764d40,pat11,workout11,29-06-2025,completed,36,No issues
+12675348-2ee4-466f-836a-fb638682b217,pat11,workout11,30-06-2025,missed,0,Could not do workout today
+3f02f544-97bd-44a9-9b98-7c1c50d125f6,pat12,workout12,01-06-2025,missed,0,Could not do workout today
+23f16e19-c685-4d48-aa2a-7e4662ac5f7b,pat12,workout12,02-06-2025,completed,43,No issues
+5d72380b-a5c2-4417-8fcc-875e5d3c2325,pat12,workout12,03-06-2025,completed,50,Felt great afterward
+a9af3e45-2df7-45bc-b408-4211ef291d79,pat12,workout12,04-06-2025,completed,28,Need to improve form
+92d63159-f1c4-49dd-ac1f-807a8e6dd084,pat12,workout12,05-06-2025,missed,0,Could not do workout today
+e4e8f8fd-97a3-4b85-a72f-c73c4d9e8e6d,pat12,workout12,06-06-2025,completed,44,Very refreshing
+4f4113cf-50ac-4184-bd2e-fd9c0ce76c25,pat12,workout12,07-06-2025,completed,53,Mild discomfort
+540d8939-c782-4b84-a211-5048d5b23948,pat12,workout12,08-06-2025,missed,0,Could not do workout today
+dbac6815-1537-4cbf-adb1-35ed6c9736c6,pat12,workout12,09-06-2025,missed,0,Could not do workout today
+0d1b0bdc-0051-4614-a811-fe61717390fe,pat12,workout12,10-06-2025,completed,38,Mild discomfort
+14a827fa-7f33-432b-975b-3f431428e561,pat12,workout12,11-06-2025,completed,59,No issues
+bedfb874-bfc5-4d95-9a4f-7c86a7327cf6,pat12,workout12,12-06-2025,missed,0,Could not do workout today
+53ee8d7e-c801-48bd-92e3-449a8c93e54c,pat12,workout12,13-06-2025,completed,60,Mild discomfort
+ff3b120b-e865-4ff6-bdab-e1ed5c2446ec,pat12,workout12,14-06-2025,missed,0,Could not do workout today
+64cb6649-ed36-43a5-b603-c6673ad62636,pat12,workout12,15-06-2025,missed,0,Could not do workout today
+030ff102-6d77-49b6-bd43-cdffb9c8c7ac,pat12,workout12,16-06-2025,completed,42,Very refreshing
+40029806-aaa3-427a-84b3-94699bda96e3,pat12,workout12,17-06-2025,missed,0,Could not do workout today
+9bee5bfc-e7f0-4974-84ff-43ba44bc34c8,pat12,workout12,18-06-2025,missed,0,Could not do workout today
+bdfac7a6-6be0-41fc-8916-d1895b2c4654,pat12,workout12,19-06-2025,missed,0,Could not do workout today
+1a4bc865-a349-4f2c-96e1-e656a54171f7,pat12,workout12,20-06-2025,missed,0,Could not do workout today
+eec0b0ee-8bb6-4376-af8a-079fb7885c97,pat12,workout12,21-06-2025,missed,0,Could not do workout today
+c68d11e7-fd6b-4811-a35a-4260a2db3861,pat12,workout12,22-06-2025,completed,53,Mild discomfort
+173f09bd-b2eb-4535-9d58-872c88ff2182,pat12,workout12,23-06-2025,missed,0,Could not do workout today
+0376ae60-98b0-4c6a-8b41-5144701c0011,pat12,workout12,24-06-2025,completed,26,Need to improve form
+1c7f4560-30c5-4d59-8e91-96d65702581e,pat12,workout12,25-06-2025,missed,0,Could not do workout today
+999c52a1-5c57-4d62-a0c8-d6a5e012a3f6,pat12,workout12,26-06-2025,completed,45,Too tiring
+234783a2-9433-4351-9307-de981d121221,pat12,workout12,27-06-2025,completed,20,Mild discomfort
+6c66cf20-8cdc-4d69-845d-65445e21a22e,pat12,workout12,28-06-2025,missed,0,Could not do workout today
+27ab850f-255f-47df-89f7-267618db1921,pat12,workout12,29-06-2025,completed,31,Very refreshing
+16708dd9-98e4-48c1-b144-62cc760f5946,pat12,workout12,30-06-2025,missed,0,Could not do workout today
+f3e8bbfd-86ae-429a-8346-5d64047686bc,pat13,workout13,01-06-2025,completed,55,Mild discomfort
+11a07280-bf5f-4073-8b1e-0184245e2856,pat13,workout13,02-06-2025,completed,37,Too tiring
+0719e0b4-d2b3-43d5-9fb6-5ee1534de532,pat13,workout13,03-06-2025,missed,0,Could not do workout today
+09e6e2b5-4795-41a1-a6a0-e577e984303e,pat13,workout13,04-06-2025,missed,0,Could not do workout today
+f78f322e-1642-407b-9d88-9c79cfa0bf6c,pat13,workout13,05-06-2025,missed,0,Could not do workout today
+37cfd99d-7e4d-41c5-9839-449bc5e6e443,pat13,workout13,06-06-2025,completed,48,Need to improve form
+8efbf063-2c4e-4c2b-839c-5f52849eb95b,pat13,workout13,07-06-2025,missed,0,Could not do workout today
+92985fb1-eb7d-47ad-9eda-ddbc1384cf8e,pat13,workout13,08-06-2025,missed,0,Could not do workout today
+3240ae8e-c30a-4bbe-a9a7-5aec66e19f0e,pat13,workout13,09-06-2025,completed,28,No issues
+c2bfc566-817c-40c4-ad01-b4bf076249db,pat13,workout13,10-06-2025,completed,42,Need to improve form
+2db17b56-a883-4f66-b2c3-7ea665ef9020,pat13,workout13,11-06-2025,missed,0,Could not do workout today
+b21f60d6-ce8c-4256-b909-6481bc41d15a,pat13,workout13,12-06-2025,completed,41,Too tiring
+84756d6f-43fb-424e-98e7-50a7c803ec96,pat13,workout13,13-06-2025,missed,0,Could not do workout today
+78088415-0b6d-499a-9582-7828a2a84c0c,pat13,workout13,14-06-2025,completed,46,Very refreshing
+28edfd59-aa7c-4926-8705-d0c9aa2cf644,pat13,workout13,15-06-2025,completed,27,Need to improve form
+43c81966-5fbd-4a0d-8602-8e60257b9e31,pat13,workout13,16-06-2025,missed,0,Could not do workout today
+228a8316-1706-4a5e-a81a-b1e604e97f84,pat13,workout13,17-06-2025,completed,37,Mild discomfort
+de0b8d75-374d-4cbb-8c17-e9db3b151a58,pat13,workout13,18-06-2025,missed,0,Could not do workout today
+1c3b5d51-35c5-440a-adf0-47be431c995e,pat13,workout13,19-06-2025,completed,54,Will do again
+e2768841-675d-4ec9-b079-72b7021bca69,pat13,workout13,20-06-2025,missed,0,Could not do workout today
+256347d6-c5ec-4067-bef4-ba72fa42fda4,pat13,workout13,21-06-2025,missed,0,Could not do workout today
+6434a609-f11d-424e-884e-910f77f5c6ea,pat13,workout13,22-06-2025,completed,38,Need to improve form
+cf8e6c74-f29c-45ee-b065-74587af77a79,pat13,workout13,23-06-2025,completed,51,Too tiring
+f8303dd5-9c64-43f1-b440-17151c376da3,pat13,workout13,24-06-2025,completed,20,Very refreshing
+30b0dc3b-ba63-4ef9-b3fc-948fc655f2d7,pat13,workout13,25-06-2025,missed,0,Could not do workout today
+3e0feb76-082d-4da9-8344-5f437ea1ba88,pat13,workout13,26-06-2025,missed,0,Could not do workout today
+56c160cf-8bac-4cde-b6cf-93d7d877f83d,pat13,workout13,27-06-2025,completed,28,Felt great afterward
+a9fc9150-1840-4185-ad0b-d9fe912f21c2,pat13,workout13,28-06-2025,completed,31,Mild discomfort
+2e473f34-7c17-4504-9fc3-f7655ce27ed2,pat13,workout13,29-06-2025,missed,0,Could not do workout today
+1bb14b16-19ef-4a03-b1d1-07ed988dd3d8,pat13,workout13,30-06-2025,completed,29,Felt great afterward
+19cf38af-baea-4979-af13-a990b95e136f,pat14,workout14,01-06-2025,missed,0,Could not do workout today
+9b325dd9-f4ea-48ec-bb27-2c6b5d5a34d4,pat14,workout14,02-06-2025,completed,27,Will do again
+072feca9-1dfe-4c41-be81-30a4de05f2bd,pat14,workout14,03-06-2025,missed,0,Could not do workout today
+c4db35bb-bb10-455c-bdb8-2920259b34c6,pat14,workout14,04-06-2025,missed,0,Could not do workout today
+756e8f01-ee93-41a7-a27a-09723a181a98,pat14,workout14,05-06-2025,missed,0,Could not do workout today
+a3ba61f5-e3ed-4749-a276-57685d271df3,pat14,workout14,06-06-2025,completed,30,Too tiring
+6bf10b9c-a7a0-4f5b-bbd6-15c018d2f963,pat14,workout14,07-06-2025,missed,0,Could not do workout today
+d78353ff-9771-4db6-8bf1-f277c5fd2a97,pat14,workout14,08-06-2025,completed,31,Felt great afterward
+ff94e55a-9015-4553-ad30-6f0571d2fe32,pat14,workout14,09-06-2025,completed,50,Will do again
+3fb5a0d6-7b1d-4877-b6e9-b016067d2b90,pat14,workout14,10-06-2025,completed,28,Mild discomfort
+dec2d776-7b11-475d-adf6-d7cba4faa5fb,pat14,workout14,11-06-2025,completed,46,Felt great afterward
+164cb9a2-f859-4e26-8974-af09b53664f2,pat14,workout14,12-06-2025,missed,0,Could not do workout today
+13705cc8-1ae3-4e36-b71d-64b74c9f89c0,pat14,workout14,13-06-2025,missed,0,Could not do workout today
+7a32484b-9be6-4c48-ae1d-8337cfdfba34,pat14,workout14,14-06-2025,completed,45,Will do again
+b38cd9f1-1a75-472f-876e-518cd1e79140,pat14,workout14,15-06-2025,completed,60,Too tiring
+513946d2-d971-4fd2-856f-b187b1b164a6,pat14,workout14,16-06-2025,completed,31,Felt great afterward
+140edb71-aa97-4cab-9e0d-7ef2aabad97e,pat14,workout14,17-06-2025,missed,0,Could not do workout today
+8ce70929-aff0-4763-a362-bccac309a077,pat14,workout14,18-06-2025,missed,0,Could not do workout today
+3a6c5c3a-bdc7-4500-9a64-b44a6aa8720c,pat14,workout14,19-06-2025,completed,46,No issues
+9c5c1aab-174b-44a4-a0af-857f470933f2,pat14,workout14,20-06-2025,completed,25,Need to improve form
+cbc36e3a-b010-4db5-b725-2db0ded0b82e,pat14,workout14,21-06-2025,completed,45,Too tiring
+13d3afea-8e14-4b04-8656-6ce96df2abff,pat14,workout14,22-06-2025,missed,0,Could not do workout today
+5a0752ff-7bce-4b02-8a5f-b0b2a9bcf28e,pat14,workout14,23-06-2025,completed,39,Felt great afterward
+5e1fd559-2ea6-4d78-b994-bfed856f4e23,pat14,workout14,24-06-2025,missed,0,Could not do workout today
+e765a7e8-b560-4d05-8634-039a5b94872f,pat14,workout14,25-06-2025,missed,0,Could not do workout today
+367102b3-44c1-4eb3-ad7f-1109af4e787f,pat14,workout14,26-06-2025,missed,0,Could not do workout today
+d51b1ea3-a17e-4271-9883-ce797f4aeb09,pat14,workout14,27-06-2025,missed,0,Could not do workout today
+2b2f9d3f-cd86-4eda-86d5-3eff4d8a4c0c,pat14,workout14,28-06-2025,missed,0,Could not do workout today
+ad1f0a79-84cc-423d-be04-3907a6bb78f5,pat14,workout14,29-06-2025,missed,0,Could not do workout today
+4b0c2c30-aff2-449d-961e-350455bea81b,pat14,workout14,30-06-2025,completed,42,Too tiring
+e546b06d-b7f2-4272-ab98-b837aac38ce4,pat15,workout15,01-06-2025,missed,0,Could not do workout today
+09141e90-0717-415c-b179-c981dca7ae36,pat15,workout15,02-06-2025,completed,59,Will do again
+e119f155-daf5-4188-83a8-c35fff7b92cf,pat15,workout15,03-06-2025,completed,33,Very refreshing
+5f5d4bb3-7726-491c-a59d-21bfaebddafe,pat15,workout15,04-06-2025,completed,54,Mild discomfort
+e1f5abd9-8ee4-441c-abea-4b1420499bb0,pat15,workout15,05-06-2025,missed,0,Could not do workout today
+76d51d1e-a6fe-44fe-aed3-90bbe4eea833,pat15,workout15,06-06-2025,completed,27,Need to improve form
+b444a265-de9c-419a-9c14-16dfdc6eecc8,pat15,workout15,07-06-2025,missed,0,Could not do workout today
+69ab3bc1-178a-4478-aff0-03e310b84552,pat15,workout15,08-06-2025,missed,0,Could not do workout today
+c74e2073-fb2b-483d-946a-159cda0e9f52,pat15,workout15,09-06-2025,missed,0,Could not do workout today
+c525c8f6-2352-46ad-9b44-33afffb16e76,pat15,workout15,10-06-2025,completed,52,Will do again
+f3d5b929-4e89-4b50-849c-6a5c03a4558a,pat15,workout15,11-06-2025,completed,31,Felt great afterward
+1be2ee66-6064-49c1-a448-3c41ff779446,pat15,workout15,12-06-2025,completed,52,No issues
+60e1a091-02b6-4c28-a007-0421eb3932fc,pat15,workout15,13-06-2025,completed,20,No issues
+d318321c-d162-4e87-97aa-456daabe70bb,pat15,workout15,14-06-2025,completed,48,Need to improve form
+4c729142-48de-49c0-96e9-97e89261902e,pat15,workout15,15-06-2025,missed,0,Could not do workout today
+7c835634-8d6a-42d2-9fa3-2f22d184de41,pat15,workout15,16-06-2025,missed,0,Could not do workout today
+007aedae-4e83-41d1-a3f8-5c49da3cd893,pat15,workout15,17-06-2025,missed,0,Could not do workout today
+8d9d1d68-0e2e-4617-909a-6634de4dd528,pat15,workout15,18-06-2025,missed,0,Could not do workout today
+f19641d5-b464-4c5e-9ed5-e657f542eae8,pat15,workout15,19-06-2025,completed,42,No issues
+f72141a7-284f-4777-aee3-24f0e417c0c4,pat15,workout15,20-06-2025,missed,0,Could not do workout today
+c9502eb3-eed1-42c1-b3eb-beefe4894acb,pat15,workout15,21-06-2025,missed,0,Could not do workout today
+3c28a98c-3050-44b0-82dc-f1a036f6773a,pat15,workout15,22-06-2025,missed,0,Could not do workout today
+048c7db6-47f1-4314-9f5f-5f1adb7ebd50,pat15,workout15,23-06-2025,completed,22,Too tiring
+92ed34d4-5adf-45e8-8233-5ffe52914453,pat15,workout15,24-06-2025,missed,0,Could not do workout today
+f1990179-ec4c-4808-aaff-15bdea1acfcb,pat15,workout15,25-06-2025,missed,0,Could not do workout today
+722e86da-f1a5-4178-a40e-4adc4c1ca080,pat15,workout15,26-06-2025,missed,0,Could not do workout today
+0d53ae01-50c9-46cf-954b-71c7f8cddf35,pat15,workout15,27-06-2025,missed,0,Could not do workout today
+4ab6688b-e4c5-40d1-991e-8d1d3273dd8f,pat15,workout15,28-06-2025,missed,0,Could not do workout today
+6dd6504c-09dc-46ff-9032-075a5cd7be2d,pat15,workout15,29-06-2025,missed,0,Could not do workout today
+a7d7b2a0-accf-46a7-95c5-5a143b811849,pat15,workout15,30-06-2025,completed,36,Need to improve form
+e57d959b-b153-4478-9d6f-dcba79acd835,pat16,workout16,01-06-2025,missed,0,Could not do workout today
+95465e2b-44f9-41ff-91ec-be665010e44e,pat16,workout16,02-06-2025,missed,0,Could not do workout today
+f6c80fa5-7ba7-41ea-a913-b01c1b8b3a49,pat16,workout16,03-06-2025,completed,30,Will do again
+210fe631-5f40-451b-862a-1a0a3fa3cee7,pat16,workout16,04-06-2025,missed,0,Could not do workout today
+9c189950-5080-40d6-977d-fa4ec68a3ae6,pat16,workout16,05-06-2025,missed,0,Could not do workout today
+a3fb8196-fe2d-4d19-9f76-5584de38a1f1,pat16,workout16,06-06-2025,missed,0,Could not do workout today
+1b66a0e9-bdaa-45cf-8f46-c8f773a36de6,pat16,workout16,07-06-2025,completed,46,Mild discomfort
+302f536a-37a4-48bb-b23e-8552ea4fea45,pat16,workout16,08-06-2025,missed,0,Could not do workout today
+9d158802-38fe-4c33-bc3c-6c243ad10bfc,pat16,workout16,09-06-2025,completed,57,Need to improve form
+80082704-3f08-477a-b778-1468199a589d,pat16,workout16,10-06-2025,completed,26,No issues
+d7231231-f81f-496e-807e-317418d54dc0,pat16,workout16,11-06-2025,completed,28,Will do again
+56fd05c3-bf1a-43f6-9abe-d3b8eb9f9232,pat16,workout16,12-06-2025,missed,0,Could not do workout today
+8bb5c87f-671f-44fe-8132-85aba5692647,pat16,workout16,13-06-2025,missed,0,Could not do workout today
+cd888c7a-d24c-497d-b6e3-53018be4adb2,pat16,workout16,14-06-2025,missed,0,Could not do workout today
+31ec6c29-eb6f-482c-8cd8-067502bffcb4,pat16,workout16,15-06-2025,missed,0,Could not do workout today
+bd73efd4-de4c-49e6-b4d0-50165052c11f,pat16,workout16,16-06-2025,missed,0,Could not do workout today
+6a3ec15a-e42a-444f-b28b-656d70aeb3d9,pat16,workout16,17-06-2025,completed,33,Mild discomfort
+124c8406-885b-4d80-8417-b55228479262,pat16,workout16,18-06-2025,completed,48,Very refreshing
+0518d184-a063-4270-a46d-0e0b83970042,pat16,workout16,19-06-2025,completed,38,Need to improve form
+b7bd5e71-88d8-495e-84ca-969b4f9b98a5,pat16,workout16,20-06-2025,missed,0,Could not do workout today
+ea4b3f0a-5d4e-46ce-9a45-fb6ed8767aeb,pat16,workout16,21-06-2025,completed,40,Too tiring
+a8b98391-7b4f-483a-8b83-00b28983a216,pat16,workout16,22-06-2025,completed,56,Mild discomfort
+c869a1e5-3fca-4978-819a-b609cf4a02a2,pat16,workout16,23-06-2025,missed,0,Could not do workout today
+5e4ec7f3-ae0f-449e-9c41-31ecc78fe106,pat16,workout16,24-06-2025,completed,57,Too tiring
+3e3a6fc8-5c9c-4a22-8a14-71d229d28949,pat16,workout16,25-06-2025,missed,0,Could not do workout today
+c7babc2c-e0c9-46cd-8bb9-db5b79195618,pat16,workout16,26-06-2025,missed,0,Could not do workout today
+197f5037-28ec-4da1-8136-5133a842d506,pat16,workout16,27-06-2025,completed,30,Need to improve form
+21895f99-e149-4aa7-b82a-4c8ef278109f,pat16,workout16,28-06-2025,missed,0,Could not do workout today
+c65de516-9ea1-4dac-bc20-bbe90ce87d35,pat16,workout16,29-06-2025,completed,58,No issues
+cb0e686b-a35f-473b-9dce-d7bd2641fd3d,pat16,workout16,30-06-2025,missed,0,Could not do workout today
+497d7c62-a3c8-4290-846b-10d257102a1b,pat17,workout17,01-06-2025,missed,0,Could not do workout today
+79b3c1cd-918d-4998-8012-a1ebaf900eb7,pat17,workout17,02-06-2025,missed,0,Could not do workout today
+854c4e79-88cc-46f0-bc74-a315fea2aa25,pat17,workout17,03-06-2025,completed,28,No issues
+b886ea02-c2bf-4299-b906-ee7cdc0fb785,pat17,workout17,04-06-2025,completed,28,Felt great afterward
+5521d1eb-e898-401c-8f11-8b39cfc46653,pat17,workout17,05-06-2025,missed,0,Could not do workout today
+9c204be0-5761-46a8-a48a-89048e1122f5,pat17,workout17,06-06-2025,missed,0,Could not do workout today
+bdf854ee-7402-4dae-a09a-043d3ee1bb10,pat17,workout17,07-06-2025,completed,37,Need to improve form
+46bf2e95-2d6f-4f0a-95d2-ea79990df6a5,pat17,workout17,08-06-2025,missed,0,Could not do workout today
+420de62a-027c-4d27-9122-a60986ec132f,pat17,workout17,09-06-2025,missed,0,Could not do workout today
+552a87a4-805e-43c5-8951-8ed888ea73d6,pat17,workout17,10-06-2025,completed,23,Mild discomfort
+fbe75d98-016b-46c7-ae4c-59e955acb3a4,pat17,workout17,11-06-2025,missed,0,Could not do workout today
+799435b2-b590-4068-8932-cfa1a493eb16,pat17,workout17,12-06-2025,completed,28,No issues
+0f0d136b-8934-4768-9a7f-61a7f501cc4d,pat17,workout17,13-06-2025,completed,56,Too tiring
+f571a643-4338-4e6a-b3b6-5ecb33368a50,pat17,workout17,14-06-2025,completed,32,Very refreshing
+b1317136-17a7-4968-b75e-69f282aa0db0,pat17,workout17,15-06-2025,missed,0,Could not do workout today
+8a71af6e-0a34-43d3-b070-ce985ce7ea18,pat17,workout17,16-06-2025,missed,0,Could not do workout today
+b7f4e71f-ffdc-4edd-83aa-0f5fe7fd0095,pat17,workout17,17-06-2025,completed,36,Very refreshing
+1de07655-a603-4660-9fed-16f6b675aac6,pat17,workout17,18-06-2025,completed,35,Mild discomfort
+f96defb2-e37d-490d-82b8-df01c3dcd2b0,pat17,workout17,19-06-2025,completed,57,Felt great afterward
+0062ddeb-75fb-4f22-b05c-586ab6c13448,pat17,workout17,20-06-2025,missed,0,Could not do workout today
+767c5c8b-b38b-40ea-946a-e851a9ee8bab,pat17,workout17,21-06-2025,completed,20,No issues
+fb6bbd93-10f3-495e-9616-fc296cd3b8dc,pat17,workout17,22-06-2025,completed,34,No issues
+02d3f160-61af-41c8-840c-3d8e8703ca0b,pat17,workout17,23-06-2025,completed,35,Felt great afterward
+8d4dff87-d309-4085-b04d-0ea99509d415,pat17,workout17,24-06-2025,missed,0,Could not do workout today
+477948a4-db83-4e56-828a-c02f3bdbf824,pat17,workout17,25-06-2025,missed,0,Could not do workout today
+853fea64-26a1-49c9-bcea-42ef048cbc73,pat17,workout17,26-06-2025,missed,0,Could not do workout today
+890e26f4-4a63-4bc4-b04c-91abca324f5b,pat17,workout17,27-06-2025,missed,0,Could not do workout today
+5c92666a-7051-407c-b291-e6e97e718fa3,pat17,workout17,28-06-2025,completed,38,Very refreshing
+8e23b351-d387-4859-b839-6f61fc9f037c,pat17,workout17,29-06-2025,missed,0,Could not do workout today
+ba71a79c-9a87-4b84-8871-c63c1ca6068c,pat17,workout17,30-06-2025,missed,0,Could not do workout today
+b185b79e-a729-4d32-955e-9a47bb227a56,pat18,workout18,01-06-2025,missed,0,Could not do workout today
+c4acff2e-4dc4-4c26-93e9-e78cbf568a3b,pat18,workout18,02-06-2025,missed,0,Could not do workout today
+b68c908d-30a7-44ed-acc2-aded3d76961d,pat18,workout18,03-06-2025,missed,0,Could not do workout today
+543aa19f-5578-42f0-a891-9898891ccb7e,pat18,workout18,04-06-2025,missed,0,Could not do workout today
+14fa05f1-822f-46f0-8796-fcc93466dafd,pat18,workout18,05-06-2025,missed,0,Could not do workout today
+7d54ceaa-c2a7-43c1-b0c8-5449c88fde14,pat18,workout18,06-06-2025,missed,0,Could not do workout today
+d7af2498-e39e-419b-b686-2e8b826fad6e,pat18,workout18,07-06-2025,missed,0,Could not do workout today
+1646642f-8e72-4a74-894a-12f7e5ddee9a,pat18,workout18,08-06-2025,missed,0,Could not do workout today
+00924ea9-2cc8-4eda-b4c9-a006ea4fb7d0,pat18,workout18,09-06-2025,completed,40,Felt great afterward
+3bb4a9c5-d1ec-4de7-9486-28038d341c1c,pat18,workout18,10-06-2025,completed,59,Need to improve form
+3b6b7243-8458-46fe-956a-fbeeab6a46fe,pat18,workout18,11-06-2025,missed,0,Could not do workout today
+2890ba83-3107-458d-9ad8-05156574dc95,pat18,workout18,12-06-2025,missed,0,Could not do workout today
+0ca188c4-6e72-406c-afac-f90d05fa9d3d,pat18,workout18,13-06-2025,completed,25,Very refreshing
+18510c61-b092-4f93-9565-ff691cef7d52,pat18,workout18,14-06-2025,completed,37,No issues
+31bb22ee-c62d-440c-8674-63bd45216c45,pat18,workout18,15-06-2025,completed,24,Mild discomfort
+a4b5e985-ec4d-4e88-a328-ea2b415906ec,pat18,workout18,16-06-2025,missed,0,Could not do workout today
+209821d1-d07a-402d-9409-9c85889550aa,pat18,workout18,17-06-2025,completed,38,Mild discomfort
+ae2e4e1b-0d41-4cba-9873-81db29a4943d,pat18,workout18,18-06-2025,missed,0,Could not do workout today
+031f91a6-5d37-4db7-97af-e559c2706845,pat18,workout18,19-06-2025,completed,26,Need to improve form
+4a300677-47d9-49ed-a35c-88ad256498bd,pat18,workout18,20-06-2025,completed,44,No issues
+e646f9b7-8f35-4ca9-9aa7-636a257b1035,pat18,workout18,21-06-2025,missed,0,Could not do workout today
+69e11a5d-0df0-4670-8bca-93d7c125b589,pat18,workout18,22-06-2025,completed,20,Too tiring
+b7e282c3-a556-4719-9238-1e4e5c007fb4,pat18,workout18,23-06-2025,missed,0,Could not do workout today
+998e0573-0259-4365-aab1-4774d32bf815,pat18,workout18,24-06-2025,completed,35,Very refreshing
+ed42f8cf-ed4c-4233-b6ef-a17b42d343fd,pat18,workout18,25-06-2025,missed,0,Could not do workout today
+52e0a22c-1652-47f0-a7ef-c6ff0ab05c16,pat18,workout18,26-06-2025,completed,25,Too tiring
+175e3b58-fe9f-4fed-9bf4-e4eca14d6e30,pat18,workout18,27-06-2025,completed,40,Too tiring
+6d515df7-f9c9-43a9-8110-96cdbeb018cf,pat18,workout18,28-06-2025,missed,0,Could not do workout today
+d2c6596f-23e5-4a8f-9097-bcc1e40d7b0c,pat18,workout18,29-06-2025,completed,34,Felt great afterward
+2ed57a07-c3bc-4a18-b9a6-761c78f4bc47,pat18,workout18,30-06-2025,completed,48,Need to improve form
+3bd19640-7267-452f-94e2-74f0ba608e62,pat19,workout19,01-06-2025,completed,44,Felt great afterward
+aa77df4c-5552-411a-90c0-90ac1141a3d4,pat19,workout19,02-06-2025,completed,22,Very refreshing
+3ce32d83-f882-4fca-90ff-bdca278dd7b5,pat19,workout19,03-06-2025,completed,23,Felt great afterward
+dc4f161b-dcf0-40e6-8cac-c89cc4dde690,pat19,workout19,04-06-2025,completed,35,Felt great afterward
+7e140358-9dc2-41fb-ae9e-c9aa52a04d14,pat19,workout19,05-06-2025,completed,29,Will do again
+5a65cb32-a31f-4f25-931b-5a5ae3441187,pat19,workout19,06-06-2025,missed,0,Could not do workout today
+d9a914c2-33a1-4b81-8c19-712028eacab6,pat19,workout19,07-06-2025,missed,0,Could not do workout today
+e0550a81-e1c8-4747-8ba9-73d4dce89b63,pat19,workout19,08-06-2025,completed,36,No issues
+cbf72496-6517-466b-8735-c64dc9dac8a1,pat19,workout19,09-06-2025,completed,30,No issues
+f2c90a59-a7cf-48db-a65b-4d0d9882b33c,pat19,workout19,10-06-2025,completed,56,Too tiring
+f541a1f7-5a88-404a-bc22-cf0c8b21257d,pat19,workout19,11-06-2025,completed,29,Very refreshing
+b4f78673-43ba-4483-bf8c-821f8da16abf,pat19,workout19,12-06-2025,missed,0,Could not do workout today
+3fed5eb6-8583-45b9-a80a-3ced1659a7af,pat19,workout19,13-06-2025,completed,42,Too tiring
+d44b0592-aa51-4846-bb10-bd6fd492b58a,pat19,workout19,14-06-2025,missed,0,Could not do workout today
+54a1127f-4969-4b37-bd62-c4ac7b22d971,pat19,workout19,15-06-2025,completed,42,No issues
+4ea2fcfb-5157-477e-996f-20c5f6e58918,pat19,workout19,16-06-2025,completed,27,Felt great afterward
+8cec969f-3bc3-41c7-aa97-d6212ba6fea9,pat19,workout19,17-06-2025,completed,47,Need to improve form
+2d7378f8-a2d8-46e6-9cac-67fa82f3b278,pat19,workout19,18-06-2025,completed,34,Too tiring
+dcc648d7-2987-4193-b0a5-67993c39fd65,pat19,workout19,19-06-2025,completed,29,Very refreshing
+c12abf82-a4de-4669-ace1-2363cb3203b1,pat19,workout19,20-06-2025,completed,38,Felt great afterward
+3dfda8d9-a980-42e0-a346-88b1eb51192a,pat19,workout19,21-06-2025,completed,25,Will do again
+7c843441-8f75-414d-be9e-c6e47ee3f29f,pat19,workout19,22-06-2025,completed,21,Will do again
+c6df007b-9dae-4d17-ab84-f96f12ceaf5c,pat19,workout19,23-06-2025,missed,0,Could not do workout today
+3e411854-7536-41bb-9ed5-c99e287f6e16,pat19,workout19,24-06-2025,completed,46,Very refreshing
+03477df7-47dd-43f3-8a0e-b421356a5e36,pat19,workout19,25-06-2025,missed,0,Could not do workout today
+98f9db33-cec4-4d1c-b204-73909baeb4d8,pat19,workout19,26-06-2025,missed,0,Could not do workout today
+b97e7f60-7916-4a88-8514-c779ae198661,pat19,workout19,27-06-2025,missed,0,Could not do workout today
+4825c5d4-e73d-47f8-b0ee-866b081c7032,pat19,workout19,28-06-2025,completed,39,No issues
+77090865-9e57-4537-8212-caefd9b93e66,pat19,workout19,29-06-2025,missed,0,Could not do workout today
+aead9738-3cea-4345-a095-c47edba6eee0,pat19,workout19,30-06-2025,completed,57,Felt great afterward
+c5bb3fcb-4bd7-46a4-b0d3-c526857ff3e7,pat20,workout20,01-06-2025,missed,0,Could not do workout today
+0b4552a7-408d-4c7b-93e3-b49eb95e1427,pat20,workout20,02-06-2025,missed,0,Could not do workout today
+e4524a56-c37b-4f3b-bc3f-2499460ea7d7,pat20,workout20,03-06-2025,missed,0,Could not do workout today
+b1fee1c1-39b3-48fb-8628-82813d8b9a84,pat20,workout20,04-06-2025,missed,0,Could not do workout today
+71965265-1e07-4721-b13a-508a35b18f76,pat20,workout20,05-06-2025,missed,0,Could not do workout today
+2e38f733-8e29-484a-971d-522162d23609,pat20,workout20,06-06-2025,completed,39,Very refreshing
+16e6f693-a6b1-42e4-aedf-b597fb627257,pat20,workout20,07-06-2025,completed,28,Will do again
+c89d2567-7526-44d2-80ff-419bef4865e8,pat20,workout20,08-06-2025,completed,22,Felt great afterward
+6ea8d76f-49af-463f-a243-563e6084ec71,pat20,workout20,09-06-2025,missed,0,Could not do workout today
+389958e0-4029-4756-a7db-ec945d582cd6,pat20,workout20,10-06-2025,missed,0,Could not do workout today
+0ac8ff93-f7e1-40a6-8513-4207a9a65536,pat20,workout20,11-06-2025,missed,0,Could not do workout today
+4f2aed21-284a-4dec-a4d3-53a45cf35e3c,pat20,workout20,12-06-2025,missed,0,Could not do workout today
+e8fbdfc8-70e0-4119-9aec-e4c5a8902374,pat20,workout20,13-06-2025,completed,56,Felt great afterward
+18f72bdf-f2ca-43b2-8982-dc9ce3927f7d,pat20,workout20,14-06-2025,completed,40,Need to improve form
+d60e6152-ae87-4385-856c-6bb02cff57b1,pat20,workout20,15-06-2025,completed,57,Need to improve form
+9a758e4b-587a-49ac-8a2b-7b791aff0441,pat20,workout20,16-06-2025,missed,0,Could not do workout today
+64b6bb7a-878b-475a-aa7b-6ebb281aed8f,pat20,workout20,17-06-2025,completed,37,Need to improve form
+64ea0a2f-f328-467f-92c7-87127723e2e2,pat20,workout20,18-06-2025,missed,0,Could not do workout today
+7e69c241-01fb-4222-a3e5-b4b70f2bd842,pat20,workout20,19-06-2025,missed,0,Could not do workout today
+1113b32d-fb0e-4ef0-bced-9a75bc8aa6a6,pat20,workout20,20-06-2025,completed,23,Very refreshing
+3d3db80a-3752-4cf0-abb1-6572d0eb7836,pat20,workout20,21-06-2025,missed,0,Could not do workout today
+293ffbda-a67f-439a-92d5-48978f992f08,pat20,workout20,22-06-2025,missed,0,Could not do workout today
+63af1a28-1e26-4c12-a004-b3e6001bd743,pat20,workout20,23-06-2025,missed,0,Could not do workout today
+edf30bc9-d6cd-45ba-8ba6-927aa4be14aa,pat20,workout20,24-06-2025,completed,50,Very refreshing
+019c200d-8ee9-4f99-a226-a88f30102304,pat20,workout20,25-06-2025,completed,26,Need to improve form
+9e60c81a-4ddb-438c-87de-e16b1ffd7de4,pat20,workout20,26-06-2025,completed,37,Very refreshing
+4152829c-1cc7-40b1-a5cd-a7181ad81f4c,pat20,workout20,27-06-2025,completed,37,Felt great afterward
+bef5be6a-33e6-42cc-9fee-b3b896df341e,pat20,workout20,28-06-2025,missed,0,Could not do workout today
+a17ce5ba-1346-40b0-a01a-846718434e87,pat20,workout20,29-06-2025,missed,0,Could not do workout today
+7263381b-bf24-419c-8282-e7f8efdcdc54,pat20,workout20,30-06-2025,completed,54,Very refreshing
+514825fd-f7f3-44b7-a09f-8e2d258d8ddc,pat21,workout21,01-06-2025,completed,34,Will do again
+03956102-1ef6-41bf-910b-0458cf8d23a0,pat21,workout21,02-06-2025,missed,0,Could not do workout today
+2d2850e9-662a-4bcc-846f-8c80e8b6f66c,pat21,workout21,03-06-2025,missed,0,Could not do workout today
+549919e4-1342-463c-9430-741de76dc003,pat21,workout21,04-06-2025,completed,32,Will do again
+7b370668-c75b-463a-aeb6-890025a5665d,pat21,workout21,05-06-2025,missed,0,Could not do workout today
+c79b1848-10d5-442e-b575-3039bcbdf79f,pat21,workout21,06-06-2025,missed,0,Could not do workout today
+fe841680-4aa8-4f2e-a46c-a49427600ed7,pat21,workout21,07-06-2025,completed,25,No issues
+5e66cf1f-8202-4ef6-997a-40792b5fbb59,pat21,workout21,08-06-2025,missed,0,Could not do workout today
+a0110b83-7a42-407a-9e4d-5c62b907184d,pat21,workout21,09-06-2025,missed,0,Could not do workout today
+7f63e0df-3fdd-4249-8071-3494d6a53032,pat21,workout21,10-06-2025,missed,0,Could not do workout today
+504b87a4-ac57-4d0c-8c02-192b248d271a,pat21,workout21,11-06-2025,missed,0,Could not do workout today
+db1fac06-61b2-4aec-b249-20d3f7b41abc,pat21,workout21,12-06-2025,completed,52,Too tiring
+f31e8127-d513-485a-94a3-7a98ef0a62b1,pat21,workout21,13-06-2025,completed,59,Will do again
+be97ee67-ee07-4215-9d54-89e6d1133a8e,pat21,workout21,14-06-2025,completed,35,Felt great afterward
+a31be9c6-4f83-4e4f-9198-50edf7e20aa3,pat21,workout21,15-06-2025,missed,0,Could not do workout today
+f1ec1772-e01b-415f-9b2b-9b4767ff9a45,pat21,workout21,16-06-2025,completed,51,Mild discomfort
+7dfbf25e-e74e-4a16-9ae6-553364363bf9,pat21,workout21,17-06-2025,completed,34,Mild discomfort
+350f8806-041e-47f1-bfac-dbe889c4917f,pat21,workout21,18-06-2025,completed,33,Will do again
+a6ace676-7594-49f3-ac37-0ebf46ca6912,pat21,workout21,19-06-2025,completed,47,Too tiring
+94074f6c-5de2-4577-8d22-99d161bdb890,pat21,workout21,20-06-2025,completed,34,Need to improve form
+97672e8b-613c-4b92-ad58-2e92f23a9662,pat21,workout21,21-06-2025,missed,0,Could not do workout today
+66c08f30-9e79-4983-bc45-6d5c4bc2aa32,pat21,workout21,22-06-2025,completed,22,Mild discomfort
+b9785c0e-8412-4d47-8e3b-4e6ecd276b75,pat21,workout21,23-06-2025,completed,41,Will do again
+be253f17-bce7-493a-85d8-2533de48537c,pat21,workout21,24-06-2025,missed,0,Could not do workout today
+75964b06-98fd-48a2-9ae4-eafe8fc2dcf4,pat21,workout21,25-06-2025,completed,23,No issues
+d967a76f-31ec-4a53-b185-793db02a3a06,pat21,workout21,26-06-2025,missed,0,Could not do workout today
+52caff5e-6e9c-4fed-8702-8ea9561c3462,pat21,workout21,27-06-2025,missed,0,Could not do workout today
+8df2d300-3214-42f2-b41f-6ad2a6aac45c,pat21,workout21,28-06-2025,missed,0,Could not do workout today
+958e00da-e145-4ae9-bcdf-3fb143eeef94,pat21,workout21,29-06-2025,missed,0,Could not do workout today
+e939b8c3-61cf-4428-a7e7-b7108665f4b7,pat21,workout21,30-06-2025,completed,54,Need to improve form
+1363f18c-5251-4087-af60-21b1413d7d6a,pat22,workout22,01-06-2025,missed,0,Could not do workout today
+80b20347-6f63-447e-9f2c-d78a525e8235,pat22,workout22,02-06-2025,missed,0,Could not do workout today
+e8b8c2bb-76ed-4cfa-9d21-8449932f2664,pat22,workout22,03-06-2025,completed,48,Felt great afterward
+6583682b-a2cb-4427-b053-e69e40adbacc,pat22,workout22,04-06-2025,completed,39,Very refreshing
+cb00950c-e8f1-42b5-976a-1cf7ff73eee3,pat22,workout22,05-06-2025,completed,33,Need to improve form
+9a5e4049-28f0-4da4-9c99-1f98dd637672,pat22,workout22,06-06-2025,completed,57,Mild discomfort
+57740e7e-2f57-4bf6-885b-0fa129c51901,pat22,workout22,07-06-2025,completed,60,Mild discomfort
+4ad2f137-c8ee-40d6-8f89-23d433f42ab3,pat22,workout22,08-06-2025,completed,57,No issues
+624e7050-503a-4439-9011-a67db75c8ae3,pat22,workout22,09-06-2025,missed,0,Could not do workout today
+dfbf40cc-fd62-4d9e-b185-06ec16dbc548,pat22,workout22,10-06-2025,missed,0,Could not do workout today
+fb03e780-a98c-4ab7-9f43-7ade66edac92,pat22,workout22,11-06-2025,completed,54,Mild discomfort
+75dbc68d-03bc-49de-bbe4-f23d87bff4f3,pat22,workout22,12-06-2025,completed,46,Too tiring
+d10cccd7-db6f-4f9c-956c-3b3799ec7618,pat22,workout22,13-06-2025,missed,0,Could not do workout today
+0e751bef-1755-4008-b976-01bb853595fd,pat22,workout22,14-06-2025,completed,55,Felt great afterward
+b75b9482-cd0f-4d4e-afdd-860723f9d0c5,pat22,workout22,15-06-2025,completed,35,No issues
+34d41419-db96-430b-b54a-18a96c0af555,pat22,workout22,16-06-2025,missed,0,Could not do workout today
+f4098bdf-f7d7-433e-b4e2-822e95fe96e2,pat22,workout22,17-06-2025,completed,34,Felt great afterward
+085506ef-9de8-4f00-9ccc-71189236fb2f,pat22,workout22,18-06-2025,missed,0,Could not do workout today
+ea27c19b-aa8c-4839-8ac3-f69b3db990ca,pat22,workout22,19-06-2025,missed,0,Could not do workout today
+f2e1ebdd-ebc7-4ddd-b8b9-cd461aee9a8c,pat22,workout22,20-06-2025,missed,0,Could not do workout today
+708da58b-efc0-4037-84ab-c3895fed8cc6,pat22,workout22,21-06-2025,completed,37,Very refreshing
+7ef1b7bb-39a4-4a1e-8da6-e0acda4303a3,pat22,workout22,22-06-2025,completed,26,No issues
+4f8b4eb3-2a6b-433e-990b-ecc458163c68,pat22,workout22,23-06-2025,completed,43,Very refreshing
+07552c78-dd42-4b81-b48e-1b08a2c134b2,pat22,workout22,24-06-2025,missed,0,Could not do workout today
+7e604b24-37ad-4120-94f2-c8b5f1fc179e,pat22,workout22,25-06-2025,completed,50,Mild discomfort
+21b3afaa-3f35-4448-8c64-a78cdd11444d,pat22,workout22,26-06-2025,missed,0,Could not do workout today
+d061ea92-4b71-4dfb-8237-bbd0905961a2,pat22,workout22,27-06-2025,completed,37,Need to improve form
+22652a93-2fc4-4eec-be92-54f312143a11,pat22,workout22,28-06-2025,completed,31,Very refreshing
+99b13830-620d-4a7d-b642-01dca55a4282,pat22,workout22,29-06-2025,missed,0,Could not do workout today
+3e2d7f55-e2f6-4f10-b6fe-33be5c8148db,pat22,workout22,30-06-2025,missed,0,Could not do workout today
+c82ee451-1d3b-4839-a5d0-3a9b25068697,pat23,workout23,01-06-2025,missed,0,Could not do workout today
+48d1e0e6-70cb-47f1-9474-7acd9eea990c,pat23,workout23,02-06-2025,completed,45,Mild discomfort
+41cc19c9-fd00-4526-a1d2-53a332524195,pat23,workout23,03-06-2025,missed,0,Could not do workout today
+abe85152-ac1e-4772-9996-571a5b30125b,pat23,workout23,04-06-2025,completed,34,Very refreshing
+0860ed0a-9910-4730-9f51-4f667f07135a,pat23,workout23,05-06-2025,missed,0,Could not do workout today
+8c55c3f9-05db-4916-b48a-e625b0333b5b,pat23,workout23,06-06-2025,missed,0,Could not do workout today
+15eb444a-d3e6-4126-a46d-7ff1f3b1e5cf,pat23,workout23,07-06-2025,completed,43,Felt great afterward
+42adf1e0-09f3-4fc7-8307-8405ea112f11,pat23,workout23,08-06-2025,missed,0,Could not do workout today
+de856231-c8e2-4487-89d2-a5d4cea21209,pat23,workout23,09-06-2025,missed,0,Could not do workout today
+e664c82c-0ff3-49b7-8ea5-7c01358903fa,pat23,workout23,10-06-2025,completed,40,Too tiring
+664e01e1-343a-448e-9197-e212e3b93af0,pat23,workout23,11-06-2025,missed,0,Could not do workout today
+bd26e668-98aa-4f7d-a635-0c3b0ed1d062,pat23,workout23,12-06-2025,completed,39,Felt great afterward
+1f4a6099-b1ac-4eca-8bb9-795eb6e767b8,pat23,workout23,13-06-2025,missed,0,Could not do workout today
+bd2570e1-8865-4ed7-a48b-7e29e885ebdf,pat23,workout23,14-06-2025,completed,52,Felt great afterward
+f6b1b6e7-0f4e-4b9b-af7d-2601bfda95e7,pat23,workout23,15-06-2025,completed,30,No issues
+de1365ef-8c67-4c93-846e-ac3442711146,pat23,workout23,16-06-2025,missed,0,Could not do workout today
+40fdfa51-5504-464a-ac0a-6ef2a34cd46d,pat23,workout23,17-06-2025,missed,0,Could not do workout today
+cc6d6718-befa-4f4b-bdb8-9026bb2e2bc6,pat23,workout23,18-06-2025,missed,0,Could not do workout today
+f197d117-553f-49c8-b2d8-1d3cae08e3db,pat23,workout23,19-06-2025,missed,0,Could not do workout today
+a0c1d370-c514-4de1-b7ec-4bf993f336bf,pat23,workout23,20-06-2025,completed,45,No issues
+ca8036c3-6433-439b-8d8e-c91365994358,pat23,workout23,21-06-2025,missed,0,Could not do workout today
+fa4a854e-f179-40f7-afa4-39f0cd375ec4,pat23,workout23,22-06-2025,completed,54,Will do again
+b49fcf2d-9b85-4973-9b03-c951290d1bcb,pat23,workout23,23-06-2025,missed,0,Could not do workout today
+8ca0e328-3f7c-447f-9c44-ad5d556ade37,pat23,workout23,24-06-2025,completed,30,Mild discomfort
+a58d1d81-6e30-41d0-a950-6e006491da43,pat23,workout23,25-06-2025,completed,43,Need to improve form
+f3991ff4-b1d0-4071-81c4-ea18d7b46a89,pat23,workout23,26-06-2025,completed,49,Need to improve form
+dee5d107-9968-45b3-9935-2d44848fc92c,pat23,workout23,27-06-2025,completed,25,Too tiring
+46fc6d20-c0cb-4198-b933-49582e679dc1,pat23,workout23,28-06-2025,missed,0,Could not do workout today
+4e4aa43c-4f0c-4b55-95db-5742ca348ec1,pat23,workout23,29-06-2025,completed,25,Mild discomfort
+adceb71d-14bb-49a6-824b-736d7b85d07b,pat23,workout23,30-06-2025,missed,0,Could not do workout today
+b1d0eb98-726c-49eb-a30f-f5530a030497,pat24,workout24,01-06-2025,missed,0,Could not do workout today
+29df77b3-82d0-4bcf-912c-c5f314c478f6,pat24,workout24,02-06-2025,missed,0,Could not do workout today
+bed57a91-0ba4-4390-a0d8-55a768a03087,pat24,workout24,03-06-2025,completed,54,Very refreshing
+b902ce26-a48e-4f35-8f26-4fdf95c27790,pat24,workout24,04-06-2025,missed,0,Could not do workout today
+af0547f3-5e63-45c2-b7d2-133ef99a087b,pat24,workout24,05-06-2025,missed,0,Could not do workout today
+a8ee9ce0-8bfa-4668-a16e-a28d3a7693d1,pat24,workout24,06-06-2025,missed,0,Could not do workout today
+418b45a0-593b-4cf0-bc6d-5b480ad3d26f,pat24,workout24,07-06-2025,missed,0,Could not do workout today
+50e4e709-b4f1-4cf2-acfc-e002d799cbf5,pat24,workout24,08-06-2025,missed,0,Could not do workout today
+519f8203-65ca-496d-b5f4-dcea58d5753e,pat24,workout24,09-06-2025,completed,35,Need to improve form
+d315e0a9-ac59-4823-86c6-46dd4a54146d,pat24,workout24,10-06-2025,completed,56,No issues
+0e3d4b35-f05f-40b6-90a8-cb66c428f07c,pat24,workout24,11-06-2025,missed,0,Could not do workout today
+9d3358ed-b277-498b-ab9c-ba9d2218b721,pat24,workout24,12-06-2025,missed,0,Could not do workout today
+6fced81e-1814-4042-8bb0-2a171fe480d6,pat24,workout24,13-06-2025,missed,0,Could not do workout today
+f543de44-f3a9-4a72-b172-b3d4c8555d59,pat24,workout24,14-06-2025,missed,0,Could not do workout today
+8b2ead29-4c25-4b8a-b342-be739944ebec,pat24,workout24,15-06-2025,missed,0,Could not do workout today
+78802bd6-d041-4fd3-9da8-ba6793f261ac,pat24,workout24,16-06-2025,completed,59,Need to improve form
+8c26ee12-8c05-45ac-811d-075864fcb7ba,pat24,workout24,17-06-2025,missed,0,Could not do workout today
+f60b1b68-58d7-447f-8084-585aea5ac975,pat24,workout24,18-06-2025,missed,0,Could not do workout today
+e2a8219e-f37b-4cc9-aa2c-f7e409ab9e39,pat24,workout24,19-06-2025,missed,0,Could not do workout today
+b62bfca9-4d05-42c6-81f3-8635be5e4530,pat24,workout24,20-06-2025,completed,52,Felt great afterward
+e6126ce7-cf84-48bd-973b-0b7d513dac1e,pat24,workout24,21-06-2025,missed,0,Could not do workout today
+08d80ec6-2533-441d-b7c9-93e87c79385f,pat24,workout24,22-06-2025,completed,50,Too tiring
+0f3c5ecf-f3ba-4ebe-901f-2cd65e03b11a,pat24,workout24,23-06-2025,missed,0,Could not do workout today
+7dba1f0b-33a5-4a9e-a341-92c4a7c23684,pat24,workout24,24-06-2025,missed,0,Could not do workout today
+b5d13c3b-13b9-4eb0-913c-6d375c648cb9,pat24,workout24,25-06-2025,completed,49,Very refreshing
+e8e8a12c-910c-4be3-9324-d4d315e1e5ce,pat24,workout24,26-06-2025,completed,23,Will do again
+c7bc50a8-c02f-46a4-8bfc-5c72daa5ec12,pat24,workout24,27-06-2025,missed,0,Could not do workout today
+51fb47ff-0032-4752-98ac-6e770a450d37,pat24,workout24,28-06-2025,missed,0,Could not do workout today
+d268d23e-6028-4586-bddd-20baee626881,pat24,workout24,29-06-2025,completed,47,No issues
+339f22b1-46fe-4fbd-a72c-5eb8aa6b92bd,pat24,workout24,30-06-2025,missed,0,Could not do workout today
+768857d9-caa0-42a5-a45b-292d87282cd9,pat25,workout25,01-06-2025,missed,0,Could not do workout today
+ba158314-16b4-47ad-9ea6-916943c44e34,pat25,workout25,02-06-2025,completed,46,Will do again
+c59cb6cf-d713-43c4-a7e3-1fc4e6eb9cf2,pat25,workout25,03-06-2025,missed,0,Could not do workout today
+7e2af988-3768-4e49-ad49-2548bfe7f0af,pat25,workout25,04-06-2025,missed,0,Could not do workout today
+fa3b9219-a078-446d-8d6c-82fe1d5929a3,pat25,workout25,05-06-2025,completed,55,Need to improve form
+ae405c0f-8483-442c-b27e-8a0b2cc7358e,pat25,workout25,06-06-2025,missed,0,Could not do workout today
+7b912284-9687-4616-a530-f6e38ef96485,pat25,workout25,07-06-2025,missed,0,Could not do workout today
+d62cc714-2627-4293-858c-8f015453cdc7,pat25,workout25,08-06-2025,missed,0,Could not do workout today
+ee6c3765-4ebb-4c14-9b5c-de6f020fe7a2,pat25,workout25,09-06-2025,missed,0,Could not do workout today
+2db5b03f-6c2a-4c6f-8add-b7b1fb03e8f9,pat25,workout25,10-06-2025,completed,25,Felt great afterward
+c99b3e4e-838b-4560-8e27-ba9afe342f71,pat25,workout25,11-06-2025,completed,45,Felt great afterward
+9b407bee-64ba-4015-8482-7f7f0bc8bcbd,pat25,workout25,12-06-2025,missed,0,Could not do workout today
+a33fff4a-adb3-46aa-8875-750c20d61c8a,pat25,workout25,13-06-2025,missed,0,Could not do workout today
+759da0d5-5ac3-4ea3-bf40-61edbfbee6e1,pat25,workout25,14-06-2025,completed,32,Need to improve form
+e604891f-c209-4581-93de-32c79c4a340c,pat25,workout25,15-06-2025,missed,0,Could not do workout today
+a4aa2349-e3fd-4d86-b8f3-4bd162b0b16e,pat25,workout25,16-06-2025,missed,0,Could not do workout today
+3f5beaed-73fb-4dfc-862d-c12d1724d9e0,pat25,workout25,17-06-2025,missed,0,Could not do workout today
+281a17a6-bc30-4cbf-a4ca-02348a8590ff,pat25,workout25,18-06-2025,missed,0,Could not do workout today
+2f4b956d-2bd0-456c-aecb-c40a3350e3f2,pat25,workout25,19-06-2025,completed,42,Need to improve form
+03482097-4221-4e8e-a0bb-ceaff7fd1955,pat25,workout25,20-06-2025,completed,21,Too tiring
+bd46cb54-fb49-40d8-a758-2dd51c5b341d,pat25,workout25,21-06-2025,completed,52,Will do again
+3e0a6645-951b-4546-b260-4110030264f7,pat25,workout25,22-06-2025,missed,0,Could not do workout today
+efe5371b-6795-4cc5-8fe0-32649f42baaa,pat25,workout25,23-06-2025,missed,0,Could not do workout today
+0618e2a4-d76b-4afe-b588-de9ade45e39a,pat25,workout25,24-06-2025,completed,58,Need to improve form
+fd91c852-3d42-4b58-a97e-2b6e0acb6c73,pat25,workout25,25-06-2025,missed,0,Could not do workout today
+04c5a641-318e-46cb-915d-c5c5b35b8b2d,pat25,workout25,26-06-2025,missed,0,Could not do workout today
+1edd70ba-41d7-46fe-b224-65233b4fe0b7,pat25,workout25,27-06-2025,completed,28,Will do again
+50d6741d-1771-49c9-986f-dfda69cc4dad,pat25,workout25,28-06-2025,missed,0,Could not do workout today
+a534c199-7d7f-4123-bd7f-b5f0f78ad6f0,pat25,workout25,29-06-2025,completed,24,Felt great afterward
+78c1e10b-0faa-417e-8e8e-5efb533d6fa2,pat25,workout25,30-06-2025,missed,0,Could not do workout today
+2b1a973c-d292-4713-b934-0f33754c988b,pat26,workout26,01-06-2025,completed,54,Need to improve form
+6f145939-a572-4362-9237-76e9012b46aa,pat26,workout26,02-06-2025,completed,56,Need to improve form
+f4dfe530-29f2-453f-b760-d4c19b285f7b,pat26,workout26,03-06-2025,missed,0,Could not do workout today
+69612cd5-10c7-4f7b-9714-8f1f784f33e6,pat26,workout26,04-06-2025,missed,0,Could not do workout today
+82f4073e-d284-4cc3-beae-f2200b26f9d6,pat26,workout26,05-06-2025,missed,0,Could not do workout today
+4ad76773-0996-48e8-b3de-67ce1f20ae58,pat26,workout26,06-06-2025,missed,0,Could not do workout today
+b8ba9d0c-849a-457b-a18b-1e86c50d7f01,pat26,workout26,07-06-2025,missed,0,Could not do workout today
+002d1354-4e1b-4139-b0ad-79e5016a256e,pat26,workout26,08-06-2025,completed,34,Will do again
+b463c1be-388f-40cc-8e84-b8f33af48f9f,pat26,workout26,09-06-2025,missed,0,Could not do workout today
+9d920f0c-846e-49a0-bfd9-cd8bf807b294,pat26,workout26,10-06-2025,completed,26,Too tiring
+1224c24d-3716-4cf4-93d9-61404bdaa7b0,pat26,workout26,11-06-2025,completed,59,Mild discomfort
+19c34cfc-e5e7-4625-9e78-81b7fbd65c0f,pat26,workout26,12-06-2025,completed,60,Very refreshing
+badc3bf3-d19e-48ae-b4e2-c7fc22feef54,pat26,workout26,13-06-2025,missed,0,Could not do workout today
+ae23f82a-c607-4ba9-a6e3-62930fe6cfee,pat26,workout26,14-06-2025,completed,26,Mild discomfort
+48b79d0c-c6b9-4629-a097-67cd8286495b,pat26,workout26,15-06-2025,completed,24,Mild discomfort
+39c71be8-8171-4a45-b3ab-e9112e4c0a12,pat26,workout26,16-06-2025,missed,0,Could not do workout today
+f46b1dbf-b03c-4654-9dca-4fb0c119613c,pat26,workout26,17-06-2025,completed,58,Too tiring
+82aa9083-77f9-414f-934a-f8a4c02f9131,pat26,workout26,18-06-2025,missed,0,Could not do workout today
+142dd673-a62e-45dd-9886-6a1697864b57,pat26,workout26,19-06-2025,completed,36,No issues
+2eaa25fa-d4f5-41dd-b461-a97e44a1e9fe,pat26,workout26,20-06-2025,completed,21,Need to improve form
+9b85b9d3-0879-40e0-b218-708ba1b82459,pat26,workout26,21-06-2025,completed,22,Felt great afterward
+f820c933-bc6a-4100-8e00-1b02c4fbfe61,pat26,workout26,22-06-2025,missed,0,Could not do workout today
+1b07cf14-fd1e-4a73-b6ca-2e77b1d31bb4,pat26,workout26,23-06-2025,completed,41,Mild discomfort
+224971ca-9b7f-4600-9742-3f016e2d0782,pat26,workout26,24-06-2025,completed,25,Felt great afterward
+574ae5ef-ba3f-44ac-ab73-593dc09dadec,pat26,workout26,25-06-2025,missed,0,Could not do workout today
+da55bd11-f099-456f-b519-991c2a143f01,pat26,workout26,26-06-2025,completed,55,No issues
+9618195c-8fb5-460b-b231-435218d00598,pat26,workout26,27-06-2025,missed,0,Could not do workout today
+a8a8aa89-232e-4490-9288-17f4eaa138dd,pat26,workout26,28-06-2025,completed,31,Very refreshing
+b0d715fb-1203-4e41-8747-e406fd2fe910,pat26,workout26,29-06-2025,completed,32,Will do again
+f4d0f7f9-f698-4f43-a0f6-bef8b914b655,pat26,workout26,30-06-2025,completed,46,Will do again
+c2fe201c-8d81-4fbf-96d3-5306705292a1,pat27,workout27,01-06-2025,missed,0,Could not do workout today
+294a9479-3f70-4aa1-8bc2-7f2446ca48fe,pat27,workout27,02-06-2025,completed,22,No issues
+9a674e13-ad70-44c0-b9b9-3a97ff129ce1,pat27,workout27,03-06-2025,completed,53,Mild discomfort
+cef6791e-ded1-4533-886d-c7274badb287,pat27,workout27,04-06-2025,missed,0,Could not do workout today
+695ed1a8-0009-4b65-81b2-65415a662430,pat27,workout27,05-06-2025,completed,37,Need to improve form
+e379a921-82fd-4993-bb47-2e51db302794,pat27,workout27,06-06-2025,missed,0,Could not do workout today
+676640c8-527e-41b3-8f18-5a7ad473c36f,pat27,workout27,07-06-2025,completed,37,Very refreshing
+38ff0468-672f-4bf2-94db-079035b58a41,pat27,workout27,08-06-2025,completed,35,Felt great afterward
+a92aea44-0aec-441f-be03-7d0f35929676,pat27,workout27,09-06-2025,completed,21,Need to improve form
+5e45bd47-3440-41a3-aedb-67c5157ceb6b,pat27,workout27,10-06-2025,missed,0,Could not do workout today
+6a07f260-f08b-414d-bdad-6d3ebf44edbb,pat27,workout27,11-06-2025,completed,60,Will do again
+b1e9c176-7c3f-4ee6-b931-cc7e976d562e,pat27,workout27,12-06-2025,completed,38,Need to improve form
+42f59e46-9a04-4de3-a49c-f8624c48b8f9,pat27,workout27,13-06-2025,completed,30,Felt great afterward
+d7a9369f-0061-4e23-9af5-b75ed0c1db67,pat27,workout27,14-06-2025,missed,0,Could not do workout today
+dfb7ed9b-4c73-41a9-8c2f-e7ed19e4bd8b,pat27,workout27,15-06-2025,completed,30,Very refreshing
+9d02cb09-8a68-4960-b10a-d1778ad348c4,pat27,workout27,16-06-2025,missed,0,Could not do workout today
+3ddc95b8-ea61-49b8-9801-c1be905ca9a2,pat27,workout27,17-06-2025,missed,0,Could not do workout today
+9133837b-cc87-40d3-8dba-8e5b8df09c46,pat27,workout27,18-06-2025,missed,0,Could not do workout today
+0ccef4f7-bb12-46be-b0ab-497ea8eb9ccc,pat27,workout27,19-06-2025,missed,0,Could not do workout today
+6d3d7ad1-0051-477a-9bb9-668f01f9cee3,pat27,workout27,20-06-2025,completed,56,Felt great afterward
+b00ce3aa-c0a0-47b8-94da-3b08b80e90d6,pat27,workout27,21-06-2025,missed,0,Could not do workout today
+36ac098b-1fc5-4188-ba80-dd1fbbe842b2,pat27,workout27,22-06-2025,completed,58,Mild discomfort
+d60910e6-3188-46ae-b299-063a91e1bdc6,pat27,workout27,23-06-2025,completed,50,Will do again
+2a53fc7f-133a-4c6b-a196-9999e4277a40,pat27,workout27,24-06-2025,completed,45,Need to improve form
+0729f795-9096-4993-8c65-91ebaa25617f,pat27,workout27,25-06-2025,missed,0,Could not do workout today
+bb717d32-1f71-48ff-8f58-284407e0aac9,pat27,workout27,26-06-2025,completed,58,Too tiring
+65fe02d2-6c0d-46d4-b635-0a33ca1d2c26,pat27,workout27,27-06-2025,missed,0,Could not do workout today
+10b88c13-9c37-47df-98e0-74fbef6b32f9,pat27,workout27,28-06-2025,missed,0,Could not do workout today
+7e226a43-fde0-4974-9686-919fb5b8af39,pat27,workout27,29-06-2025,completed,37,Felt great afterward
+36587bd9-92fe-4889-a207-19570d0d9b67,pat27,workout27,30-06-2025,completed,47,Mild discomfort
+e20c354f-e328-4ad2-a577-c81cf1ad4224,pat28,workout28,01-06-2025,missed,0,Could not do workout today
+cff0ea45-10ae-4456-9d7c-0c42cd4e9919,pat28,workout28,02-06-2025,missed,0,Could not do workout today
+d79528a6-bedf-48fd-bd91-57d4ed2bad63,pat28,workout28,03-06-2025,missed,0,Could not do workout today
+09ca74ef-0eef-48b9-b1ad-580ed27b40cc,pat28,workout28,04-06-2025,missed,0,Could not do workout today
+fff97a83-3e0b-41b6-85c2-d7d24e8d4dc0,pat28,workout28,05-06-2025,missed,0,Could not do workout today
+f1fa039b-07f0-4818-b5cd-fced51f4b98b,pat28,workout28,06-06-2025,missed,0,Could not do workout today
+3cd6f081-f395-4f33-8583-537c1e60acd3,pat28,workout28,07-06-2025,missed,0,Could not do workout today
+6cd5ddc0-a96d-4e8c-94ec-18d28814df6a,pat28,workout28,08-06-2025,completed,37,Need to improve form
+a2e782f1-5bbd-487e-b8ed-67390fde3c05,pat28,workout28,09-06-2025,completed,43,Too tiring
+7a3d3fa8-b36f-497e-8a2c-8cbbca6b49ef,pat28,workout28,10-06-2025,missed,0,Could not do workout today
+c6be6307-1aee-4530-bdf6-515d19d1846f,pat28,workout28,11-06-2025,completed,24,Mild discomfort
+1db577e8-6443-48dd-8cab-3265a8c18a0b,pat28,workout28,12-06-2025,completed,44,Mild discomfort
+0bfd5c40-8df6-43e1-a5f8-948663358e19,pat28,workout28,13-06-2025,completed,22,Will do again
+850f3a2f-d2ed-48fc-aa40-1ee1d5473541,pat28,workout28,14-06-2025,missed,0,Could not do workout today
+2cb072f7-6bed-490e-a9d1-9baae6ffc530,pat28,workout28,15-06-2025,completed,21,Mild discomfort
+b5c89ab0-714f-446e-b6ac-637af48d59f9,pat28,workout28,16-06-2025,missed,0,Could not do workout today
+a9ad45db-5889-49e2-bf47-38bf5825c025,pat28,workout28,17-06-2025,completed,46,Too tiring
+d9c20a32-f919-4635-8329-f59014259ceb,pat28,workout28,18-06-2025,missed,0,Could not do workout today
+bc139aed-9b39-4848-8b65-4f96cfa81237,pat28,workout28,19-06-2025,completed,22,Need to improve form
+c34e1da3-37a7-48b3-8d87-46c5a7ec3844,pat28,workout28,20-06-2025,missed,0,Could not do workout today
+f535c2c4-781f-4e52-9f99-e216cc5f94f4,pat28,workout28,21-06-2025,missed,0,Could not do workout today
+d62fd0f0-97eb-40e6-a980-8c51b12834f1,pat28,workout28,22-06-2025,completed,48,Need to improve form
+a2e084ad-3884-4426-81bd-7d83edc7dbb6,pat28,workout28,23-06-2025,missed,0,Could not do workout today
+c512cd1e-3218-4757-9e67-6cc8254fde46,pat28,workout28,24-06-2025,completed,48,Mild discomfort
+e6d5f98b-76f3-486d-9950-113af40ddde8,pat28,workout28,25-06-2025,completed,26,Very refreshing
+306010f8-f61e-4461-b7be-a286d810f048,pat28,workout28,26-06-2025,missed,0,Could not do workout today
+193a42da-7805-41b3-9378-ff2ffc359aaa,pat28,workout28,27-06-2025,missed,0,Could not do workout today
+34b43e97-cce6-4f68-9048-a892b36976ca,pat28,workout28,28-06-2025,completed,21,Mild discomfort
+5c23b703-353c-40eb-ab6a-c31c0923cb9b,pat28,workout28,29-06-2025,completed,51,Will do again
+ee4a0860-947e-46f2-bda3-90256f1758dc,pat28,workout28,30-06-2025,missed,0,Could not do workout today
+32f91316-d0c5-4fb9-961d-62a8af5ca9a5,pat29,workout29,01-06-2025,completed,35,No issues
+f4d6cbd2-04f7-4e7c-984e-7674a74e16db,pat29,workout29,02-06-2025,missed,0,Could not do workout today
+d818a5c2-22b5-482d-8dfc-09aa28f774a8,pat29,workout29,03-06-2025,completed,26,Very refreshing
+4cd162b2-1cb9-40b4-8f88-366650d1d209,pat29,workout29,04-06-2025,completed,38,Mild discomfort
+c79e36c9-09d4-4dbd-9a63-8d9c8f3266c7,pat29,workout29,05-06-2025,completed,34,No issues
+4cd04556-cab3-41dc-a686-744fc1f9c959,pat29,workout29,06-06-2025,missed,0,Could not do workout today
+a0cc1b8c-5660-4425-8d77-d29f3f91fd57,pat29,workout29,07-06-2025,completed,43,No issues
+16a66b02-325c-458b-be7e-89fc4128ebaa,pat29,workout29,08-06-2025,completed,25,Too tiring
+884a611c-3506-4361-bda9-12de6dee81ba,pat29,workout29,09-06-2025,missed,0,Could not do workout today
+d232cab2-6474-43a5-baa9-be0f6009fd9c,pat29,workout29,10-06-2025,missed,0,Could not do workout today
+b0c90b97-5618-4d9c-9239-3ede0486d7d2,pat29,workout29,11-06-2025,completed,39,No issues
+b9e247ce-9ed9-4209-a959-c002c46e7785,pat29,workout29,12-06-2025,missed,0,Could not do workout today
+5f8dca3f-2fb0-4e2c-aa47-e316ff520094,pat29,workout29,13-06-2025,completed,33,Need to improve form
+2ccfc6a5-dd45-4c28-8f92-8c82bb8c2ef5,pat29,workout29,14-06-2025,missed,0,Could not do workout today
+57cd3f6e-aed1-4d73-b1d8-8b784a64b781,pat29,workout29,15-06-2025,missed,0,Could not do workout today
+56b8f08a-17e8-4750-936a-49c8089d3361,pat29,workout29,16-06-2025,completed,23,Very refreshing
+f4103370-c9cf-4da1-91dd-4bdd08fd1482,pat29,workout29,17-06-2025,missed,0,Could not do workout today
+d6d554e1-601a-43bd-b160-f77373d981c9,pat29,workout29,18-06-2025,missed,0,Could not do workout today
+b9d821c4-dce4-4181-b08f-68ef86f4a956,pat29,workout29,19-06-2025,completed,46,Need to improve form
+d441b887-0b1a-4bfa-a34f-93fd20bd356c,pat29,workout29,20-06-2025,missed,0,Could not do workout today
+777dad9d-7c2c-465b-b125-898a62179407,pat29,workout29,21-06-2025,missed,0,Could not do workout today
+1dfb2ca6-e8f2-454e-8923-bc9d1c7cfb97,pat29,workout29,22-06-2025,missed,0,Could not do workout today
+2cd48a8b-a1dc-4dc1-a047-bfc2b1bf44eb,pat29,workout29,23-06-2025,missed,0,Could not do workout today
+1cfaa6c8-5165-454c-a54b-954762db5afd,pat29,workout29,24-06-2025,missed,0,Could not do workout today
+1adf028b-e18d-42ac-9642-491b167cc373,pat29,workout29,25-06-2025,completed,48,Too tiring
+875aa579-ccb6-4216-83aa-79f9d8385b8e,pat29,workout29,26-06-2025,missed,0,Could not do workout today
+3945d803-b513-4721-9a0c-c3979e549f5f,pat29,workout29,27-06-2025,completed,24,Mild discomfort
+9b3f640e-07fe-4cc4-93ec-d38a5073310e,pat29,workout29,28-06-2025,completed,41,Very refreshing
+0835afe6-6c59-4d15-8d42-b9b4cd15527f,pat29,workout29,29-06-2025,missed,0,Could not do workout today
+f72d66c3-c030-4502-806d-d15fe02c3da9,pat29,workout29,30-06-2025,missed,0,Could not do workout today
+7e06b2c9-af59-4aba-9965-8a9f563e688a,pat30,workout30,01-06-2025,missed,0,Could not do workout today
+87a3ffa3-c8fb-45a7-a1ad-af7d697dc07e,pat30,workout30,02-06-2025,completed,27,Mild discomfort
+061e134d-2fa9-49c7-b4e2-e3f89e160da5,pat30,workout30,03-06-2025,completed,33,Very refreshing
+494bb92c-29c9-456d-a76e-9a34e570b4a4,pat30,workout30,04-06-2025,missed,0,Could not do workout today
+de84c242-eaa4-4e99-8950-cb76ee2b30b6,pat30,workout30,05-06-2025,missed,0,Could not do workout today
+92f26ca4-bce0-48fb-ac05-d66fe77b522b,pat30,workout30,06-06-2025,missed,0,Could not do workout today
+13ca29ba-c45e-48c1-a00a-46973f8750be,pat30,workout30,07-06-2025,missed,0,Could not do workout today
+cf9749e3-2ef8-405f-b8eb-6488a20f5099,pat30,workout30,08-06-2025,missed,0,Could not do workout today
+6fb1a8c9-b437-4396-a062-a7efbf840357,pat30,workout30,09-06-2025,missed,0,Could not do workout today
+0add27f3-e054-49da-b58e-aede67a00faa,pat30,workout30,10-06-2025,missed,0,Could not do workout today
+b7e6eb78-bdb1-422a-9b3a-8c4f339b1324,pat30,workout30,11-06-2025,missed,0,Could not do workout today
+80495fa0-c37f-4f8d-838c-d35f334665d2,pat30,workout30,12-06-2025,completed,20,Will do again
+95fab08b-7866-45dd-b2be-7be72ec38522,pat30,workout30,13-06-2025,missed,0,Could not do workout today
+d02aa582-bdbd-4223-9a95-4711e7edd6bd,pat30,workout30,14-06-2025,completed,49,Mild discomfort
+bcbbc5ab-e3f4-47e7-b1e7-d98975c6a1d6,pat30,workout30,15-06-2025,completed,40,Will do again
+8e605f51-1062-4b76-b7ac-fdb0b4ac7de5,pat30,workout30,16-06-2025,completed,39,Too tiring
+a6e42e80-b335-4e85-b818-4308cd0849f8,pat30,workout30,17-06-2025,completed,22,Too tiring
+87ba958b-2d42-4242-bdbb-fddd0a7d589f,pat30,workout30,18-06-2025,missed,0,Could not do workout today
+0a037883-dfa9-49ea-b2f6-ab579d1941c7,pat30,workout30,19-06-2025,missed,0,Could not do workout today
+14976234-d5ab-4eba-8544-ad825826f549,pat30,workout30,20-06-2025,missed,0,Could not do workout today
+7e768806-f62a-40da-ac05-006387175c72,pat30,workout30,21-06-2025,missed,0,Could not do workout today
+8ee68241-bc3f-45a4-a465-8595d3624267,pat30,workout30,22-06-2025,completed,41,Felt great afterward
+33c4f201-9150-4068-985d-914e666f1bce,pat30,workout30,23-06-2025,missed,0,Could not do workout today
+a1f63af3-c9e9-4763-bc9f-18ed22e679ef,pat30,workout30,24-06-2025,completed,33,Too tiring
+3205621b-f789-42c6-9a32-6403a8cb6ac2,pat30,workout30,25-06-2025,completed,52,Felt great afterward
+7fab23d0-6f38-4bf2-bac4-7f9134ffcdfe,pat30,workout30,26-06-2025,missed,0,Could not do workout today
+fcb0fad1-cddb-480d-b191-636a1a4668a0,pat30,workout30,27-06-2025,missed,0,Could not do workout today
+b2b7bcf7-9304-494a-b9bf-c27084f1c82e,pat30,workout30,28-06-2025,completed,54,Need to improve form
+73a32a0b-c09a-4a2e-87c6-add310d2e6cc,pat30,workout30,29-06-2025,missed,0,Could not do workout today
+f252fda4-56c3-4e3f-a43b-0f66c0136119,pat30,workout30,30-06-2025,missed,0,Could not do workout today
+8baa093f-447f-44a7-baa9-70a1810b5484,pat31,workout31,01-06-2025,missed,0,Could not do workout today
+154c55e9-aa73-420f-8897-3d3d17096379,pat31,workout31,02-06-2025,completed,47,Need to improve form
+cad55bcf-ad10-47f1-ab89-bba722771d56,pat31,workout31,03-06-2025,missed,0,Could not do workout today
+6e4eda3a-69ab-43c7-b91d-85a6ae5a79f4,pat31,workout31,04-06-2025,completed,30,Mild discomfort
+f2043966-93be-4b75-a07c-a86e998f8c42,pat31,workout31,05-06-2025,missed,0,Could not do workout today
+307262c4-d5f4-4991-9456-a974ef298883,pat31,workout31,06-06-2025,completed,57,Need to improve form
+adcece4b-756a-4e79-9123-ec58ca2a4417,pat31,workout31,07-06-2025,missed,0,Could not do workout today
+a6738b81-6030-4ee4-b0ba-6b665226cf13,pat31,workout31,08-06-2025,missed,0,Could not do workout today
+c2d3b8f9-4bc8-489b-80fd-5e6822c87562,pat31,workout31,09-06-2025,completed,21,Will do again
+77919906-5d6d-4a0a-b819-b87639916e67,pat31,workout31,10-06-2025,completed,34,Need to improve form
+835579b2-61fd-4c63-a761-96ac51c3cadf,pat31,workout31,11-06-2025,missed,0,Could not do workout today
+859f2d92-cdfd-4c1a-b07b-afab25a17957,pat31,workout31,12-06-2025,completed,27,No issues
+c6fa36c8-b631-4cef-8489-bb5a2a2312e1,pat31,workout31,13-06-2025,missed,0,Could not do workout today
+48a6eb42-f470-4e65-8f4e-e75003af0610,pat31,workout31,14-06-2025,missed,0,Could not do workout today
+e03ad26b-3004-4a03-9793-60c2d2c2228e,pat31,workout31,15-06-2025,completed,37,Felt great afterward
+7ba2398d-a15f-4f6b-b18c-695474ae02f5,pat31,workout31,16-06-2025,missed,0,Could not do workout today
+eebe95c0-096c-4a83-a7bf-bbc404141711,pat31,workout31,17-06-2025,completed,30,Very refreshing
+5cfb1189-a9ab-4292-99f0-8e163faea011,pat31,workout31,18-06-2025,completed,22,Very refreshing
+ca7f2357-f088-45c6-98cd-1ada05bba4cc,pat31,workout31,19-06-2025,missed,0,Could not do workout today
+70c51c2a-c72c-4a32-8725-06ae4ab02def,pat31,workout31,20-06-2025,missed,0,Could not do workout today
+017b601f-37ce-4f31-b47f-2b281679515e,pat31,workout31,21-06-2025,missed,0,Could not do workout today
+cb3f5579-9eb7-42d5-88aa-b954b88b7768,pat31,workout31,22-06-2025,missed,0,Could not do workout today
+48a0f4bc-8ef5-4b56-a062-30480f4bdba9,pat31,workout31,23-06-2025,missed,0,Could not do workout today
+bdf46f6f-6fb6-4d77-a048-38ffcaf2abc2,pat31,workout31,24-06-2025,completed,44,Very refreshing
+4d88fe63-e960-4b09-9f7a-70cff00306f3,pat31,workout31,25-06-2025,missed,0,Could not do workout today
+419f0be7-57c4-4fed-a7ca-7535af2374dd,pat31,workout31,26-06-2025,completed,52,No issues
+49293db2-3152-4caa-b88a-17c7e9c54519,pat31,workout31,27-06-2025,missed,0,Could not do workout today
+0570f40e-b5c1-4a39-b2ff-61f5160531bf,pat31,workout31,28-06-2025,missed,0,Could not do workout today
+7c88b10d-20e3-4023-8f6c-bd5003c9d2a7,pat31,workout31,29-06-2025,completed,45,Need to improve form
+4a9506a3-3abc-47c7-acaf-7f9cd0e83cab,pat31,workout31,30-06-2025,missed,0,Could not do workout today
+e7e47f67-d09d-465a-b2ca-886afd68fffb,pat32,workout32,01-06-2025,completed,43,Very refreshing
+4c7f83a3-5e49-4da0-9e56-fc0b7ca03636,pat32,workout32,02-06-2025,missed,0,Could not do workout today
+de48cd80-8a7d-434f-b883-0095e3cbd893,pat32,workout32,03-06-2025,completed,55,Mild discomfort
+b2dfaa6c-7abe-4c1d-8dc9-6983447d6723,pat32,workout32,04-06-2025,completed,48,Mild discomfort
+db579a7a-bf7f-4a5a-8460-b7a013fb114a,pat32,workout32,05-06-2025,missed,0,Could not do workout today
+0e3b7318-17c3-447a-bbe7-a636332e1a8c,pat32,workout32,06-06-2025,completed,51,Need to improve form
+4a7c2817-4130-41a9-9864-f62d9f6d93d7,pat32,workout32,07-06-2025,completed,49,Need to improve form
+12990770-42d2-42d3-9da7-928136287edf,pat32,workout32,08-06-2025,missed,0,Could not do workout today
+325f1189-c4fe-4a64-ae7b-9e653a0d191c,pat32,workout32,09-06-2025,completed,24,Too tiring
+3fa6f073-e1d4-4600-b5c3-72782f74f6c3,pat32,workout32,10-06-2025,completed,55,Will do again
+fc383289-b676-4397-a5b6-1d5ac679a7ca,pat32,workout32,11-06-2025,completed,41,Need to improve form
+2877d758-1682-46be-8958-361ab9cd4037,pat32,workout32,12-06-2025,missed,0,Could not do workout today
+f7eddb9e-b828-4b97-9351-4847fcc7e52e,pat32,workout32,13-06-2025,completed,37,Will do again
+aba414cd-3f90-4ee8-aa19-a34e65afa0bc,pat32,workout32,14-06-2025,missed,0,Could not do workout today
+1dc5391e-0069-470d-8358-c4a272063f3d,pat32,workout32,15-06-2025,missed,0,Could not do workout today
+1131f887-4350-498a-b853-2f2b689d8e33,pat32,workout32,16-06-2025,completed,60,Felt great afterward
+90f15562-75b2-4ef1-9ed7-4eeb35e39e4c,pat32,workout32,17-06-2025,missed,0,Could not do workout today
+c1f66146-89c2-44c8-ab7b-74fa47e3e2a6,pat32,workout32,18-06-2025,completed,20,Very refreshing
+108522b3-d442-4563-b0c5-0ef9e703a450,pat32,workout32,19-06-2025,missed,0,Could not do workout today
+69ecc895-3644-4297-85c4-4f34359e0b3c,pat32,workout32,20-06-2025,completed,39,Too tiring
+d896f7ed-0523-4e40-9973-4e25e20a24e8,pat32,workout32,21-06-2025,missed,0,Could not do workout today
+680b1d7e-025b-427d-a6d9-d30aa3ff1759,pat32,workout32,22-06-2025,missed,0,Could not do workout today
+a3e4347c-ac2d-4f24-ac95-0f0b6eae7212,pat32,workout32,23-06-2025,completed,59,Need to improve form
+81845367-a93b-45bb-9b2b-d7abb24cb24e,pat32,workout32,24-06-2025,completed,42,Need to improve form
+1fbafa0b-b868-42e9-ba8c-c08912e54939,pat32,workout32,25-06-2025,completed,21,Will do again
+057bcd81-f03f-4a5a-b1f3-4637e7e42262,pat32,workout32,26-06-2025,missed,0,Could not do workout today
+1a0e00e0-5f8b-4671-9340-51fb104b7a8a,pat32,workout32,27-06-2025,completed,35,Mild discomfort
+055e4701-9eb9-41cd-ae1f-ab18cd236c82,pat32,workout32,28-06-2025,missed,0,Could not do workout today
+0afc271a-7fd4-4562-9b72-7423ecdd35e1,pat32,workout32,29-06-2025,missed,0,Could not do workout today
+d600549a-90be-45c0-b799-4c954ab7a68f,pat32,workout32,30-06-2025,completed,29,Need to improve form
+d63a634c-1588-4102-b5ed-aa26524f71cb,pat33,workout33,01-06-2025,missed,0,Could not do workout today
+a02c3dda-2f54-4fdd-8b85-3d6e165b9f78,pat33,workout33,02-06-2025,missed,0,Could not do workout today
+68f4364e-122f-4eb8-80ff-f854035dc519,pat33,workout33,03-06-2025,missed,0,Could not do workout today
+d64884fa-b564-4f57-8086-548f577a7e41,pat33,workout33,04-06-2025,completed,50,Need to improve form
+db59ee2e-b2e6-48fb-a4b2-0d85be60b044,pat33,workout33,05-06-2025,completed,47,Will do again
+464f47ff-bcc7-4c18-b7d2-c74424c94866,pat33,workout33,06-06-2025,missed,0,Could not do workout today
+d3936e89-e76e-4b64-9156-67ba9e4f0995,pat33,workout33,07-06-2025,missed,0,Could not do workout today
+f193d07f-bc24-4931-aaf8-4dd67e643460,pat33,workout33,08-06-2025,completed,48,Need to improve form
+745c65d7-ef95-4b3e-9938-63166dd3c979,pat33,workout33,09-06-2025,missed,0,Could not do workout today
+80766a07-54b0-4fa3-938b-222e454801a1,pat33,workout33,10-06-2025,completed,45,Need to improve form
+42aa9b48-c417-436b-b0c7-df90a625f0b0,pat33,workout33,11-06-2025,completed,59,Mild discomfort
+ae1a1d47-c6b6-46cf-899e-9e52a3d1353f,pat33,workout33,12-06-2025,missed,0,Could not do workout today
+6d845de8-afe1-432e-93d1-1024da5df6e8,pat33,workout33,13-06-2025,completed,27,Need to improve form
+ecac0a85-3801-440d-9be3-0ab10c1119ad,pat33,workout33,14-06-2025,completed,27,Mild discomfort
+7ff00a40-2cec-4b67-8473-b930929c6e1a,pat33,workout33,15-06-2025,missed,0,Could not do workout today
+6117db47-0f42-4f30-b6ff-ed0cef38cfa9,pat33,workout33,16-06-2025,completed,30,Felt great afterward
+26386d14-bed7-4eb4-9ec4-608288f452be,pat33,workout33,17-06-2025,completed,46,Too tiring
+554d5669-1495-4eb6-a277-12bac9a05c22,pat33,workout33,18-06-2025,missed,0,Could not do workout today
+269339aa-621f-4873-8e4c-38dd69290244,pat33,workout33,19-06-2025,missed,0,Could not do workout today
+132dee3f-6162-4d65-8d1b-f21904e91bf3,pat33,workout33,20-06-2025,completed,47,Need to improve form
+b06eb337-6a10-46f5-89e1-88bcdad6cd19,pat33,workout33,21-06-2025,missed,0,Could not do workout today
+28304c6f-5940-411e-947e-57c518a1634f,pat33,workout33,22-06-2025,missed,0,Could not do workout today
+8fb03c18-63fc-43bd-8d4e-091024648165,pat33,workout33,23-06-2025,missed,0,Could not do workout today
+a65657dc-84ea-4da6-8729-d1d5a1d50386,pat33,workout33,24-06-2025,completed,41,Mild discomfort
+1e1dfe2d-40c6-48ea-b9a7-41b0aa34a99e,pat33,workout33,25-06-2025,missed,0,Could not do workout today
+a1391bef-f0ad-4851-b70c-4ac4caa46e86,pat33,workout33,26-06-2025,missed,0,Could not do workout today
+02801413-18e4-4b97-8d08-8adc6e5e8b09,pat33,workout33,27-06-2025,completed,42,Need to improve form
+e8dff3e5-9add-452e-9671-ae6bb4acc4fa,pat33,workout33,28-06-2025,completed,20,Will do again
+ee5ec512-c789-4e77-aba7-26b0e6ddc802,pat33,workout33,29-06-2025,completed,21,Felt great afterward
+40fda3aa-4aca-4c54-a0f9-2fd8f9aaff97,pat33,workout33,30-06-2025,missed,0,Could not do workout today
+608b0295-2758-4532-a54b-f64727637da5,pat34,workout34,01-06-2025,completed,45,Mild discomfort
+f236432a-77fb-48c7-b391-08c457c2d0b6,pat34,workout34,02-06-2025,completed,58,Need to improve form
+e25c8255-2deb-4d81-aad2-068331bd8b45,pat34,workout34,03-06-2025,missed,0,Could not do workout today
+e020c0a0-0d76-4aa6-98a3-044cbf2e6def,pat34,workout34,04-06-2025,missed,0,Could not do workout today
+77aff646-27b6-4fa8-8d51-739200bfce6c,pat34,workout34,05-06-2025,completed,20,Too tiring
+3b4d76d0-b630-4e85-9a86-03714bfb7210,pat34,workout34,06-06-2025,missed,0,Could not do workout today
+f2ada505-937e-45c5-9552-d6f2f4c9394a,pat34,workout34,07-06-2025,missed,0,Could not do workout today
+e24160b7-5fe0-4328-8e2a-2064c78f2322,pat34,workout34,08-06-2025,missed,0,Could not do workout today
+6ac36c09-2aa8-4454-8c6d-99f58ef24350,pat34,workout34,09-06-2025,completed,55,Mild discomfort
+02d290e5-1f34-4837-9122-e85e86333fbb,pat34,workout34,10-06-2025,completed,25,Too tiring
+811ff14d-2245-408e-972b-39552f04d167,pat34,workout34,11-06-2025,missed,0,Could not do workout today
+c9679b7d-0517-4ac6-b2c9-47f640591248,pat34,workout34,12-06-2025,completed,55,No issues
+4b75b33f-69fb-43cb-9f09-d60c164732f8,pat34,workout34,13-06-2025,missed,0,Could not do workout today
+5cc99b15-32b8-42b2-8a8d-f16096a4e816,pat34,workout34,14-06-2025,missed,0,Could not do workout today
+75763aff-5c1c-43dc-897a-30e32b7677f0,pat34,workout34,15-06-2025,missed,0,Could not do workout today
+6aa6c4e2-7274-4e60-bafa-dd047d0b62a4,pat34,workout34,16-06-2025,missed,0,Could not do workout today
+b413843e-8b80-4190-849c-04f685910bc2,pat34,workout34,17-06-2025,missed,0,Could not do workout today
+4baf521d-621d-4bab-a06e-45c011526ba7,pat34,workout34,18-06-2025,missed,0,Could not do workout today
+f472c143-860d-4342-9863-f7c7047071f0,pat34,workout34,19-06-2025,completed,43,Very refreshing
+641d9cb3-1af6-437e-a178-24c9ab1209ee,pat34,workout34,20-06-2025,completed,44,Felt great afterward
+2a86bdd0-48b3-4a59-bc59-78a8aed5bee8,pat34,workout34,21-06-2025,missed,0,Could not do workout today
+7618693a-22a7-4938-a7e0-9eef031d8d9e,pat34,workout34,22-06-2025,completed,57,Need to improve form
+09be10f0-3db8-446a-abac-4c4bccc4c236,pat34,workout34,23-06-2025,completed,35,No issues
+f4a0874d-6931-4cf7-84f1-c658d7522492,pat34,workout34,24-06-2025,completed,53,Will do again
+30099530-cc21-441b-aab5-8691781de933,pat34,workout34,25-06-2025,completed,26,Mild discomfort
+d7759850-1e81-4caa-8060-e5e80ccdbf0b,pat34,workout34,26-06-2025,missed,0,Could not do workout today
+1194113f-f2d1-4363-ab44-7c3f9f722b09,pat34,workout34,27-06-2025,completed,27,Felt great afterward
+39a13d13-6949-46b4-b203-72bad363756b,pat34,workout34,28-06-2025,missed,0,Could not do workout today
+30e7041d-5845-40e3-ac47-4d6e8140ca5e,pat34,workout34,29-06-2025,completed,33,Very refreshing
+db447b5c-ff07-4786-b510-f562fdce517b,pat34,workout34,30-06-2025,completed,29,No issues
+3aad9f2b-d90b-4e0d-8f19-7cb9822c4ace,pat35,workout35,01-06-2025,completed,43,Very refreshing
+89c481af-a599-458b-841f-f89aa30d1ff3,pat35,workout35,02-06-2025,completed,46,Very refreshing
+6e927f2c-fb9f-4933-9ea9-d669216e7c65,pat35,workout35,03-06-2025,missed,0,Could not do workout today
+0398628b-11f6-4fa9-9823-57ff9b11f64f,pat35,workout35,04-06-2025,completed,48,Will do again
+6c2342d0-d2b6-4972-95ba-8f381ec159d1,pat35,workout35,05-06-2025,completed,34,Will do again
+a4edcd42-e34a-4bd0-ab4a-0963a555a844,pat35,workout35,06-06-2025,missed,0,Could not do workout today
+3438a3da-38a7-4544-9a65-320de1b7e452,pat35,workout35,07-06-2025,missed,0,Could not do workout today
+fbcb6293-a9d3-4acb-897f-178f357530b9,pat35,workout35,08-06-2025,missed,0,Could not do workout today
+bccdc4a2-c167-441a-bb8b-3a80446df8b0,pat35,workout35,09-06-2025,completed,39,Very refreshing
+69a31f08-619b-478c-8a00-f2bce5931f37,pat35,workout35,10-06-2025,completed,27,Will do again
+f2ce20af-645d-4f77-b26a-5eabfaa2ed39,pat35,workout35,11-06-2025,completed,40,Too tiring
+1171b6a0-1aa0-42b2-9d9e-f0c9785a10f2,pat35,workout35,12-06-2025,completed,46,Mild discomfort
+a5c30896-7231-4116-84eb-d4ada5370fc5,pat35,workout35,13-06-2025,missed,0,Could not do workout today
+05c7b530-1eec-451a-9240-49ff8c27e2e1,pat35,workout35,14-06-2025,completed,44,No issues
+1bbf662d-4547-4886-a314-740ee14465f6,pat35,workout35,15-06-2025,completed,44,Felt great afterward
+06f4c3cc-c706-47e9-a8ca-1790ff69eda9,pat35,workout35,16-06-2025,completed,31,Mild discomfort
+522bfcab-15ab-4afc-b04b-a65769f631cf,pat35,workout35,17-06-2025,completed,58,Need to improve form
+787b46c1-f999-4b89-acdb-3651be5ea1cd,pat35,workout35,18-06-2025,completed,57,Need to improve form
+df2c7359-aec6-4956-b322-62730c10b3ac,pat35,workout35,19-06-2025,missed,0,Could not do workout today
+49309526-bb89-47e0-a900-160b457b02d9,pat35,workout35,20-06-2025,missed,0,Could not do workout today
+2f3a6848-b3b2-47b3-b712-1336d4d6d858,pat35,workout35,21-06-2025,missed,0,Could not do workout today
+dcf1aa6f-aa11-4922-9e68-876cbc152a5d,pat35,workout35,22-06-2025,missed,0,Could not do workout today
+c8d0a7a3-c5c0-4d5e-bbf8-a9bcc3d4ad02,pat35,workout35,23-06-2025,missed,0,Could not do workout today
+6eaee785-b873-42d6-8f39-1b8e0db3fb27,pat35,workout35,24-06-2025,missed,0,Could not do workout today
+a04a5cd6-88d9-488b-b6d9-df37698bb9c0,pat35,workout35,25-06-2025,missed,0,Could not do workout today
+a4004cb4-d504-4b62-8d64-8def3cbe54ca,pat35,workout35,26-06-2025,missed,0,Could not do workout today
+c741382c-b298-4b74-bc73-b01589ae298f,pat35,workout35,27-06-2025,completed,54,Very refreshing
+424fcdf3-25d1-4490-a3f1-e2da9a1fe068,pat35,workout35,28-06-2025,missed,0,Could not do workout today
+30e8ef41-6ccb-49fb-abdf-59fd150097c6,pat35,workout35,29-06-2025,missed,0,Could not do workout today
+61cb9c4f-21b3-4c30-ab25-1fb4ec6086db,pat35,workout35,30-06-2025,completed,35,Too tiring
+5b55a6e8-eb98-46e8-ad30-72e8b56920fb,pat36,workout36,01-06-2025,missed,0,Could not do workout today
+61ef7aad-2a18-4a23-9ae7-2bebba781b30,pat36,workout36,02-06-2025,completed,24,Very refreshing
+1fce1104-b79b-4394-9e1f-6a8706b647af,pat36,workout36,03-06-2025,missed,0,Could not do workout today
+b890be8e-6273-41c3-80e0-604f77b9aaaa,pat36,workout36,04-06-2025,completed,33,Need to improve form
+f19c62c3-7b6e-4468-813c-da43e7b34e05,pat36,workout36,05-06-2025,missed,0,Could not do workout today
+cdd7180b-7754-4cf3-99e8-e8cb659f951e,pat36,workout36,06-06-2025,completed,50,Will do again
+8b0d7daa-aa62-45c2-89a8-9deb4df3ff62,pat36,workout36,07-06-2025,completed,25,Very refreshing
+1691a619-ccc3-4498-a8cc-961ed4ff7300,pat36,workout36,08-06-2025,missed,0,Could not do workout today
+ccc39728-b623-4143-825c-3565f383ca52,pat36,workout36,09-06-2025,missed,0,Could not do workout today
+86c5ca12-df3a-4ace-a1df-04972ed9cc9a,pat36,workout36,10-06-2025,missed,0,Could not do workout today
+4c497d72-8227-45c9-b593-d5b04c2ef6a4,pat36,workout36,11-06-2025,completed,37,Will do again
+42f57f62-d1cb-4caf-8ee8-a3e8f09d6fa6,pat36,workout36,12-06-2025,missed,0,Could not do workout today
+95c28496-d304-4e79-92e1-c3dab65d8964,pat36,workout36,13-06-2025,completed,44,Need to improve form
+e3510c6f-03dc-41f1-8e25-c580a728a8e6,pat36,workout36,14-06-2025,completed,36,No issues
+9c05192d-2a44-40d9-a389-7b4e51250511,pat36,workout36,15-06-2025,completed,39,No issues
+d490975c-fe95-4479-a9fd-bc63cb7f0ed2,pat36,workout36,16-06-2025,completed,59,Will do again
+e209a549-9f8a-4555-88f0-12455b1715e2,pat36,workout36,17-06-2025,missed,0,Could not do workout today
+96b741f9-b902-4a44-adfe-6fcfbf3b79cc,pat36,workout36,18-06-2025,completed,57,No issues
+af37b0e9-a49d-482f-902b-6cd93ff976b1,pat36,workout36,19-06-2025,completed,33,Will do again
+206bb2e2-17e6-4dd7-bad3-2a9744ec3300,pat36,workout36,20-06-2025,completed,29,Too tiring
+7d65e78d-9f2d-4cc3-bcdc-0c1a0b0f11e1,pat36,workout36,21-06-2025,completed,58,Need to improve form
+0951551d-4b7b-45c4-a299-74813b92504a,pat36,workout36,22-06-2025,missed,0,Could not do workout today
+439b2eaf-fba0-4db5-ac59-9a4c6d182866,pat36,workout36,23-06-2025,missed,0,Could not do workout today
+3a770ddc-df73-408e-b362-a53668a1e629,pat36,workout36,24-06-2025,completed,48,Too tiring
+51516910-ad6d-4416-9fe0-e01e637264e0,pat36,workout36,25-06-2025,completed,44,Will do again
+fb740e44-fdfc-44a8-a9f4-75c4c8faff0e,pat36,workout36,26-06-2025,completed,20,No issues
+e44e0684-3caa-42e3-b53d-b2e3a06f18f5,pat36,workout36,27-06-2025,completed,20,Very refreshing
+b07101dc-3ded-47c0-bb7b-2c1d9d144d2d,pat36,workout36,28-06-2025,completed,60,Mild discomfort
+8105abee-5c38-400a-b193-27857db332e7,pat36,workout36,29-06-2025,missed,0,Could not do workout today
+1cae0b0e-d338-47b8-9dc8-8c4a40d07587,pat36,workout36,30-06-2025,missed,0,Could not do workout today
+f3a7af87-c9c5-4df6-b005-395a61d3bb2e,pat37,workout37,01-06-2025,missed,0,Could not do workout today
+ba1a909e-ccab-422d-8c35-b08714dfda10,pat37,workout37,02-06-2025,completed,20,Too tiring
+df6a14a6-38a0-4c0d-aebd-5b595cfcf702,pat37,workout37,03-06-2025,completed,30,Felt great afterward
+d833353b-2120-42ce-9e1a-7c176fd2fa75,pat37,workout37,04-06-2025,completed,57,No issues
+c0f1cd58-d8e4-462e-968d-62690c6fc5d9,pat37,workout37,05-06-2025,completed,32,Too tiring
+a9500b64-43fa-469a-9288-8b9414449519,pat37,workout37,06-06-2025,missed,0,Could not do workout today
+5409ae94-af6e-4c56-9fb9-b650fa909036,pat37,workout37,07-06-2025,completed,35,Very refreshing
+ea2d70e2-05b1-4a0c-80b0-02c5284e5416,pat37,workout37,08-06-2025,completed,52,No issues
+10ef26a0-93e3-4712-9113-ad67386baeac,pat37,workout37,09-06-2025,missed,0,Could not do workout today
+88cbeb5b-ca13-4154-9346-0ceb7774ca3d,pat37,workout37,10-06-2025,missed,0,Could not do workout today
+6b467f6f-d769-48c8-ad83-1e457926a3d4,pat37,workout37,11-06-2025,missed,0,Could not do workout today
+073c770e-bfc7-4aa8-aa48-d3552494bb48,pat37,workout37,12-06-2025,missed,0,Could not do workout today
+d221f996-e6b1-4fc4-8832-f7831d8e2644,pat37,workout37,13-06-2025,missed,0,Could not do workout today
+8f825999-2efd-4355-8ce8-f9083e3b7ba1,pat37,workout37,14-06-2025,completed,43,Will do again
+625b60c7-5495-4f87-ad93-3d5d1311afe1,pat37,workout37,15-06-2025,missed,0,Could not do workout today
+c7f17f40-7815-43bb-b988-bfd0580dcf90,pat37,workout37,16-06-2025,completed,33,Very refreshing
+2ca856b7-dcd5-4d9f-ad3e-3ea7d8664d00,pat37,workout37,17-06-2025,completed,48,Mild discomfort
+7533c9c6-ac9a-4c80-96a5-3c42d3b4f14d,pat37,workout37,18-06-2025,missed,0,Could not do workout today
+4fb01a23-d862-4a1f-8896-51789f932b30,pat37,workout37,19-06-2025,missed,0,Could not do workout today
+b2691a99-423f-488b-8bed-94741a1eb072,pat37,workout37,20-06-2025,missed,0,Could not do workout today
+9aa3c059-a728-4e35-bcbf-01a3a80c04dc,pat37,workout37,21-06-2025,completed,53,Felt great afterward
+f7c4a966-966e-4bf4-a6c9-7859c786de60,pat37,workout37,22-06-2025,missed,0,Could not do workout today
+917c3a9b-633a-4cc3-b80b-c0e58d2e1ba2,pat37,workout37,23-06-2025,missed,0,Could not do workout today
+3311eca9-02e0-438f-80e9-6c7d824ee5b8,pat37,workout37,24-06-2025,missed,0,Could not do workout today
+1e023a8a-e589-48df-be47-fdb498e85e15,pat37,workout37,25-06-2025,completed,45,No issues
+110ecb42-6c0f-4b95-ad08-a9e46a514eff,pat37,workout37,26-06-2025,completed,36,Need to improve form
+6376c7c9-0a58-45a2-88ef-3761152cb8f7,pat37,workout37,27-06-2025,completed,23,Felt great afterward
+a2d7d0e3-ee78-43e2-9073-7c0adff1b401,pat37,workout37,28-06-2025,missed,0,Could not do workout today
+ada38626-f9ee-4a9d-abc6-529401f7acb1,pat37,workout37,29-06-2025,missed,0,Could not do workout today
+3a1bf68e-6015-4410-a72b-dc4689b1e4ee,pat37,workout37,30-06-2025,missed,0,Could not do workout today
+a32df2f1-4197-424e-a3c2-6896bdf2a1f5,pat38,workout38,01-06-2025,missed,0,Could not do workout today
+e6f802dc-7059-43a0-8b8d-5d2a3e8535f4,pat38,workout38,02-06-2025,completed,58,Need to improve form
+8136b4ea-822c-4196-95a4-3fee35d9a07d,pat38,workout38,03-06-2025,missed,0,Could not do workout today
+a1297ecc-aab6-49a0-a5bd-e0e19aae18e4,pat38,workout38,04-06-2025,missed,0,Could not do workout today
+5c365a0c-2a77-41c5-b074-4453fd46a20a,pat38,workout38,05-06-2025,missed,0,Could not do workout today
+758c193f-5511-443c-b8d3-a16a1e87336e,pat38,workout38,06-06-2025,completed,24,Felt great afterward
+e64c5b85-b312-4d0c-b332-818d8b38d256,pat38,workout38,07-06-2025,completed,30,Mild discomfort
+183e2e9f-c345-40ca-a904-47760d858e02,pat38,workout38,08-06-2025,missed,0,Could not do workout today
+d2b1a204-d577-48c1-b0dd-64b50a4f99dd,pat38,workout38,09-06-2025,completed,43,Felt great afterward
+0fe3adf0-cfad-4ab8-b972-a1859cb64033,pat38,workout38,10-06-2025,missed,0,Could not do workout today
+daa635e4-3790-4fde-bfa1-f35e2960eb41,pat38,workout38,11-06-2025,completed,49,Mild discomfort
+04f4a35f-4bd4-4c93-b532-dc5e8d347aa7,pat38,workout38,12-06-2025,completed,45,Will do again
+9f14b382-038f-4a5f-a1ad-767eb1c90571,pat38,workout38,13-06-2025,missed,0,Could not do workout today
+59370e92-d501-443d-a1bc-be6de9011504,pat38,workout38,14-06-2025,completed,51,Will do again
+622c2f54-e381-4ce9-bffc-1dd0ac9af63b,pat38,workout38,15-06-2025,completed,28,Need to improve form
+a4d78ed2-9d03-4e31-bee0-8ddf5dfcf520,pat38,workout38,16-06-2025,missed,0,Could not do workout today
+0886ddb9-b7ee-495e-a8f2-5fe3219f399b,pat38,workout38,17-06-2025,completed,47,Will do again
+28c9e961-5037-49fb-ab97-3c1de0c88cae,pat38,workout38,18-06-2025,missed,0,Could not do workout today
+e340c68f-292e-4d95-a3f0-141602517f7d,pat38,workout38,19-06-2025,missed,0,Could not do workout today
+6ce965da-f216-4c5e-9d8d-2cc9a5d2af28,pat38,workout38,20-06-2025,completed,38,No issues
+f2837af4-f92b-481e-9992-e7cc9eff58fb,pat38,workout38,21-06-2025,completed,60,Very refreshing
+25a4af61-46be-41de-921e-c244a188e29b,pat38,workout38,22-06-2025,completed,56,Too tiring
+36435256-8098-49ee-88b2-dc776ae29f74,pat38,workout38,23-06-2025,missed,0,Could not do workout today
+631b0734-99ba-4cd7-9948-596867fe4045,pat38,workout38,24-06-2025,completed,40,Too tiring
+f582c2b9-00d2-4b7b-9408-15464be51de5,pat38,workout38,25-06-2025,missed,0,Could not do workout today
+4d7e2787-8321-4aab-ba2b-155b085e0a64,pat38,workout38,26-06-2025,completed,56,Too tiring
+f7a8d6d2-c344-43ba-a5e9-6f1521f268a1,pat38,workout38,27-06-2025,missed,0,Could not do workout today
+6498e22a-e789-4b75-9ebe-0efcd34224a0,pat38,workout38,28-06-2025,missed,0,Could not do workout today
+e4d18c6f-9c3f-4854-b0e4-c93a12ab481d,pat38,workout38,29-06-2025,missed,0,Could not do workout today
+1dc2f262-b694-4dc4-b0a1-6803b920bc9d,pat38,workout38,30-06-2025,missed,0,Could not do workout today
+3e6dd264-6e16-4d3b-9c1e-18f487497211,pat39,workout39,01-06-2025,completed,39,Too tiring
+b4df0dc0-2d95-44bb-b32b-11b24820b1ac,pat39,workout39,02-06-2025,completed,41,Mild discomfort
+b55a3180-f230-4274-8feb-079209090b8a,pat39,workout39,03-06-2025,completed,21,Very refreshing
+646d5ee4-b9b3-4dc4-87cc-1b6b0627188c,pat39,workout39,04-06-2025,missed,0,Could not do workout today
+caab2c8a-8b68-4eb3-b269-377727414cee,pat39,workout39,05-06-2025,missed,0,Could not do workout today
+a3b00c6d-58a9-45de-aea9-4fee7575d755,pat39,workout39,06-06-2025,missed,0,Could not do workout today
+77eb9feb-f426-4b64-99a4-6dea93ae04d3,pat39,workout39,07-06-2025,completed,41,No issues
+eef4905a-da25-4972-9944-2d978cb67611,pat39,workout39,08-06-2025,completed,23,Very refreshing
+1f95d32e-abdf-4c49-8ceb-916ffa9453e5,pat39,workout39,09-06-2025,completed,34,No issues
+6466c813-c295-4c77-8ad7-ab5db701637c,pat39,workout39,10-06-2025,completed,27,Will do again
+486220b9-ea9c-4d1c-9915-ca85e02af553,pat39,workout39,11-06-2025,missed,0,Could not do workout today
+33aad9ab-53c5-4c3a-8f6f-7eda5c3483b8,pat39,workout39,12-06-2025,missed,0,Could not do workout today
+8c371044-e017-4e2a-b9ed-01f6286dab36,pat39,workout39,13-06-2025,completed,57,Mild discomfort
+16b38880-cddd-449d-a2d1-97f0c14b8968,pat39,workout39,14-06-2025,completed,22,Need to improve form
+a096a954-8819-4eee-89bf-2af99f557fda,pat39,workout39,15-06-2025,completed,39,Will do again
+ae96c4d1-a1fc-4836-88d7-c4ecf7db9d42,pat39,workout39,16-06-2025,missed,0,Could not do workout today
+1074fc9a-d21b-486b-bbd8-b481506b37f6,pat39,workout39,17-06-2025,completed,43,Need to improve form
+095ac878-76e7-4a5a-a248-0a82e1119c9c,pat39,workout39,18-06-2025,completed,38,No issues
+a215b178-d166-4af2-b34a-e3dc970cc321,pat39,workout39,19-06-2025,missed,0,Could not do workout today
+43b4d1f3-f4bf-47a3-b42b-f4529989c5d3,pat39,workout39,20-06-2025,missed,0,Could not do workout today
+53939e0e-6c12-451c-ba49-b4476b716885,pat39,workout39,21-06-2025,missed,0,Could not do workout today
+cbb5bafc-f2d4-439d-be98-397dff08791f,pat39,workout39,22-06-2025,missed,0,Could not do workout today
+fa29620c-15f7-4f04-917e-7b93ae39925d,pat39,workout39,23-06-2025,completed,31,Felt great afterward
+25bb1600-e961-4946-8dbe-962e76d237a4,pat39,workout39,24-06-2025,missed,0,Could not do workout today
+c1995da1-75b7-4f60-b868-1c31f7a98b31,pat39,workout39,25-06-2025,completed,40,Felt great afterward
+615bfec3-8683-4bc4-a082-c0394f1ec73f,pat39,workout39,26-06-2025,completed,33,Felt great afterward
+15074e4a-ff37-482b-b6fe-9849953a18ce,pat39,workout39,27-06-2025,missed,0,Could not do workout today
+0bc8160c-4295-4836-966b-2f3e51a3e344,pat39,workout39,28-06-2025,missed,0,Could not do workout today
+eeb49e68-721c-439b-8950-63709c2e215c,pat39,workout39,29-06-2025,missed,0,Could not do workout today
+dd1f31d0-0181-4f35-90d7-d166af0590d6,pat39,workout39,30-06-2025,missed,0,Could not do workout today
+771637be-c299-4d89-a6fe-7bbe80ff4c85,pat40,workout40,01-06-2025,completed,31,Need to improve form
+c47f131c-161e-4fca-b25f-e500517cde87,pat40,workout40,02-06-2025,completed,23,No issues
+39dc8e30-a84e-4778-9d61-23ee7b1d3e14,pat40,workout40,03-06-2025,completed,34,Felt great afterward
+c2222df1-de8d-4192-8a67-a0a63ce54415,pat40,workout40,04-06-2025,completed,54,Felt great afterward
+10c2e3e0-1604-4f42-9467-e42ef128264c,pat40,workout40,05-06-2025,missed,0,Could not do workout today
+386cc003-dca2-4587-ac5d-7397f4a16531,pat40,workout40,06-06-2025,missed,0,Could not do workout today
+90ccca5e-afdc-476b-8220-832663d5b2b4,pat40,workout40,07-06-2025,missed,0,Could not do workout today
+7e1fffd3-9052-43f4-a178-bdb6c4d2b2ac,pat40,workout40,08-06-2025,completed,31,Will do again
+ad09f18c-7579-4ea3-bfb6-70bd589dd128,pat40,workout40,09-06-2025,missed,0,Could not do workout today
+3f2b74a2-a051-4fa6-8377-a350b2f0d105,pat40,workout40,10-06-2025,completed,45,Will do again
+6f7d9b29-c181-4798-a6ad-42592582892d,pat40,workout40,11-06-2025,completed,35,Too tiring
+bb9097d5-3502-4c8a-9ba6-1ca957085336,pat40,workout40,12-06-2025,missed,0,Could not do workout today
+1304634e-d56d-49ba-bb9b-4c1314deb06f,pat40,workout40,13-06-2025,completed,59,No issues
+70b933e4-b12e-4231-87fa-d0823503c0dd,pat40,workout40,14-06-2025,missed,0,Could not do workout today
+df107366-d998-4362-a0a5-0b1470ac1c95,pat40,workout40,15-06-2025,missed,0,Could not do workout today
+b45bd573-fe98-4c1b-993c-d20598e1cc99,pat40,workout40,16-06-2025,missed,0,Could not do workout today
+8c1268d1-cbbe-4c16-b6cc-1c7910293527,pat40,workout40,17-06-2025,missed,0,Could not do workout today
+ef5e5ca4-8a25-4d84-ae97-bb4019fdf8fa,pat40,workout40,18-06-2025,completed,46,Need to improve form
+f9653c7d-4150-430c-ac98-5e3e13b5af99,pat40,workout40,19-06-2025,missed,0,Could not do workout today
+500663c6-71cb-455b-bd99-74c94da33e61,pat40,workout40,20-06-2025,completed,24,Felt great afterward
+7b881f2b-ad42-420c-a088-8fa9bc5a143e,pat40,workout40,21-06-2025,missed,0,Could not do workout today
+3fd0a6aa-c657-48c3-b1fe-1eec03e94ee9,pat40,workout40,22-06-2025,missed,0,Could not do workout today
+c39e70e4-abb2-4dbe-91ea-15d7d7b8af54,pat40,workout40,23-06-2025,missed,0,Could not do workout today
+0cbd6843-f3eb-4fd2-a2de-53093a72dda4,pat40,workout40,24-06-2025,missed,0,Could not do workout today
+a21a2f15-7051-4e00-ad2a-055342c69418,pat40,workout40,25-06-2025,missed,0,Could not do workout today
+78e5ab2c-f476-4e6e-a78f-ef867e2fdd8a,pat40,workout40,26-06-2025,missed,0,Could not do workout today
+377082e7-5de3-4802-8037-82dbc267b98e,pat40,workout40,27-06-2025,completed,32,Very refreshing
+de3a1754-148c-4a9e-89a9-5d7c43d481df,pat40,workout40,28-06-2025,completed,42,Very refreshing
+226953ef-f164-4683-a956-e17578b5e44f,pat40,workout40,29-06-2025,missed,0,Could not do workout today
+9512fda9-9f42-4910-b0ea-d8494337229f,pat40,workout40,30-06-2025,completed,57,Felt great afterward

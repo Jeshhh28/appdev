@@ -1,0 +1,241 @@
+﻿taskId,title,description,assignedTo,assignedBy,relatedTo,dueDate,status,priority,createdAt
+task1,Follow-up on cholesterol medication,Discuss any side effects or improvements noticed while taking Atorvastatin.,pat1,doc6,med1,12-06-2025,pending,medium,2025-06-01T08:00:00Z
+task2,Attend physiotherapy session,Join the weekly physiotherapy session to improve joint flexibility.,pat5,doc3,null,06-06-2025,completed,high,2025-06-02T10:00:00Z
+task3,Log meals from diabetic diet,Track daily meals as per the diabetic-friendly balanced diet plan.,pat3,doc2,null,14-06-2025,pending,medium,2025-06-03T09:00:00Z
+task4,Complete strength training,Do your strength training routine focusing on upper body mobility.,pat5,doc3,workout5,06-06-2025,completed,medium,2025-06-04T08:00:00Z
+task5,Daily breathing exercises,Spend 15 minutes daily on deep breathing to improve lung capacity.,pat4,doc6,workout4,12-06-2025,completed,low,2025-06-02T08:00:00Z
+task6,Upload lab test report,Submit your latest thyroid profile test result in the app.,pat7,doc1,null,06-06-2025,completed,medium,2025-06-04T08:00:00Z
+task7,Give feedback on care received,Provide a short review about your recent consultation experience.,pat9,doc5,null,06-06-2025,pending,low,2025-06-05T09:00:00Z
+task8,Update symptom log,Record the frequency and intensity of headaches over the past week.,pat8,doc1,null,06-06-2025,completed,high,2025-06-04T10:00:00Z
+task9,Attend virtual cardio class,Join the cardio session on Zoom and complete the 30-minute workout.,pat10,doc3,workout10,11-06-2025,completed,medium,2025-06-06T08:30:00Z
+task10,Practice posture alignment,Work on sitting and standing posture exercises to avoid back strain.,pat6,doc3,workout6,14-06-2025,pending,medium,2025-06-04T08:00:00Z
+task11,Hydration tracking,Maintain daily water intake logs as part of the recovery plan.,pat11,doc2,null,15-06-2025,completed,low,2025-06-05T08:00:00Z
+task12,Join stress management webinar,Attend the 1-hour session on managing stress through mindfulness.,pat12,doc3,null,06-06-2025,pending,medium,2025-06-04T08:00:00Z
+task13,Check blood pressure at home,Measure your BP daily in the morning and record values.,pat6,doc3,med6,12-06-2025,completed,high,2025-06-03T08:00:00Z
+task14,Report energy levels,Log how energetic you feel throughout the day using the mood tracker.,pat2,doc2,null,13-06-2025,completed,low,2025-06-06T08:00:00Z
+task15,Update medication status,Confirm if you’ve been consistently taking your thyroid medication.,pat7,doc1,med7,11-06-2025,completed,medium,2025-06-05T08:00:00Z
+task16,Log daily walk,Track your daily walk and upload step count from your smartwatch.,pat4,doc6,workout4,14-06-2025,pending,medium,2025-06-05T08:00:00Z
+task17,Review calcium intake,Assess calcium-rich food consumption during the week.,pat7,doc1,diet7,11-06-2025,completed,low,2025-06-06T08:00:00Z
+task18,Record improvement in mobility,Log any noticeable improvements in mobility since starting therapy.,pat12,doc3,null,14-06-2025,pending,medium,2025-06-05T08:00:00Z
+task19,Track sugar cravings,Note any sugar cravings while following the diabetic diet.,pat3,doc2,diet3,13-06-2025,completed,low,2025-06-04T08:00:00Z
+task20,Medication review session,Meet with your doctor to review and adjust current medications if needed.,pat8,doc1,null,06-06-2025,completed,high,2025-06-05T08:00:00Z
+task21,Daily walk and breathing exercises,Complete your 30-minute walk and perform deep breathing exercises as recommended.,pat4,doc6,workout4,06-06-2025,pending,medium,2025-06-01T08:00:00Z
+task22,Review dietary changes,Evaluate your progress with the current high-protein diet and report back in the follow-up consultation.,pat2,doc2,diet2,12-06-2025,completed,low,2025-06-02T10:00:00Z
+task23,Blood pressure monitoring,Record your blood pressure readings daily for the next week and upload them before your next appointment.,pat3,doc2,null,06-06-2025,completed,high,2025-06-03T09:00:00Z
+task24,Complete strength training session,Join the strength training session scheduled at the physiotherapy center to aid mobility recovery.,pat5,doc3,workout5,06-06-2025,completed,medium,2025-06-02T07:30:00Z
+task25,Medication adherence check-in,Ensure consistent intake of thyroid medication and report if any side effects occur.,pat7,doc1,null,06-06-2025,pending,high,2025-06-04T10:15:00Z
+task26,Join yoga for digestion,Attend the group yoga class focusing on improving digestion and reducing bloating.,pat8,doc1,workout8,06-06-2025,completed,low,2025-06-05T08:45:00Z
+task27,Submit food log,Record meals for the next 5 days as part of your anti-inflammatory diet review.,pat9,doc5,diet9,11-06-2025,pending,medium,2025-06-06T08:00:00Z
+task28,Warm-up and flexibility routine,Follow the daily flexibility exercises to prevent joint stiffness.,pat10,doc3,workout10,12-06-2025,completed,medium,2025-06-06T11:30:00Z
+task29,Track sugar levels,Monitor fasting and post-meal glucose levels for diabetes control.,pat6,doc3,null,06-06-2025,completed,high,2025-06-03T12:00:00Z
+task30,Hydration check,Ensure daily water intake reaches 2.5 liters as part of kidney health focus.,pat12,doc3,null,14-06-2025,completed,low,2025-06-06T09:00:00Z
+task31,Sleep log maintenance,Track sleep hours and quality to address fatigue and improve recovery.,pat1,doc6,null,13-06-2025,completed,medium,2025-06-06T08:00:00Z
+task32,Attend neurologist follow-up,Consult with neurology specialist to review symptom progress and adjust medication if necessary.,pat9,doc5,null,15-06-2025,pending,high,2025-06-06T09:00:00Z
+task33,Practice post-operative stretching,Perform daily stretching exercises to aid recovery and improve flexibility.,pat7,doc1,workout7,16-06-2025,completed,medium,2025-06-06T07:00:00Z
+task34,Schedule lab tests,Book appointments for blood work and cholesterol panel as recommended by your doctor.,pat1,doc6,null,17-06-2025,pending,high,2025-06-11T08:30:00Z
+task35,Monitor knee pain levels,Log pain intensity daily and report any increases during the physiotherapy sessions.,pat5,doc3,null,18-06-2025,pending,medium,2025-06-12T09:45:00Z
+task36,Maintain food diary for thyroid health,Track daily meals and snacks focusing on iodine and selenium-rich foods.,pat7,doc1,diet7,19-06-2025,completed,low,2025-06-12T10:30:00Z
+task37,Complete cardiovascular workout,Follow the heart-safe low-intensity workout plan for at least 30 minutes daily.,pat6,doc3,workout6,20-06-2025,pending,high,2025-06-13T07:30:00Z
+task38,Follow Mediterranean diet,"Maintain the Mediterranean diet focusing on healthy fats, vegetables, and whole grains.",pat11,doc2,diet11,21-06-2025,completed,medium,2025-06-14T08:00:00Z
+task39,Complete weekly physiotherapy session,Attend your scheduled physiotherapy to support recovery from injury.,pat12,doc3,null,22-06-2025,pending,high,2025-06-14T09:30:00Z
+task40,Prepare questions for next consultation,List any concerns or questions about your current treatment plan to discuss with your doctor.,pat10,doc3,null,23-06-2025,completed,low,2025-06-15T10:00:00Z
+task41,Attend group support meeting,Participate in the diabetes support group to share experiences and learn management tips.,pat3,doc2,null,24-06-2025,completed,medium,2025-06-16T11:00:00Z
+task42,Complete balance and coordination exercises,Perform exercises designed to improve balance and reduce fall risk.,pat9,doc5,workout9,25-06-2025,completed,medium,2025-06-17T07:00:00Z
+task43,Update medication side effects log,Document any new or ongoing side effects experienced with your current medications.,pat11,doc6,null,26-06-2025,pending,high,2025-06-18T08:30:00Z
+task44,Attend mental health counseling session,Participate in the scheduled session to support your overall wellbeing.,pat1,doc6,null,27-06-2025,pending,low,2025-06-19T09:00:00Z
+task45,Monitor cholesterol levels,Check cholesterol levels weekly as part of your treatment for lipid management.,pat1,doc6,null,28-06-2025,pending,high,2025-06-20T07:45:00Z
+task46,Practice relaxation techniques,Engage in daily relaxation and mindfulness exercises to reduce stress.,pat8,doc1,null,29-06-2025,pending,medium,2025-06-21T10:15:00Z
+task47,Attend orthopedic follow-up,Meet with your orthopedic specialist to evaluate healing progress.,pat5,doc3,null,30-06-2025,completed,high,2025-06-22T08:00:00Z
+task48,Track daily calorie intake,Record your calories consumed daily to support weight management goals.,pat10,doc3,diet10,01-06-2025,completed,medium,2025-06-23T09:30:00Z
+task49,Follow-up on medication adjustments,Attend scheduled appointment to discuss recent changes in your medication regimen.,pat2,doc2,null,02-06-2025,pending,high,2025-06-24T08:00:00Z
+task50,Attend nutritionist consultation,Consult with the nutritionist to tailor your diet plan based on current health needs.,pat12,doc3,diet12,03-06-2025,pending,medium,2025-06-25T07:45:00Z
+task51,Start morning meditation,Practice 10 minutes of guided meditation each morning to reduce anxiety.,pat4,doc6,null,04-06-2025,completed,low,2025-06-26T08:00:00Z
+task52,Attend physical therapy session,Complete your weekly physical therapy session to improve mobility.,pat5,doc3,null,05-06-2025,completed,high,2025-06-27T09:30:00Z
+task53,Review heart health diet,Follow the low-sodium and heart-healthy diet recommendations and log your meals.,pat6,doc3,diet6,06-06-2025,completed,medium,2025-06-27T10:00:00Z
+task54,Monitor blood sugar levels,Check and record fasting and postprandial glucose levels daily for one week.,pat3,doc2,null,06-06-2025,completed,high,2025-06-28T08:30:00Z
+task55,Complete strength and endurance workout,Perform your prescribed strength and endurance exercises as scheduled.,pat10,doc3,workout10,06-06-2025,pending,medium,2025-06-29T07:00:00Z
+task56,Attend mental wellness seminar,Participate in the scheduled seminar to learn stress management techniques.,pat1,doc6,null,06-06-2025,pending,low,2025-06-30T08:45:00Z
+task57,Log hydration levels,Track your daily water intake to ensure adequate hydration.,pat12,doc3,null,06-06-2025,pending,medium,2025-06-01T09:00:00Z
+task58,Prepare for upcoming blood tests,Follow fasting instructions and prepare for the scheduled blood test appointment.,pat7,doc1,null,11-06-2025,pending,high,2025-06-01T10:15:00Z
+task59,Complete weekly yoga session,Join the group yoga class focusing on flexibility and relaxation.,pat8,doc1,workout8,12-06-2025,pending,low,2025-06-02T08:00:00Z
+task60,Track symptoms daily,Maintain a daily log of symptoms to assist in diagnosis and treatment adjustments.,pat9,doc5,null,13-06-2025,pending,medium,2025-06-02T09:45:00Z
+task61,Follow post-surgery care instructions,Adhere to wound care and medication schedule after surgery to promote healing.,pat5,doc3,null,14-06-2025,completed,high,2025-06-03T07:30:00Z
+task62,Attend nutrition follow-up,Review your current diet plan with the nutritionist and make necessary adjustments.,pat11,doc2,diet11,15-06-2025,completed,medium,2025-06-04T08:15:00Z
+task63,Practice breathing exercises,Perform daily breathing techniques to improve lung capacity and reduce stress.,pat4,doc6,null,16-06-2025,completed,low,2025-06-04T09:00:00Z
+task64,Schedule cardiology check-up,Book an appointment with the cardiologist for routine heart health monitoring.,pat6,doc3,null,17-06-2025,completed,high,2025-06-05T10:30:00Z
+task65,Maintain sleep hygiene,Follow recommended bedtime routine to improve quality and duration of sleep.,pat1,doc6,null,18-06-2025,completed,medium,2025-06-05T08:00:00Z
+task66,Log daily physical activity,Record all physical activities and exercises performed throughout the day.,pat2,doc1,null,19-06-2025,completed,medium,2025-06-06T09:15:00Z
+task67,Complete balance training exercises,Perform balance exercises daily to improve stability and reduce fall risk.,pat9,doc5,workout9,20-06-2025,completed,medium,2025-06-06T07:45:00Z
+task68,Attend dermatology appointment,Consult dermatologist regarding skin rash and follow prescribed treatment.,pat8,doc1,null,21-06-2025,pending,high,2025-06-06T08:30:00Z
+task69,Maintain medication schedule,Take medications as prescribed and report any missed doses or side effects.,pat7,doc1,null,22-06-2025,pending,high,2025-06-06T09:00:00Z
+task70,Participate in weight management program,Join weekly sessions aimed at achieving a healthy weight through diet and exercise.,pat10,doc3,null,23-06-2025,pending,medium,2025-06-06T10:00:00Z
+task71,Prepare questions for next appointment,Write down any health concerns or questions to discuss with your healthcare provider.,pat12,doc3,null,24-06-2025,pending,low,2025-06-06T08:15:00Z
+task72,Follow prescribed low-carb diet,Adhere to the low-carbohydrate diet plan to manage blood sugar levels.,pat3,doc2,diet3,25-06-2025,pending,medium,2025-06-06T07:30:00Z
+task73,Complete respiratory therapy exercises,Perform daily breathing and lung expansion exercises as instructed.,pat11,doc6,null,26-06-2025,pending,medium,2025-06-06T09:00:00Z
+task74,Attend follow-up for thyroid management,Consult endocrinologist to review thyroid function tests and medication.,pat7,doc1,null,27-06-2025,completed,high,2025-06-06T08:45:00Z
+task75,Record daily mood,Track mood changes daily to assist mental health monitoring.,pat1,doc6,null,28-06-2025,completed,medium,2025-06-06T09:30:00Z
+task76,Practice daily stretching routine,Complete prescribed stretching exercises to improve flexibility and reduce stiffness.,pat5,doc3,workout5,29-06-2025,completed,medium,2025-06-11T07:00:00Z
+task77,Monitor and report headaches,Keep a log of headache frequency and intensity to discuss in your next visit.,pat9,doc5,null,30-06-2025,completed,high,2025-06-11T08:00:00Z
+task78,Attend vaccination appointment,Receive scheduled vaccine as per immunization plan.,pat2,doc2,null,30-06-2025,completed,high,2025-06-12T10:15:00Z
+task79,Complete low-impact aerobic exercises,Engage in low-impact aerobic workouts to support cardiovascular health.,pat6,doc3,workout6,01-06-2025,completed,medium,2025-06-12T07:45:00Z
+task80,Prepare medication refill request,Check current medication supply and submit a refill request before running out.,pat10,doc3,null,02-06-2025,completed,high,2025-06-13T08:30:00Z
+task81,Attend diabetes education session,Join the upcoming session to learn about managing diabetes through diet and lifestyle.,pat3,doc2,null,03-06-2025,completed,medium,2025-06-14T09:00:00Z
+task82,Complete morning jog routine,Perform a 30-minute jog every morning as part of the cardiovascular fitness plan.,pat9,doc5,workout9,04-06-2025,completed,medium,2025-06-14T07:30:00Z
+task83,Maintain food diary,Record all meals and snacks consumed daily to monitor nutritional intake.,pat12,doc3,null,05-06-2025,completed,low,2025-06-15T08:45:00Z
+task84,Schedule eye examination,Book an appointment for a comprehensive eye exam to monitor vision health.,pat6,doc3,null,06-06-2025,completed,high,2025-06-15T09:15:00Z
+task85,Attend group counseling session,Participate in the scheduled counseling group to support mental health and wellbeing.,pat1,doc6,null,06-06-2025,completed,medium,2025-06-16T08:00:00Z
+task86,Practice joint mobility exercises,Perform daily exercises to improve joint flexibility and reduce stiffness.,pat5,doc3,workout5,06-06-2025,completed,medium,2025-06-16T07:30:00Z
+task87,Monitor blood pressure,Record your blood pressure readings twice daily and report abnormal values.,pat7,doc1,null,06-06-2025,completed,high,2025-06-17T08:15:00Z
+task88,Attend scheduled vaccination booster,Receive the booster dose as per your vaccination schedule for continued immunity.,pat2,doc2,null,06-06-2025,pending,high,2025-06-17T09:00:00Z
+task89,Complete guided relaxation exercises,Practice daily relaxation techniques to manage stress and improve sleep quality.,pat4,doc6,null,11-06-2025,pending,low,2025-06-18T07:45:00Z
+task90,Follow gluten-free diet plan,Adhere strictly to the gluten-free diet to manage celiac disease symptoms.,pat11,doc2,diet11,12-06-2025,pending,medium,2025-06-18T08:30:00Z
+task91,Attend sleep disorder consultation,Consult with the sleep specialist to address ongoing sleep issues.,pat1,doc6,null,13-06-2025,pending,high,2025-06-19T09:15:00Z
+task92,Complete prescribed hydration plan,Ensure daily fluid intake meets recommended levels to prevent dehydration.,pat12,doc3,null,14-06-2025,pending,medium,2025-06-19T08:00:00Z
+task93,Practice stress management techniques,Use mindfulness and deep breathing exercises daily to reduce anxiety.,pat4,doc6,null,15-06-2025,pending,low,2025-06-20T07:30:00Z
+task94,Attend follow-up for respiratory therapy,Review progress with respiratory therapist and adjust exercises as needed.,pat11,doc6,null,16-06-2025,pending,medium,2025-06-20T09:00:00Z
+task95,Log headache occurrences,"Maintain a headache diary noting frequency, intensity, and triggers.",pat9,doc5,null,17-06-2025,pending,high,2025-06-21T08:45:00Z
+task96,Review and update emergency contacts,Ensure all emergency contact details are current and accessible.,pat10,doc3,null,18-06-2025,pending,low,2025-06-21T07:15:00Z
+task97,Complete pelvic floor exercises,Perform daily pelvic floor muscle training as advised by your therapist.,pat5,doc3,workout5,19-06-2025,pending,medium,2025-06-22T08:00:00Z
+task98,Schedule annual physical exam,Book appointment for yearly health check-up including lab tests and screenings.,pat7,doc1,null,20-06-2025,pending,high,2025-06-22T09:30:00Z
+task99,Maintain daily exercise log,Record details of exercises completed each day including duration and intensity.,pat2,doc1,null,21-06-2025,pending,medium,2025-06-23T07:45:00Z
+task100,Attend dietary counseling,Meet with dietitian to review and optimize your meal plan.,pat6,doc3,diet6,22-06-2025,pending,medium,2025-06-23T08:30:00Z
+task101,Practice mindfulness meditation,Complete daily mindfulness meditation sessions to enhance mental clarity.,pat1,doc6,null,23-06-2025,completed,low,2025-06-24T07:00:00Z
+task102,Track weight daily,Record your weight each morning to monitor progress towards goals.,pat10,doc3,null,24-06-2025,completed,medium,2025-06-24T08:00:00Z
+task103,Attend pulmonary function test,Undergo scheduled pulmonary testing to assess lung capacity and function.,pat4,doc6,null,25-06-2025,completed,high,2025-06-25T09:15:00Z
+task104,Follow heart-healthy diet,Maintain a diet low in saturated fats and high in fruits and vegetables.,pat6,doc3,diet6,26-06-2025,completed,medium,2025-06-25T07:30:00Z
+task105,Practice daily stretching,Perform stretching exercises each morning to improve flexibility and reduce injury risk.,pat5,doc3,workout5,27-06-2025,completed,medium,2025-06-26T08:00:00Z
+task106,Attend scheduled ophthalmology exam,Get a comprehensive eye exam to monitor vision and eye health.,pat8,doc1,null,28-06-2025,completed,high,2025-06-26T09:45:00Z
+task107,Maintain symptom journal,Log daily symptoms including intensity and triggers for better diagnosis.,pat9,doc5,null,29-06-2025,pending,medium,2025-06-27T07:30:00Z
+task108,Follow prescribed medication regimen,Take all medications as prescribed and report any side effects promptly.,pat7,doc1,null,30-06-2025,completed,high,2025-06-27T08:15:00Z
+task109,Complete weight-bearing exercises,Perform exercises to increase bone density and improve balance.,pat10,doc3,workout10,30-06-2025,pending,medium,2025-06-28T07:45:00Z
+task110,Schedule dental cleaning appointment,Book a dental visit for routine cleaning and oral health check.,pat12,doc3,null,01-06-2025,completed,low,2025-06-28T09:00:00Z
+task111,Attend nutritional workshop,Participate in the workshop focused on healthy eating habits and meal preparation.,pat3,doc2,null,02-06-2025,completed,medium,2025-06-29T08:00:00Z
+task112,Complete strength training exercises,Follow the prescribed strength training routine to improve muscle tone.,pat5,doc3,workout5,03-06-2025,pending,medium,2025-06-29T07:30:00Z
+task113,Schedule cardiology follow-up,Book an appointment with the cardiologist to review heart health and medications.,pat6,doc1,null,04-06-2025,pending,high,2025-06-30T09:15:00Z
+task114,Track daily water intake,Log the amount of water consumed daily to maintain proper hydration.,pat9,doc5,null,05-06-2025,pending,low,2025-06-30T08:00:00Z
+task115,Practice balance exercises,Perform balance-enhancing exercises daily to reduce risk of falls.,pat10,doc3,workout10,06-06-2025,pending,medium,2025-06-30T07:45:00Z
+task116,Attend stress management counseling,Participate in sessions aimed at developing coping strategies for stress.,pat1,doc6,null,06-06-2025,completed,medium,2025-06-30T09:00:00Z
+task117,Follow anti-inflammatory diet plan,Maintain the diet plan to reduce inflammation and improve joint health.,pat11,doc2,diet11,06-06-2025,pending,medium,2025-06-01T08:30:00Z
+task118,Complete weekly blood sugar log,Record daily blood sugar levels and report the weekly summary.,pat3,doc2,null,06-06-2025,pending,high,2025-06-01T09:15:00Z
+task119,Attend physical therapy session,Join scheduled therapy to improve mobility after recent injury.,pat7,doc1,workout7,06-06-2025,pending,high,2025-06-02T07:30:00Z
+task120,Practice deep breathing exercises,Perform daily breathing exercises to enhance lung capacity and relaxation.,pat4,doc6,null,11-06-2025,pending,low,2025-06-02T08:00:00Z
+task121,Schedule dermatology consultation,Book appointment for skin check-up and treatment plan discussion.,pat12,doc3,null,12-06-2025,pending,medium,2025-06-03T09:00:00Z
+task122,Maintain exercise consistency log,Track adherence to prescribed workout routines daily.,pat2,doc1,null,13-06-2025,pending,medium,2025-06-03T07:30:00Z
+task123,Complete pre-op assessment,Undergo all required assessments prior to scheduled surgery.,pat6,doc3,null,14-06-2025,completed,high,2025-06-04T08:45:00Z
+task124,Attend smoking cessation program,Join weekly sessions to assist with quitting smoking habit.,pat8,doc1,null,15-06-2025,pending,high,2025-06-04T09:30:00Z
+task125,Practice daily joint mobility exercises,Complete exercises to enhance joint flexibility and reduce pain.,pat5,doc3,workout5,16-06-2025,pending,medium,2025-06-05T07:45:00Z
+task126,Monitor and log migraine triggers,Record possible triggers and symptoms associated with migraine episodes.,pat9,doc5,null,17-06-2025,pending,high,2025-06-05T08:15:00Z
+task127,Attend scheduled vaccination appointment,Receive the next vaccine dose as per immunization schedule.,pat10,doc2,null,18-06-2025,pending,high,2025-06-06T09:00:00Z
+task128,Complete daily post-surgery exercises,Follow prescribed exercises to aid recovery after surgery.,pat7,doc1,workout7,19-06-2025,pending,high,2025-06-06T07:30:00Z
+task129,Attend sleep hygiene counseling,Learn techniques to improve sleep quality and establish healthy routines.,pat4,doc6,null,20-06-2025,completed,medium,2025-06-06T08:45:00Z
+task130,Follow low sodium diet plan,Maintain a diet low in sodium to manage hypertension.,pat11,doc2,diet11,21-06-2025,pending,medium,2025-06-06T09:30:00Z
+task131,Schedule routine blood tests,Book appointment for regular blood work to monitor health markers.,pat3,doc2,null,22-06-2025,pending,high,2025-06-06T08:00:00Z
+task132,Attend physiotherapy for back pain,Participate in sessions focused on alleviating chronic back pain.,pat6,doc3,workout6,23-06-2025,pending,medium,2025-06-06T07:30:00Z
+task133,Maintain medication adherence log,Record all medication doses taken to ensure proper adherence.,pat7,doc1,null,24-06-2025,pending,high,2025-06-06T09:15:00Z
+task134,Complete morning stretching routine,Perform daily stretching to improve flexibility and reduce stiffness.,pat5,doc3,workout5,25-06-2025,completed,medium,2025-06-06T08:00:00Z
+task135,Attend dental check-up,Schedule a dental visit for routine cleaning and cavity check.,pat12,doc3,null,26-06-2025,pending,low,2025-06-06T07:30:00Z
+task136,Practice daily meditation,Complete meditation sessions to reduce stress and improve focus.,pat1,doc6,null,27-06-2025,pending,low,2025-06-06T08:15:00Z
+task137,Track daily weight,Log body weight every morning to monitor changes over time.,pat10,doc3,null,28-06-2025,pending,medium,2025-06-11T07:45:00Z
+task138,Attend pulmonary rehab session,Join rehabilitation exercises designed to improve lung function.,pat4,doc6,null,29-06-2025,pending,medium,2025-06-11T09:00:00Z
+task139,Follow heart-healthy eating plan,Maintain a diet low in saturated fats and rich in fruits and vegetables.,pat6,doc3,diet6,30-06-2025,pending,medium,2025-06-12T08:30:00Z
+task140,Complete daily yoga practice,Perform yoga sessions daily to enhance flexibility and reduce stress.,pat5,doc3,workout5,01-06-2025,completed,medium,2025-06-12T07:15:00Z
+task141,Schedule eye health screening,Book a comprehensive vision screening appointment.,pat8,doc1,null,02-06-2025,pending,high,2025-06-13T09:45:00Z
+task142,Maintain symptom tracking journal,Record daily health symptoms and note any changes or patterns.,pat9,doc5,null,03-06-2025,pending,medium,2025-06-13T08:00:00Z
+task143,Follow prescribed medication schedule,Take all medications on time as per doctor’s instructions.,pat7,doc1,null,04-06-2025,pending,high,2025-06-14T07:30:00Z
+task144,Complete bone-strengthening exercises,Perform exercises to increase bone density and improve balance.,pat10,doc3,workout10,05-06-2025,pending,medium,2025-06-14T08:15:00Z
+task145,Schedule routine dental cleaning,Arrange a dental appointment for routine cleaning and oral examination.,pat12,doc3,null,06-06-2025,pending,low,2025-06-15T09:00:00Z
+task146,Practice mindfulness daily,Complete mindfulness exercises to improve mental well-being.,pat1,doc6,null,06-06-2025,completed,low,2025-06-15T08:30:00Z
+task147,Track daily body weight,Record your weight each day to monitor health and fitness goals.,pat10,doc3,null,06-06-2025,completed,medium,2025-06-16T07:00:00Z
+task148,Attend pulmonary rehabilitation session,Join sessions to improve respiratory function and overall endurance.,pat4,doc6,null,06-06-2025,completed,medium,2025-06-16T08:15:00Z
+task149,Follow heart-healthy diet plan,"Continue with diet emphasizing fruits, vegetables, and lean proteins.",pat6,doc3,diet6,06-06-2025,pending,medium,2025-06-17T07:45:00Z
+task150,Complete daily yoga routine,Perform yoga sessions focusing on flexibility and stress relief.,pat5,doc3,workout5,11-06-2025,pending,medium,2025-06-17T08:30:00Z
+task151,Blood glucose monitoring,Record fasting and post-meal blood glucose levels daily.,pat13,doc2,null,15-06-2025,pending,high,2025-06-05T09:00:00Z
+task152,Attend telehealth consultation,Join your scheduled virtual appointment with Dr. Smith.,pat14,doc1,null,12-06-2025,pending,medium,2025-06-03T11:00:00Z
+task153,Daily stretching for back pain,Perform exercises to alleviate lower back discomfort.,pat15,doc3,workout15,16-06-2025,pending,medium,2025-06-06T10:00:00Z
+task154,Log water intake,Track daily water consumption to ensure adequate hydration.,pat16,doc6,null,13-06-2025,completed,low,2025-06-04T09:30:00Z
+task155,Review medication dosage,Discuss current medication effectiveness and potential adjustments.,pat17,doc5,med17,11-06-2025,pending,high,2025-06-06T08:00:00Z
+task156,Gentle cardio workout,Complete a 20-minute low-impact cardio session.,pat18,doc3,workout18,14-06-2025,pending,medium,2025-06-06T09:00:00Z
+task157,Journal sleep patterns,"Record bedtime, wake time, and sleep quality daily.",pat19,doc2,null,17-06-2025,pending,low,2025-06-06T08:30:00Z
+task158,Upload recent lab results,Submit your latest blood test results to the portal.,pat20,doc1,null,06-06-2025,completed,high,2025-06-01T10:00:00Z
+task159,Follow anti-reflux diet,Adhere to the prescribed diet to manage acid reflux symptoms.,pat21,doc5,diet21,18-06-2025,completed,medium,2025-06-06T07:00:00Z
+task160,Mindfulness exercises,Practice 10 minutes of mindfulness daily to reduce stress.,pat22,doc6,null,15-06-2025,completed,low,2025-06-06T09:15:00Z
+task161,Post-op wound care,Clean and dress surgical wound as instructed by the nurse.,pat23,doc3,null,12-06-2025,completed,high,2025-06-06T08:45:00Z
+task162,Daily vitamin intake,Ensure consistent intake of prescribed vitamins.,pat24,doc2,med24,14-06-2025,completed,low,2025-06-06T09:00:00Z
+task163,Monitor swelling,Track and report any changes in swelling of the affected joint.,pat25,doc1,null,16-06-2025,completed,medium,2025-06-06T10:30:00Z
+task164,Attend physical therapy for shoulder,Participate in exercises to improve shoulder mobility.,pat26,doc3,workout26,19-06-2025,completed,high,2025-06-06T08:00:00Z
+task165,Consult nutritionist for meal plan,Discuss personalized meal strategies for weight management.,pat27,doc5,diet27,20-06-2025,completed,medium,2025-06-11T09:00:00Z
+task166,Track blood pressure at home,Measure and log blood pressure readings twice daily.,pat28,doc6,null,17-06-2025,completed,high,2025-06-06T07:30:00Z
+task167,Review pain medication effectiveness,Assess if current pain medication is providing adequate relief.,pat29,doc1,med29,15-06-2025,completed,medium,2025-06-06T10:00:00Z
+task168,Attend online yoga class,Join the virtual yoga session for flexibility and relaxation.,pat30,doc3,workout30,18-06-2025,completed,low,2025-06-06T09:30:00Z
+task169,Log food allergies reactions,Record any adverse reactions to food and symptoms experienced.,pat31,doc2,null,21-06-2025,completed,medium,2025-06-12T08:00:00Z
+task170,Schedule dermatology follow-up,Book an appointment to review skin condition and treatment plan.,pat32,doc5,null,22-06-2025,completed,high,2025-06-13T09:00:00Z
+task171,Daily respiratory exercises,Perform prescribed breathing exercises for lung health.,pat33,doc6,workout33,19-06-2025,completed,medium,2025-06-06T07:45:00Z
+task172,Monitor side effects of new medication,Observe and log any new symptoms after starting the medication.,pat34,doc1,med34,20-06-2025,completed,high,2025-06-11T10:00:00Z
+task173,Begin strength training for core,Start exercises to strengthen core muscles as advised.,pat35,doc3,workout35,23-06-2025,completed,medium,2025-06-14T08:30:00Z
+task174,Track calorie intake,Log all meals and snacks to manage daily calorie consumption.,pat36,doc2,null,24-06-2025,completed,low,2025-06-15T09:00:00Z
+task175,Prepare for pre-surgery consultation,Gather all necessary documents and questions for the consultation.,pat37,doc5,null,25-06-2025,completed,high,2025-06-16T10:00:00Z
+task176,Attend weekly meditation group,Join the group meditation session for stress relief.,pat38,doc6,null,26-06-2025,completed,low,2025-06-17T07:00:00Z
+task177,Schedule general check-up,Book a routine annual check-up with your general physician.,pat39,doc1,null,27-06-2025,pending,medium,2025-06-18T08:00:00Z
+task178,Perform daily flexibility routine,Complete gentle stretches to improve overall flexibility.,pat40,doc3,workout40,28-06-2025,pending,medium,2025-06-19T09:00:00Z
+task179,Review lab results with doctor,Discuss the latest blood test and imaging results with your physician.,pat13,doc2,null,20-06-2025,pending,high,2025-06-06T10:00:00Z
+task180,Follow heart-healthy meal plan,Adhere to the prescribed diet for cardiovascular health.,pat14,doc1,diet14,21-06-2025,pending,medium,2025-06-11T09:30:00Z
+task181,Physical therapy for knee recovery,Attend sessions to regain strength and mobility in the knee.,pat15,doc3,workout15,22-06-2025,pending,high,2025-06-12T08:00:00Z
+task182,Log daily mood and energy levels,Track emotional state and overall energy throughout the day.,pat16,doc6,null,23-06-2025,pending,low,2025-06-13T09:00:00Z
+task183,Update medication list,Provide an updated list of all current medications and supplements.,pat17,doc5,null,24-06-2025,pending,medium,2025-06-14T10:00:00Z
+task184,Moderate intensity walk,Complete a 45-minute brisk walk daily.,pat18,doc3,workout18,25-06-2025,pending,medium,2025-06-15T07:30:00Z
+task185,Sleep study follow-up,Discuss results of the sleep study and treatment options.,pat19,doc2,null,26-06-2025,pending,high,2025-06-16T09:00:00Z
+task186,Annual physical examination,Attend your yearly comprehensive health check-up.,pat20,doc1,null,27-06-2025,completed,high,2025-06-17T08:00:00Z
+task187,Dietary tracking for acid reflux,Log foods consumed and note any reflux symptoms after meals.,pat21,doc5,diet21,28-06-2025,completed,medium,2025-06-18T07:45:00Z
+task188,Guided meditation practice,Listen to a 15-minute guided meditation daily.,pat22,doc6,null,29-06-2025,completed,low,2025-06-19T08:30:00Z
+task189,Post-surgery physiotherapy,Continue physical therapy sessions to restore function post-surgery.,pat23,doc3,null,30-06-2025,completed,high,2025-06-20T09:00:00Z
+task190,Medication adherence check,Confirm consistent intake of daily prescribed medications.,pat24,doc2,null,01-06-2025,completed,medium,2025-06-21T10:00:00Z
+task191,Report joint pain levels,Log daily pain intensity and duration for joint discomfort.,pat25,doc1,null,02-06-2025,completed,medium,2025-06-22T08:00:00Z
+task192,Therapeutic exercises for shoulder,Perform specific exercises to improve range of motion and strength.,pat26,doc3,workout26,03-06-2025,completed,medium,2025-06-23T07:30:00Z
+task193,Dietary review and adjustments,Meet with dietitian to assess current diet and make necessary changes.,pat27,doc5,diet27,04-06-2025,completed,high,2025-06-24T09:00:00Z
+task194,Home blood pressure monitoring,Continue logging blood pressure readings and look for patterns.,pat28,doc6,null,05-06-2025,completed,high,2025-06-25T08:15:00Z
+task195,Pain management consultation,Discuss ongoing pain with specialist and explore new treatment options.,pat29,doc1,null,06-06-2025,completed,high,2025-06-26T10:00:00Z
+task196,Advanced yoga poses practice,Attempt more challenging yoga poses under supervision.,pat30,doc3,workout30,06-06-2025,completed,medium,2025-06-27T08:30:00Z
+task197,Food intolerance testing,Schedule and complete tests to identify potential food intolerances.,pat31,doc2,null,06-06-2025,pending,high,2025-06-28T09:00:00Z
+task198,Skin condition progress check,Monitor improvement or changes in skin condition and report to doctor.,pat32,doc5,null,06-06-2025,pending,medium,2025-06-29T07:00:00Z
+task199,Pulmonary rehabilitation session,Attend your scheduled session to improve lung function and endurance.,pat33,doc6,workout33,06-06-2025,pending,high,2025-06-30T08:45:00Z
+task200,Medication effectiveness review,Assess impact of current medications on symptoms and overall health.,pat34,doc1,med34,11-06-2025,pending,medium,2025-06-01T09:15:00Z
+task201,Core strengthening exercises,Continue with daily core exercises to build stability.,pat35,doc3,workout35,12-06-2025,pending,medium,2025-06-02T07:30:00Z
+task202,Nutrition log review,Submit your weekly nutrition log for dietitian review.,pat36,doc2,null,13-06-2025,pending,low,2025-06-03T08:00:00Z
+task203,Post-surgery follow-up appointment,Attend your scheduled consultation to evaluate recovery progress.,pat37,doc5,null,14-06-2025,completed,high,2025-06-04T09:00:00Z
+task204,Stress reduction techniques,Practice deep breathing and progressive muscle relaxation daily.,pat38,doc6,null,15-06-2025,completed,medium,2025-06-05T07:45:00Z
+task205,Blood work for routine check-up,Complete all required blood tests as part of your annual check-up.,pat39,doc1,null,16-06-2025,completed,high,2025-06-06T10:00:00Z
+task206,Yoga for flexibility and balance,Attend yoga sessions focused on improving flexibility and balance.,pat40,doc3,workout40,17-06-2025,completed,medium,2025-06-06T08:30:00Z
+task207,Monitor cholesterol levels,Check cholesterol levels as advised by your doctor and report any changes.,pat13,doc2,null,18-06-2025,completed,high,2025-06-06T09:00:00Z
+task208,Prepare questions for next consultation,List any health concerns or questions for your upcoming doctor's appointment.,pat14,doc1,null,19-06-2025,completed,low,2025-06-06T07:30:00Z
+task209,Post-op wound healing monitoring,Observe wound daily for signs of infection or complications.,pat15,doc3,null,20-06-2025,completed,high,2025-06-06T08:45:00Z
+task210,Daily mood tracking,Record your mood daily to monitor mental well-being.,pat16,doc6,null,21-06-2025,completed,medium,2025-06-11T09:15:00Z
+task211,Medication side effects logging,Document any new or persistent side effects from your medications.,pat17,doc5,null,22-06-2025,completed,medium,2025-06-12T10:00:00Z
+task212,Low-impact exercise routine,Follow a daily low-impact exercise regimen for joint health.,pat18,doc3,workout18,23-06-2025,completed,medium,2025-06-13T07:00:00Z
+task213,Sleep hygiene practice,Implement strategies to improve sleep quality and duration.,pat19,doc2,null,24-06-2025,completed,low,2025-06-14T08:15:00Z
+task214,Follow up on annual check-up results,Discuss the outcomes of your annual physical and lab tests with your doctor.,pat20,doc1,null,25-06-2025,completed,high,2025-06-15T09:00:00Z
+task215,Acid reflux symptom log,Keep a detailed log of acid reflux symptoms and triggers.,pat21,doc5,null,26-06-2025,completed,medium,2025-06-16T07:45:00Z
+task216,Mindfulness and breathing exercises,Practice mindfulness and deep breathing for stress reduction.,pat22,doc6,null,27-06-2025,completed,low,2025-06-17T08:30:00Z
+task217,Physiotherapy for recovery,Attend all scheduled physical therapy sessions for comprehensive recovery.,pat23,doc3,null,28-06-2025,pending,high,2025-06-18T09:00:00Z
+task218,Vitamin and supplement check-in,Confirm consistent intake of prescribed vitamins and supplements.,pat24,doc2,null,29-06-2025,pending,medium,2025-06-19T10:00:00Z
+task219,Monitor swelling and inflammation,Track changes in swelling and inflammation daily.,pat25,doc1,null,30-06-2025,pending,medium,2025-06-20T08:00:00Z
+task220,Shoulder rehabilitation exercises,Perform prescribed exercises for shoulder strength and mobility.,pat26,doc3,workout26,30-06-2025,completed,medium,2025-06-21T07:30:00Z
+task221,Weight management consultation,Consult with nutritionist for personalized weight management strategies.,pat27,doc5,diet27,01-06-2025,pending,high,2025-06-22T09:00:00Z
+task222,Blood pressure monitoring and log,Continue daily blood pressure monitoring and record readings.,pat28,doc6,null,02-06-2025,completed,high,2025-06-23T08:15:00Z
+task223,Pain level assessment,Log daily pain levels to assess the effectiveness of pain management.,pat29,doc1,null,03-06-2025,pending,medium,2025-06-24T10:00:00Z
+task224,Yoga for stress relief,Engage in daily yoga sessions to manage stress and improve well-being.,pat30,doc3,workout30,04-06-2025,completed,low,2025-06-25T08:30:00Z
+task225,Food sensitivity diet adherence,Strictly follow the diet plan to identify and manage food sensitivities.,pat31,doc2,null,05-06-2025,pending,medium,2025-06-26T09:00:00Z
+task226,Dermatology treatment review,Consult with dermatologist to review progress and adjust treatment plan.,pat32,doc5,null,06-06-2025,completed,high,2025-06-27T07:00:00Z
+task227,Breathing exercises for lung health,Perform prescribed breathing exercises to improve lung capacity.,pat33,doc6,workout33,06-06-2025,pending,medium,2025-06-28T08:45:00Z
+task228,Medication symptom tracking,Monitor and log any symptoms related to new or ongoing medications.,pat34,doc1,null,06-06-2025,pending,medium,2025-06-29T09:15:00Z
+task229,Core and back strengthening,Continue exercises targeting core and back muscles for stability.,pat35,doc3,workout35,06-06-2025,completed,medium,2025-06-30T07:30:00Z
+task230,Weight monitoring and log,Record daily weight to track progress towards weight management goals.,pat36,doc2,null,06-06-2025,completed,low,2025-06-30T08:00:00Z
+task231,Pre-surgery psychological assessment,Undergo a psychological evaluation prior to scheduled surgery.,pat37,doc5,null,11-06-2025,completed,high,2025-06-01T09:00:00Z
+task232,Relaxation techniques practice,"Practice relaxation exercises, such as progressive muscle relaxation, daily.",pat38,doc6,null,12-06-2025,pending,medium,2025-06-02T07:45:00Z
+task233,Routine follow-up appointment,Attend your scheduled follow-up with your general physician.,pat39,doc1,null,13-06-2025,completed,medium,2025-06-03T08:30:00Z
+task234,Flexibility and mobility exercises,Perform a daily routine of flexibility and mobility exercises.,pat40,doc3,workout40,14-06-2025,pending,medium,2025-06-04T09:00:00Z
+task235,Blood sugar trend analysis,Analyze daily blood sugar logs for trends and report to doctor.,pat13,doc2,null,15-06-2025,completed,high,2025-06-05T07:30:00Z
+task236,Meal planning for heart health,Plan meals based on heart-healthy guidelines for the week.,pat14,doc1,diet14,16-06-2025,pending,medium,2025-06-06T08:00:00Z
+task237,Attend post-operative physiotherapy,Continue with prescribed physical therapy sessions after surgery.,pat15,doc3,null,17-06-2025,pending,high,2025-06-06T09:00:00Z
+task238,Emotional well-being journal,Keep a daily journal to track emotional states and factors influencing them.,pat16,doc6,null,18-06-2025,completed,low,2025-06-06T08:45:00Z
+task239,Medication refill request,Request refills for all ongoing medications at least one week in advance.,pat17,doc5,null,19-06-2025,completed,high,2025-06-06T09:30:00Z
+task240,Daily light exercise,"Engage in light physical activity for 30 minutes daily, such as walking.",pat18,doc3,workout18,20-06-2025,completed,medium,2025-06-06T07:15:00Z
